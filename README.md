@@ -1,7 +1,7 @@
 ### IPTV MALAYSIA (only in MALAYSIA)
 File m3u | Short Link | Remarks
 ------------ | ------------- | -------------
-astro.m3u | https://bit.ly/
+Livetvvodje.m3u | https://bit.ly/39pH77g
 njoi.m3u | https://bit.ly/38OmjDA
 tv.m3u | https://bit.ly/3emGnjh | thanks [@weareblahs](https://github.com/weareblahs/unifi-tv)
 myFreeview.m3u | https://bit.ly/3cKhehd | source : [myklik RTM](https://rtmklik.rtm.gov.my/) </br> source : [tonton](https://www.tonton.com.my/)</br>
