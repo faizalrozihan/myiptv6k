@@ -1,7 +1,7 @@
-#EXTM3U x-tvg-url "https://bit.ly/aqfadtvepg"
+#EXTM3U x-tvg-url="https://bit.ly/aqfadtvepg" url-tvg="https://bit.ly/aqfadtvepg" refresh="1440" max-conn="1" refresh="24"
 
 #EXTINF:-1 tvg-id="CHN" group-title="Live" ch-number="100" tvg-logo="https://aqfadtv.astradamy.com/logos/AqFadLive.png",AqFad Live
-# https://asrazunifi.ddns.net:8443/aqfadlive.m3u8
+https://asrazunifi.ddns.net:8443/aqfadlive.m3u8
 
 #EXTINF:-1 tvg-id="TV1" group-title="myFreeview" ch-number="101" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",101 TV1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -20,9 +20,9 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
 #EXTINF:-1 group-title="Astro" tvg-id="AstroRia" ch-number="104" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroRia.png",104 Astro Ria
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/1004
-# https://linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_ott.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_ott.mpd
 https://linears-playback.astro.com.my/vsg/41G_-Gitcfb71SZqS2-oc-k2bOzWqP4UCMUZJjvjAIHcM=bMDL/dash-wv/jitp-linearwm/1004/default_primary.mpd
-# https://hbogo.skyforever.tk/go2go/ria/index.mpd
+https://hbogo.skyforever.tk/go2go/ria/index.mpd
 
 #EXTINF:-1 group-title="Astro" tvg-id="AstroRia" ch-number="104" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroRia.png",104 Astro Ria (Backup)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -47,7 +47,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2402
 https://linears-playback.astro.com.my/vsg/41gzZ3wN0jQicqe_wa7f46hkV0ecJglj7prHHcNy5RN8I=jDPY/dash-wv/jitp-linearwm/2402/default_primary.mpd
-# https://live.astradamy.com/astro/warna/index.mpd
+https://live.astradamy.com/astro/warna/index.mpd
 
 #EXTINF:-1 tvg-id="AstroWarna" group-title="Astro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Warna.png/revision/latest?cb=20200823172850",107 Astro Warna (Backup)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -57,9 +57,9 @@ https://linears-playback.astro.com.my/vsg/41gzZ3wN0jQicqe_wa7f46hkV0ecJglj7prHHc
 #EXTINF:-1 tvg-id="AstroCitra" group-title="Movies" ch-number="108" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Astro_Citra_Logo_2018.png/revision/latest?cb=20200917121355",108 Astro Citra
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2700
-# http://linearjitp-playback.astro.com.my/dash-wv/linear/2700/default_ott.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2700/default_ott.mpd
 https://linears-playback.astro.com.my/vsg/41gzZ3wN0jQicqe_wa7f46hhhUSAskLpFL6RFORhAC_Ik=GnsT/dash-wv/jitp-linearwm/2700/default_primary.mpd
-# https://live.astradamy.com/astro/citra/index.mpd
+https://live.astradamy.com/astro/citra/index.mpd
 
 #EXTINF:-1 tvg-id="AstroCitra" group-title="Movies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Astro_Citra_Logo_2018.png/revision/latest?cb=20200917121355",108 Astro Citra (Backup)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -152,7 +152,7 @@ https://live.astradamy.com/unifitv/duniasinema/index.mpd
 #EXTINF:-1 tvg-id="ARTMovies" ch-number="129" group-title="Movies" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/42_144.png",129 ART Movies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/1109
-# https://linearjitp-playback.astro.com.my/dash-wv/linear/1109/default.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1109/default.mpd
 
 #EXTINF:-1 group-title="Wireguard Needed" ch-number="141" tvg-id="141" tvg-logo="https://playtv.unifi.com.my:7044/CPS/images/universal/film/logo/201907/20190716/201907160659062937ij.png",141 Pesona HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -268,7 +268,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5016/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2400
 https://linears-playback.astro.com.my/vsg/41_nxifvQd-Nk1Ttoh9Oi6kwbM84oh2Xo9Jek0v8Iww3c=SqBL/dash-wv/jitp-linearwm/2400/default_primary.mpd
-# https://live.astradamy.com/astro/aec/index.mpd
+https://live.astradamy.com/astro/aec/index.mpd
 
 #EXTINF:-1 tvg-id="AstroShuangXing" ch-number="307" group-title="Chinese" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Astro_Shuang_Xing_%282015%29.png/revision/latest?cb=20190106060728",307 Astro Shuang Xing
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -333,9 +333,9 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5009/default_ott.mpd
 #EXTINF:-1 tvg-id="AstroHuaHeeDai" ch-number="333" group-title="Chinese" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/Astro_Hua_Hee_Dai_%282015%29.png/revision/latest/scale-to-width-down/250?cb=20200914130021",333 Astro Hua Hee Dai
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2308
-# http://linearjitp-playback.astro.com.my/dash-wv/linear/2308/default_ott.mpd
-# https://linears-playback.astro.com.my/vsg/41XIhsuiAJb9D_yE1eifHDE3bycgQ7ecBQzq6QxQH48QM=BT3q/dash-wv/jitp-linearwm/2308/default_primary.mpd
-# https://live.astradamy.com/astro/huaheedai/index.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2308/default_ott.mpd
+https://linears-playback.astro.com.my/vsg/41XIhsuiAJb9D_yE1eifHDE3bycgQ7ecBQzq6QxQH48QM=BT3q/dash-wv/jitp-linearwm/2308/default_primary.mpd
+https://live.astradamy.com/astro/huaheedai/index.mpd
 https://onedrive.aqfadtv.xyz/api/raw/?path=/expired.mp4&raw=true
 
 #EXTINF:-1 tvg-id="CCTV4" ch-number="335" group-title="Chinese" tvg-logo="https://user-images.githubusercontent.com/85995579/130944092-ce1ac88b-08ed-4a79-b8c1-4e3b0b6af688.png",335 CCTV4 HD
