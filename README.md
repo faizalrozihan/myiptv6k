@@ -3,8 +3,8 @@ File m3u | Short Link | Remarks
 ------------ | ------------- | -------------
 Livetvvodje.m3u | https://bit.ly/39pH77g
 njoi.m3u | https://bit.ly/38OmjDA
-tv.m3u | https://tinyurl.com/myfreeviewlist| thanks [@weareblahs](https://github.com/weareblahs/unifi-tv)
-myFreeview.m3u | https://bit.ly/3cKhehd | source : [myklik RTM](https://rtmklik.rtm.gov.my/) </br> source : [tonton](https://www.tonton.com.my/)</br>
+tv.m3u | https://tinyurl.com/myfreeviewlist
+myFreeview.m3u | https://bit.ly/3cKhehd
 
 Playlist m3u can be used on :
 * [Tivimate](https://play.google.com/store/apps/details?id=ar.tvplayer.tv)
