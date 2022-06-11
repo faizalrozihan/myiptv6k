@@ -1,4 +1,2183 @@
 #EXTM3U 
+l0
+#EXTINF:-1 type="movie" group-title="Astro First" tvg-logo="https://aqfad.xtgem.com/images/penunggang-agama.jpg",Penunggang Agama
+https://onedrive.astradamy.com/api?path=/Movies/Penunggang.Agama/Penunggang%20Agama%20(2021)%20HDTV%201080p-OMG-Anonymous.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="movie" group-title="Astro First" tvg-logo="https://aqfad.xtgem.com/images/penunggang-agama-2-poster.jpg",Penunggang Agama 2
+# https://www76.sbcdnvideo.com/hls/tysxfzqbb666j6cdabebhxs7fzodsk4q4rnp3rotaa66nhupduxkxltnfpaq/index-v1-a1.m3u8
+https://onedrive.astradamy.com/api?path=/Movies/Penunggang.Agama/Penunggang.Agama.2.2021.1080p.WEB-DL-ms.en-PENCURiMOViE.CYOU.mkv&raw=true&type=file.mp4
+
+#EXTINF:-1 type="movie" group-title="Astro First" tvg-logo="https://aqfad.xtgem.com/images/olympic-dream.png",Olympic Dream
+https://onedrive.astradamy.com/api?path=/Movies/Olympic.Dream.2021.1080p.WEB-DL-ms.en.zh-PENCURiMOViE.CYOU.mkv&raw=true&type=file.mp4
+
+#EXTINF:-1 type="movie" group-title="VOD" tvg-logo="https://aqfadtv.astradamy.com/images/Venom-Let-There-Be-Carnage.png" group-title="VOD" type="movie",Venom: Let There Be Carnage
+https://onedrive-aqfad.vercel.app/api?path=/VOD/Venom.Let.There.Be.Carnage.2021.1080p.WEB-DL-ms.en.id-PENCURiMOViE.CYOU.mkv&raw=true&type=file.mp4
+
+#EXTINF:-1 type="movie" group-title="Astro First" tvg-logo="https://aqfad.xtgem.com/images/on-your-mark-poster.png",On Your Mark
+https://onedrive-aqfad.vercel.app/api?path=/VOD/On.Your.Mark.2021.Chinese.720p.HDRip.Eng.Chi.HardSub-PENCURiMOViE.CYOU.mkv.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="movie" group-title="VOD" tvg-logo="https://aqfadtv.astradamy.com/images/Shang-Chi_and_the_Legend_of_the_Ten_Rings_poster.png",Shang-Chi and the Legend of the Ten Rings
+https://onedrive.astradamy.com/api?path=/Movies/Shang.Chi.and.the.Legend.of.the.Ten.Rings.2021.1080p.BrRip-ms.en-PENCURiMOViE.CYOU.mkv&raw=true&type=file.mp4
+
+#EXTINF:-1 type="movie" group-title="VOD" tvg-logo="https://aqfadtv.astradamy.com/images/NoTimeToDie.png",No Time to Die
+https://onedrive.astradamy.com/api?path=/Movies/No.Time.to.Die.2021/No.Time.to.Die.2021.1080p.WEB-DL-ms.en.id-PENCURiMOViE.CYOU.mkv&raw=true&type=file.mp4
+
+#EXTINF:-1 type="movie" group-title="Apple TV+" tvg-logo="https://aqfadtv.astradamy.com/images/Finch.png",Finch
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Movies/Finch.2021.720p.ATVP.WEB-DL.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="movie" group-title="VOD" tvg-logo="https://aqfadtv.astradamy.com/images/Last-Man-Down.png",Last Man Down
+https://onedrive-aqfad.vercel.app/api?path=/VOD/Last.Man.Down.2021.720p.BRRip-OMG.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="movie" group-title="Astro First" tvg-logo="https://aqfadtv.astradamy.com/images/Kha3nak-Serangan-Pocong-Poster.png",Khaenak : Serangan Pocong
+https://onedrive.astradamy.com/api?path=/Movies/khaenak%20serangan%20pocong%20convert.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="movie" group-title="Astro First" tvg-logo="https://aqfadtv.astradamy.com/images/SiapaTutupLampu.png",Siapa Tutup Lampu?
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Movies/Siapa.Tutup.Lampu.2021.1080p.WEB-DL-ms.en-PENCURiMOViE.CYOU.mkv.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="movie" group-title="Astro First" tvg-logo="https://aqfadtv.astradamy.com/images/Proksi.png",Proksi
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Movies/Proksi.2021.1080p.WEB-DL-ms.en-PENCURiMOViE.CYOU.mkv.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="movie" group-title="VOD" tvg-logo="https://aqfadtv.astradamy.com/images/Eternals.png",Eternals
+https://onedrive.astradamy.com/api?path=/Movies/Marvel's.Eternals.2021/Eternals.2021.IMAX.1080p.DSNP.WEBRip.DDP5.1.Atmos.x264-TEPES.mkv&raw=true&type=file.mp4
+
+#EXTINF:-1 type="movie" group-title="VOD" tvg-logo="https://aqfadtv.astradamy.com/images/SpidermanNoWayHome.jpg",Spiderman: No Way Home
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Movies/Spider-Man%20No%20Way%20Home%20(2022)%20BR%20malaysub.mp4
+
+#EXTINF:-1 type="movie" group-title="Astro First" tvg-logo="https://aqfadtv.astradamy.com/images/GraciasBarcelona.jpg",Gracias Barcelona
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Movies/Gracias.Barcelona.2022.1080p.WEB-DL-ms.en-PENCURiMOViE.ONE.mkv&raw=true&type=file.mp4
+
+#EXTINF:-1 type="movie" group-title="Astro First" tvg-logo="https://aqfadtv.astradamy.com/images/SAYR.png",Siti: Are You Ready (Docu-Film & Concert)
+https://onedrive.astradamy.com/api/raw/?path=/Events/Dato.Sri.Siti.Nurhaliza/Siti.Are.You.Ready.Docu.Film.2021.1080p.WEB-DL-ms.en-PENCURiMOViE.CYOU.mkv
+
+#EXTINF:-1 type="movie" group-title="Astro First" tvg-logo="https://aqfadtv.astradamy.com/images/KPBDK.png",Kampong Pisang Berbuah Dua Kali
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Movies/Kampong%20Pisang%20Berbuah%20Dua%20Kali%20(2022)%201080p%20WEBDL-MARX.mkv
+
+#EXTINF:-1 type="movie" group-title="Astro Citra" tvg-logo="https://aqfadtv.astradamy.com/images/IbuBelumMati.jpg",Ibu Belum Mati
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Movies/Ibu.Belum.Mati.2021.720p.HDTV.AAC.H.264_OMG_5816813194114501242.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="movie" group-title="VOD" tvg-logo="https://aqfadtv.astradamy.com/images/TheKingsMan.png",The Kings Man
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Movies/The%20KingsMan%20(2021)%201080p%20BR%20malaysub..mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="movie" group-title="VOD" tvg-logo="https://aqfadtv.astradamy.com/images/TheAdamProject.jpg",The Adam Project
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Movies/The%20Adam%20Project%20(2022)%201080p%20WEB%20malaysub.mp4
+
+#EXTINF:-1 type="movie" group-title="VOD" tvg-logo="https://aqfadtv.astradamy.com/images/Moonfall.jpg",Moonfall
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Movies/Moonfall.2022.1080p.WEB-OMG.mp4
+
+#EXTINF:-1 type="series" group-title="Moon Knight" tvg-logo="https://aqfadtv.astradamy.com/images/MoonKnight/1.png",Episode 1
+https://aqfadtvonedrive.vercel.app/api/raw/?path=/VOD/Series/Moon-Knight/EP01.mp4
+
+#EXTINF:-1 type="series" group-title="Moon Knight" tvg-logo="https://aqfadtv.astradamy.com/images/MoonKnight/2.png",Episode 2
+https://aqfadtvonedrive.vercel.app/api/raw/?path=/VOD/Series/Moon-Knight/EP02.mp4
+
+#EXTINF:-1 type="series" group-title="Moon Knight" tvg-logo="https://aqfadtv.astradamy.com/images/MoonKnight/3.png",Episode 3
+https://aqfadtvonedrive.vercel.app/api/raw/?path=/VOD/Series/Moon-Knight/EP03.mp4
+
+#EXTINF:-1 tvg-id="CHN" type="series" tvg-logo="https://onedrive.astradamy.com//api?path=%2F%2F0.jpg&raw=true" group-title="Events",Astro 25 Concert
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=eda13a0150d13d38ad4ff33c9f027410&key=bb4dfc03376da3356e55eed3349cf482
+# https://vodejitp-asset-playback.astro.com.my/dash-wv/vode/493f1710-26a3-591a-902c-7a8168b374e2/default_ott.mpd
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Events/Astro25-Concert.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 tvg-id="CHN" ch-number="CHN" tvg-logo="https://linear-poster.astro.com.my/prod/poster/JWRIK_IVP_LAND_672x378.jpg" group-title="VOD",Astro 25 Concert Plus
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=6b27bea55aa0f4b4d9955f7587a30910&key=07350898db92952d15dcd6ef1a956a8a
+https://vodejitp-asset-playback-b.astro.com.my/dash-wv/vode/e192fc4a-9f1e-56ea-ace3-2ce0181a9650/default_ott.mpd
+
+#EXTINF:-1 tvg-id="CHN" type="series" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JXAFI_IVP_LAND_448x252_20211126_82221.jpg" group-title="Maharaja Lawak Mega 2021",Minggu 1
+https://onedrive.astradamy.com/api?path=/TVSeries/Maharaja.Lawak.Mega/2021/Maharaja.Lawak.Mega.2021.Minggu.1.1080p.H264-PENCURiMOViE.CYOU.mkv&raw=true&type=file.mp4
+
+#EXTINF:-1 tvg-id="CHN" type="series" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JXAFJ_IVP_LAND_448x252_20211126_82249.jpg" group-title="Maharaja Lawak Mega 2021",Minggu 2
+https://onedrive.astradamy.com/api?path=/TVSeries/Maharaja.Lawak.Mega/2021/Maharaja.Lawak.Mega.2021.Minggu.2.720p.H264.AAC-PENCURiMOViE.CYOU.mkv&raw=true&type=file.mp4
+
+#EXTINF:-1 tvg-id="CHN" type="series" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JXAFK_IVP_LAND_448x252_20211126_82323.jpg" group-title="Maharaja Lawak Mega 2021",Minggu 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=6cf305b4560c6b6ccfb7d1c7cac96310&key=3fe2e09cf7e1c7e356b6c1bfb9e5bd43
+# https://vodejitp-asset-playback-b.astro.com.my/dash-wv/vode/38f0f4f6-3eae-5b1f-935c-12cfc7deb42d/default_ott.mpd
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Maharaja-Lawak-Mega/2021/Minggu-3.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 tvg-id="CHN" type="series" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JXAFL_IVP_LAND_448x252_20211126_82448.jpg" group-title="Maharaja Lawak Mega 2021",Minggu 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=cd4d21b531275151a6b35f1a85881310&key=123214b8a1fe205b9583505dd5861d57
+# https://vodejitp-asset-playback-b.astro.com.my/dash-wv/vode/37d5e4e0-7749-565f-96a2-a6c663864866/default_ott.mpd
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Maharaja-Lawak-Mega/2021/Minggu-4.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 tvg-id="CHN" type="series" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JXAFI_series_IVP_LAND_672x378_20211013_141054.jpg" group-title="Maharaja Lawak Mega 2021",Minggu 5
+https://onedrive.astradamy.com/api?path=/TVSeries/Maharaja.Lawak.Mega/2021/Maharaja.Lawak.Mega.2021.Minggu.5.1080p.WEB-DL.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 tvg-id="CHN" type="series" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JXAFN_IVP_LAND_448x252_20211126_82524.jpg" group-title="Maharaja Lawak Mega 2021",Minggu 6
+https://onedrive.astradamy.com/api?path=/TVSeries/Maharaja.Lawak.Mega/2021/Maharaja.Lawak.Mega.2021.Minggu.6.1080p-WEB-DL.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 tvg-id="CHN" type="series" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JXAFI_series_IVP_LAND_672x378_20211013_141054.jpg" group-title="Maharaja Lawak Mega 2021",Minggu 7
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=69ba90733d8fb6638f2ced3b196c2d10&key=9ee1c11a762c6da8244ff3ac9b085d72
+# https://vodejitp-asset-playback-b.astro.com.my/dash-wv/vode/a13624b9-7b98-5130-858e-1081ceedb6e3/default_ott.mpd
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Maharaja-Lawak-Mega/2021/Minggu-7.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 tvg-id="CHN" type="series" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JXAFI_series_IVP_LAND_672x378_20211013_141054.jpg" group-title="Maharaja Lawak Mega 2021",Minggu 8
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Maharaja-Lawak-Mega/2021/Minggu-8.mkv&raw=true&type=file.mp4
+
+#EXTINF:-1 tvg-id="CHN" type="series" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JXAFI_series_IVP_LAND_672x378_20211013_141054.jpg" group-title="Maharaja Lawak Mega 2021",Minggu 9
+https://onedrive.astradamy.com/api?path=/TVSeries/Maharaja.Lawak.Mega/2021/Maharaja.Lawak.Mega.2021.Minggu.9.1080p-WEB-DL.mkv&raw=true&type=file.mp4
+
+#EXTINF:-1 tvg-id="CHN" type="series" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JXAFI_series_IVP_LAND_672x378_20211013_141054.jpg" group-title="Maharaja Lawak Mega 2021",Minggu Akhir
+https://onedrive.astradamy.com/api?path=/TVSeries/Maharaja.Lawak.Mega/2021/Maharaja.Lawak.Mega.2021.Minggu.Akhir.1080p.WEB-DL-PENCURiMOViE.CYOU.mkv&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JXDOI_IVP_LAND_448x252_20211125_194523.jpg" group-title="Gegar Vaganza S8",Minggu 1
+https://onedrive.astradamy.com/api?path=/TVSeries/Gegar.Vaganza/S8.2021/GegarVaganzaS8E01.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JXDOJ_IVP_LAND_448x252_2021122_105042.jpg" group-title="Gegar Vaganza S8",Minggu 2
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Gegar_Vaganza/S8/GegarVaganzaS8-Minggu2.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JXDOK_IVP_LAND_432x243_2021127_213926.jpg" group-title="Gegar Vaganza S8",Minggu 3
+https://onedrive.astradamy.com/api?path=/TVSeries/Gegar.Vaganza/S8.2021/Konsert.Gegar.Vaganza.S08E03.1080p.WEB-DL-PENCURiMOViE.CYOU.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JXDOL_IVP_LAND_432x243_20211230_94227.jpg" group-title="Gegar Vaganza S8",Minggu 4
+https://onedrive.astradamy.com/api?path=/TVSeries/Gegar.Vaganza/S8.2021/Konsert.Gegar.Vaganza.S08E04.1080p.WEB-DL-PENCURiMOViE.CYOU.mkv&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JXDOM_IVP_LAND_432x243_20211230_94357.jpg" group-title="Gegar Vaganza S8",Minggu 5
+https://onedrive.astradamy.com/api?path=/TVSeries/Gegar.Vaganza/S8.2021/GegarVaganzaS8E05%40malaydramaz.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JXDON_IVP_LAND_432x243_20211230_9454.jpg" group-title="Gegar Vaganza S8",Minggu 6
+https://onedrive.astradamy.com/api?path=/TVSeries/Gegar.Vaganza/S8.2021/Gegar.Vaganza.S08E06%40malaydramaz.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JXDOO_IVP_LAND_448x252_202228_20489.jpg" group-title="Gegar Vaganza S8",Minggu 7
+https://onedrive.astradamy.com/api?path=/TVSeries/Gegar.Vaganza/S8.2021/Konsert.Gegar.Vaganza.S08E07.1080p.WEB-DL-PENCURiMOViE.CYOU.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JXDOP_IVP_LAND_448x252_202228_204816.jpg" group-title="Gegar Vaganza S8",Minggu 8
+https://onedrive.astradamy.com/api?path=/TVSeries/Gegar.Vaganza/S8.2021/Konsert.Gegar.Vaganza.S08E08.1080p.WEB-DL-PENCURiMOViE.CYOU.mkv&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JXDOQ_IVP_LAND_432x243_2022117_214144.jpg" group-title="Gegar Vaganza S8",Minggu 9
+https://onedrive.astradamy.com/api?path=/TVSeries/Gegar.Vaganza/S8.2021/Gegar.Vaganza.S08E09-Kekwa.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JXDOR_IVP_LAND_432x243_2022124_3571.jpg" group-title="Gegar Vaganza S8",Minggu Akhir
+https://onedrive.astradamy.com/api?path=/TVSeries/Gegar.Vaganza/S8.2021/Gegar.Vaganza.S08E10.1080p.WEB-DL-PENCURiMOViE.CYOU.mkv&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="The Masked Singer Malaysia" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JMUZY_IVP_LAND_432x243_2022120_155413.jpg",S1 Episod 1
+https://onedrive.astradamy.com/api?path=/TVSeries/The.Masked.Singer.Malaysia/S1.2020/The.Masked.Singer.Malaysia.S01E01.WEBDL-%40cap.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="The Masked Singer Malaysia" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JMUZZ_IVP_LAND_432x243_202224_22422.jpg",S1 Episod 2
+https://onedrive.astradamy.com/api?path=/TVSeries/The.Masked.Singer.Malaysia/S1.2020/The.Masked.Singer.Malaysia.S01E02.WEBDL-%40cap.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="The Masked Singer Malaysia" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JMVAA_IVP_LAND_432x243_202222_135411.jpg",S1 Episod 3
+https://onedrive.astradamy.com/api?path=/TVSeries/The.Masked.Singer.Malaysia/S1.2020/The.Masked.Singer.Malaysia.S01E03.WEBDL-%40cap.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="The Masked Singer Malaysia" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JMVAB_IVP_LAND_432x243_202222_135538.jpg",S1 Episod 4
+https://onedrive.astradamy.com/api?path=/TVSeries/The.Masked.Singer.Malaysia/S1.2020/The.Masked.Singer.Malaysia.S01E04.WEBDL-%40cap.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="The Masked Singer Malaysia" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JMVAC_IVP_LAND_432x243_202222_1410.jpg",S1 Episod 5
+https://onedrive.astradamy.com/api?path=/TVSeries/The.Masked.Singer.Malaysia/S1.2020/The.Masked.Singer.Malaysia.S01E05.WEBDL-%40cap.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="The Masked Singer Malaysia" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JMVAD_IVP_LAND_432x243_2022120_155430.jpg",S1 Episod 6
+https://onedrive.astradamy.com/api?path=/TVSeries/The.Masked.Singer.Malaysia/S1.2020/The.Masked.Singer.Malaysia.S01E06.WEBDL-%40cap.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="The Masked Singer Malaysia" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JMVAE_IVP_LAND_432x243_2022120_155433.jpg",S1 Episod 7
+https://onedrive.astradamy.com/api?path=/TVSeries/The.Masked.Singer.Malaysia/S1.2020/The.Masked.Singer.Malaysia.S01E07.WEBDL-%40cap.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="The Masked Singer Malaysia" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JMVAF_IVP_LAND_432x243_2022120_155438.jpg",S1 Episod 8
+https://onedrive.astradamy.com/api?path=/TVSeries/The.Masked.Singer.Malaysia/S1.2020/The.Masked.Singer.Malaysia.S01E08.WEBDL-%40cap.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="The Masked Singer Malaysia" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JZGEO_IVP_LAND_448x252_2022131_18649.jpg",S2 Episod 1
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/The-Masked-Singer-Malaysia/S2/The.Masked.Singer.Malaysia.S02E01.720p.WEB-DL-PENCURiMOViE.ONE.mkv.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="The Masked Singer Malaysia" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JZGEP_IVP_LAND_432x243_202224_73146.jpg",S2 Episod 2
+https://onedrive.astradamy.com/api?path=/TVSeries/The.Masked.Singer.Malaysia/S2.2022/The.Masked.Singer.Malaysia.S02E02-%40cap.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="The Masked Singer Malaysia" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JZGEQ_IVP_LAND_448x252_2022210_73251.jpg",S2 Episod 3
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/The-Masked-Singer-Malaysia/S2/The.Masked.Singer.Malaysia.S02E03.720p.WEB-DL.mkv.mp4
+
+#EXTINF:-1 type="series" group-title="The Masked Singer Malaysia" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JZGER_IVP_LAND_448x252_202234_10325.jpg",S2 Episod 4
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/The-Masked-Singer-Malaysia/S2/The.Masked.Singer.Malaysia.S02E04.720p.WEB-DL.mkv.mp4
+
+#EXTINF:-1 type="series" group-title="The Masked Singer Malaysia" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JZGES_IVP_LAND_448x252_202234_10517.jpg",S2 Episod 5
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/The-Masked-Singer-Malaysia/S2/The.Masked.Singer.Malaysia.S02E05.720p.WEB-DL.mkv.mp4
+
+#EXTINF:-1 type="series" group-title="The Masked Singer Malaysia" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JZGET_IVP_LAND_448x252_202234_133944.jpg",S2 Episod 6
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/The-Masked-Singer-Malaysia/S2/The.Masked.Singer.Malaysia.S02E06.720p.WEB-DL.mkv.mp4
+
+#EXTINF:-1 type="series" group-title="The Masked Singer Malaysia" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JZGEU_IVP_LAND_448x252_2022312_195015.jpg",S2 Episod 7
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/The-Masked-Singer-Malaysia/S2/EP7.mp4
+
+#EXTINF:-1 type="series" group-title="The Masked Singer Malaysia" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JZGEV_IVP_LAND_448x252_2022317_20399.jpg",S2 Episod 8
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/The-Masked-Singer-Malaysia/S2/EP8.mp4
+
+#EXTINF:-1 type="series" group-title="The Masked Singer Malaysia" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JZGEW_IVP_LAND_448x252_2022328_152251.jpg",S2 Episod 9
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/The-Masked-Singer-Malaysia/S2/EP9.mp4
+
+#EXTINF:-1 type="series" group-title="The Masked Singer Malaysia" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JZGEX_IVP_LAND_448x252_2022331_83115.jpg",S2 Episod 10
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/The-Masked-Singer-Malaysia/S2/EP10.mp4
+
+#EXTINF:-1 type="series" group-title="Big Stage S4" group-logo="https://aqfadtv.astradamy.com/images/BigStageS4.jpg" tvg-logo="https://aqfadtv.astradamy.com/images/BigStage/S4/IVP(STB_OTT_STV)_JYGNR_IVP_LAND_448x252_202227_234734.jpg",Minggu 1
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Big-Stage/S4/Minggu1.mp4
+
+#EXTINF:-1 type="series" group-title="Big Stage S4" group-logo="https://aqfadtv.astradamy.com/images/BigStageS4.jpg" tvg-logo="https://aqfadtv.astradamy.com/images/BigStage/S4/IVP(STB_OTT_STV)_JYGNR_IVP_LAND_448x252_202227_234734.jpg",Minggu 2
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Big-Stage/S4/Minggu2.mp4
+
+#EXTINF:-1 type="series" group-title="Big Stage S4" group-logo="https://aqfadtv.astradamy.com/images/BigStageS4.jpg" tvg-logo="https://aqfadtv.astradamy.com/images/BigStage/S4/IVP(STB_OTT_STV)_JYGNR_IVP_LAND_448x252_202227_234734.jpg",Minggu 3
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Big-Stage/S4/Minggu3.mp4
+
+#EXTINF:-1 type="series" group-title="Big Stage S4" group-logo="https://aqfadtv.astradamy.com/images/BigStageS4.jpg" tvg-logo="https://aqfadtv.astradamy.com/images/BigStage/S4/IVP(STB_OTT_STV)_JYGNR_IVP_LAND_448x252_202227_234734.jpg",Minggu 4
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Big-Stage/S4/Minggu4.mp4
+
+#EXTINF:-1 type="series" group-title="Big Stage S4" group-logo="https://aqfadtv.astradamy.com/images/BigStageS4.jpg" tvg-logo="https://aqfadtv.astradamy.com/images/BigStage/S4/IVP(STB_OTT_STV)_JYGNR_IVP_LAND_448x252_202227_234734.jpg",Minggu 5
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Big-Stage/S4/Minggu5.mp4
+
+#EXTINF:-1 type="series" group-title="Big Stage S4" group-logo="https://aqfadtv.astradamy.com/images/BigStageS4.jpg" tvg-logo="https://aqfadtv.astradamy.com/images/BigStage/S4/IVP(STB_OTT_STV)_JYGNR_IVP_LAND_448x252_202227_234734.jpg",Minggu 6
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Big-Stage/S4/Minggu6.mp4
+
+#EXTINF:-1 type="series" group-title="Big Stage S4" group-logo="https://aqfadtv.astradamy.com/images/BigStageS4.jpg" tvg-logo="https://aqfadtv.astradamy.com/images/BigStage/S4/IVP(STB_OTT_STV)_JYGNR_IVP_LAND_448x252_202227_234734.jpg",Minggu 7
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Big-Stage/S4/Minggu7.mp4
+
+#EXTINF:-1 type="series" group-title="Big Stage S4" group-logo="https://aqfadtv.astradamy.com/images/BigStageS4.jpg" tvg-logo="https://aqfadtv.astradamy.com/images/BigStage/S4/IVP(STB_OTT_STV)_JYGNR_IVP_LAND_448x252_202227_234734.jpg",Minggu Akhir
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Big-Stage/S4/Minggu8.mp4
+
+#EXTINF:-1 type="series" group-title="Sepahtu Reunion Live S6" tvg-logo="https://aqfadtv.astradamy.com/images/SepahtuReunionLive/S6/IVP(STB_OTT_STV)_JZGVN_IVP_LAND_448x252_202224_17169.jpg",Episod 1
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Sepahtu-Reunion-Live/S6/EP1.mp4
+
+#EXTINF:-1 type="series" group-title="Sepahtu Reunion Live S6" tvg-logo="https://aqfadtv.astradamy.com/images/SepahtuReunionLive/S6/IVP(STB_OTT_STV)_JZGVO_IVP_LAND_448x252_202224_171329.jpg",Episod 2
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Sepahtu-Reunion-Live/S6/EP2.mp4
+
+#EXTINF:-1 type="series" group-title="Sepahtu Reunion Live S6" tvg-logo="https://aqfadtv.astradamy.com/images/SepahtuReunionLive/S6/IVP(STB_OTT_STV)_JZGVP_IVP_LAND_448x252_2022211_161257.jpg",Episod 3
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Sepahtu-Reunion-Live/S6/EP3.mp4
+
+#EXTINF:-1 type="series" group-title="Sepahtu Reunion Live S6" tvg-logo="https://aqfadtv.astradamy.com/images/SepahtuReunionLive/S6/IVP(STB_OTT_STV)_JZGVQ_IVP_LAND_448x252_2022218_17212.jpg",Episod 4
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Sepahtu-Reunion-Live/S6/EP4.mp4
+
+#EXTINF:-1 type="series" group-title="Sepahtu Reunion Live S6" tvg-logo="https://aqfadtv.astradamy.com/images/SepahtuReunionLive/S6/IVP(STB_OTT_STV)_JZGVR_IVP_LAND_448x252_2022227_9047.jpg",Episod 5
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Sepahtu-Reunion-Live/S6/EP5.mp4
+
+#EXTINF:-1 type="series" group-title="Sepahtu Reunion Live S6" tvg-logo="https://aqfadtv.astradamy.com/images/SepahtuReunionLive/S6/IVP(STB_OTT_STV)_JZGVS_IVP_LAND_448x252_202233_235038.jpg",Episod 6
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Sepahtu-Reunion-Live/S6/EP6.mp4
+
+#EXTINF:-1 type="series" group-title="Sepahtu Reunion Live S6" tvg-logo="https://aqfadtv.astradamy.com/images/SepahtuReunionLive/S6/IVP(STB_OTT_STV)_JZGVT_IVP_LAND_448x252_2022311_4242.jpg",Episod 7
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Sepahtu-Reunion-Live/S6/EP7.mp4
+
+#EXTINF:-1 type="series" group-title="Sepahtu Reunion Live S6" tvg-logo="https://aqfadtv.astradamy.com/images/SepahtuReunionLive/S6/IVP(STB_OTT_STV)_JZGVU_IVP_LAND_448x252_2022318_34150.jpg",Episod 8
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Sepahtu-Reunion-Live/S6/EP8.mp4
+
+#EXTINF:-1 type="series" group-title="Sepahtu Reunion Live S6" tvg-logo="https://aqfadtv.astradamy.com/images/SepahtuReunionLive/S6/IVP(STB_OTT_STV)_JZGVV_IVP_LAND_448x252_2022325_2360.jpg",Episod 9
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Sepahtu-Reunion-Live/S6/EP9.mp4
+
+#EXTINF:-1 tvg-id="CHN" type="series" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JWASS_IVP_LAND_672x378_2021106_75033.jpg" group-title="i-Tanggang",Episod 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=61fde73c28a4a269af2482c1ed36d510&key=426e4692a68362d55afc29341bc07c60
+# https://vodejitp-asset-playback-b.astro.com.my/dash-wv/vode/b76b595f-0a6b-5c84-b4d8-15d3264f3f43/default_ott.mpd
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/i-Tanggang/i-Tanggang-EP1.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 tvg-id="CHN" type="series" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JWAST_IVP_LAND_672x378_20211012_21727.jpg" group-title="i-Tanggang",Episod 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=6e43a600cd02fba1535b38556c79ed10&key=eee1e305bdf0ce7715135c4feabb7c63
+# https://vodejitp-asset-playback-b.astro.com.my/dash-wv/vode/61261e92-81c0-52ec-936d-51618496a237/default_ott.mpd
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/i-Tanggang/i-Tanggang-EP2.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 tvg-id="CHN" type="series" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JWASU_IVP_LAND_672x378_20211012_15446.jpg" group-title="i-Tanggang",Episod 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=c777be6a6fc30e26bc77e37baa3ccf10&key=45aab208ffb96cec650117341bbd7acf
+# https://vodejitp-asset-playback-b.astro.com.my/dash-wv/vode/821f6e7a-c9eb-5828-bc01-f45294372d85/default_ott.mpd
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/i-Tanggang/i-Tanggang-EP3.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 tvg-id="CHN" type="series" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JWASV_IVP_LAND_672x378_2021106_75244.jpg" group-title="i-Tanggang",Episod 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ae2e185c2913a96f77d84a0a9e540510&key=58ad9ab14caec733cd47c128ec85dbb7
+# https://vodejitp-asset-playback.astro.com.my/dash-wv/vode/45e3200a-a10c-5c64-b656-4aa73af6cebd/default_ott.mpd
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/i-Tanggang/i-Tanggang-EP4.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 tvg-id="CHN" type="series" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JWASW_IVP_LAND_672x378_20211012_154442.jpg" group-title="i-Tanggang",Episod 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0b589fcfaae6b4e8459465e01dd49e10&key=aba79af8c889f096ea8fa230b2d5b599
+# https://vodejitp-asset-playback-b.astro.com.my/dash-wv/vode/5d607b04-1aa9-51ca-b3dd-a9c6e858efff/default_ott.mpd
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/i-Tanggang/i-Tanggang-EP5.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 tvg-id="CHN" type="series" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JWASX_IVP_LAND_672x378_20211022_123856.jpg" group-title="i-Tanggang",Episod 6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=20a4702fb46018e84d80e18934ba3810&key=10bf2239066502e4df0d3c377e28e5c3
+# https://vodejitp-asset-playback-b.astro.com.my/dash-wv/vode/9bef2403-f15f-5c42-8ec3-08ce663f1c4f/default_ott.mpd
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/i-Tanggang/i-Tanggang-EP6.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 tvg-id="CHN" type="series" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JWASY_IVP_LAND_672x378_20211025_105452.jpg" group-title="i-Tanggang",Episod 7
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0ee51a07f68a48dc9dd52514962d3210&key=2564c19df3e34e5b70ae2e0d69527824
+# https://vodejitp-asset-playback-b.astro.com.my/dash-wv/vode/5460ddf7-60b6-54fa-92fe-67af9eda6617/default_ott.mpd
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/i-Tanggang/i-Tanggang-EP7.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 tvg-id="CHN" type="series" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JWASZ_IVP_LAND_672x378_2021111_11150.jpg" group-title="i-Tanggang",Episod 8
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/i-Tanggang/i-Tanggang-EP8.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 tvg-id="CHN" type="series" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JWATA_IVP_LAND_672x378_2021111_153654.jpg" group-title="i-Tanggang",Episod 9
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/i-Tanggang/i-Tanggang-EP9.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 tvg-id="CHN" type="series" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JWATB_IVP_LAND_672x378_2021119_235455.jpg" group-title="i-Tanggang",Episod 10
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/i-Tanggang/i-Tanggang-EP10.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 tvg-id="CHN" type="series" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JWATC_IVP_LAND_448x252_20211118_181545.jpg" group-title="i-Tanggang",Episod 11
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/i-Tanggang/i-Tanggang-EP11.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 tvg-id="CHN" type="series" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JWATD_IVP_LAND_448x252_20211126_213142.jpg" group-title="i-Tanggang",Episod 12
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/i-Tanggang/i-Tanggang-EP12.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Dukun Diva" tvg-logo="https://aqfadtv.astradamy.com/images/Dukun-Diva/IVP(STB_OTT_STV)_JXYNA_IVP_LAND_432x243_2021126_211810.jpg",Episod 1
+https://onedrive.astradamy.com/api?path=/TVSeries/Dukun.Diva.2021/Dukun.Diva.EP1@malaydramaz.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Dukun Diva" tvg-logo="https://aqfadtv.astradamy.com/images/Dukun-Diva/IVP(STB_OTT_STV)_JXYNB_IVP_LAND_432x243_20211213_14516.jpg",Episod 2
+https://onedrive.astradamy.com/api?path=/TVSeries/Dukun.Diva.2021/Dukun.Diva.EP2@malaydramaz.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Dukun Diva" tvg-logo="https://aqfadtv.astradamy.com/images/Dukun-Diva/IVP(STB_OTT_STV)_JXYNC_IVP_LAND_432x243_20211220_165918.jpg",Episod 3
+https://onedrive.astradamy.com/api?path=/TVSeries/Dukun.Diva.2021/Dukun.Diva.EP3@malaydramaz.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Dukun Diva" tvg-logo="https://aqfadtv.astradamy.com/images/Dukun-Diva/IVP(STB_OTT_STV)_JXYND_IVP_LAND_432x243_20211227_101433.jpg",Episod 4
+https://onedrive.astradamy.com/api?path=/TVSeries/Dukun.Diva.2021/Dukun.Diva.EP4@malaydramaz.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Dukun Diva" tvg-logo="https://aqfadtv.astradamy.com/images/Dukun-Diva/IVP(STB_OTT_STV)_JXYNE_IVP_LAND_448x252_202213_94715.jpg",Episod 5
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Dukun-Diva/Dukun-Diva-EP5.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Dukun Diva" tvg-logo="https://aqfadtv.astradamy.com/images/Dukun-Diva/IVP(STB_OTT_STV)_JXYNF_IVP_LAND_448x252_2022110_111222.jpg",Episod 6
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Dukun-Diva/Dukun-Diva-EP6.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Dukun Diva" tvg-logo="https://aqfadtv.astradamy.com/images/Dukun-Diva/IVP(STB_OTT_STV)_JXYNG_IVP_LAND_448x252_2022112_113755.jpg",Episod 7
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Dukun-Diva/Dukun-Diva-EP7.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Dukun Diva" tvg-logo="https://aqfadtv.astradamy.com/images/Dukun-Diva/IVP(STB_OTT_STV)_JXYNH_IVP_LAND_448x252_2022124_11191.jpg",Episod 8
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Dukun-Diva/Dukun-Diva-EP8.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Dukun Diva" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JXYNI_IVP_LAND_432x243_202224_144645.jpg",Episod 9 (Special)
+https://onedrive.astradamy.com/api?path=/TVSeries/Dukun.Diva.2021/Dukun.Diva.EP09.Special.WEB-DL.ENGSub-%40cap.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="50 WAYS TO BREAK by Plainrock124" tvg-logo="https://aqfadtv.astradamy.com/images/50WAYSTOBREAK/phone.png",50 WAYS TO BREAK A PHONE
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/50-WAYS-TO-BREAK/50%20WAYS%20TO%20BREAK%20A%20PHONE.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="50 WAYS TO BREAK by Plainrock124" tvg-logo="https://aqfadtv.astradamy.com/images/50WAYSTOBREAK/phone2.png",50 MORE WAYS TO BREAK A PHONE
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/50-WAYS-TO-BREAK/50%20MORE%20WAYS%20TO%20BREAK%20A%20PHONE.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="50 WAYS TO BREAK by Plainrock124" tvg-logo="https://aqfadtv.astradamy.com/images/50WAYSTOBREAK/tablet.png",50 WAYS TO BREAK A TABLET
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/50-WAYS-TO-BREAK/50%20WAYS%20TO%20BREAK%20A%20TABLET.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="50 WAYS TO BREAK by Plainrock124" tvg-logo="https://aqfadtv.astradamy.com/images/50WAYSTOBREAK/laptop.png",50 WAYS TO BREAK A LAPTOP
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/50-WAYS-TO-BREAK/50%20WAYS%20TO%20BREAK%20A%20LAPTOP.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="50 WAYS TO BREAK by Plainrock124" tvg-logo="https://aqfadtv.astradamy.com/images/50WAYSTOBREAK/3ds.png",50 WAYS TO BREAK A 3DS
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/50-WAYS-TO-BREAK/50%20WAYS%20TO%20BREAK%20A%203DS.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="50 WAYS TO BREAK by Plainrock124" tvg-logo="https://aqfadtv.astradamy.com/images/50WAYSTOBREAK/macbook.png",50 WAYS TO BREAK A MACBOOK
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/50-WAYS-TO-BREAK/50%20WAYS%20TO%20BREAK%20A%20MACBOOK.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="50 WAYS TO BREAK by Plainrock124" tvg-logo="https://aqfadtv.astradamy.com/images/50WAYSTOBREAK/switch.png",50 WAYS TO BREAK A NINTENDO SWITCH
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/50-WAYS-TO-BREAK/50%20WAYS%20TO%20BREAK%20A%20NINTENDO%20SWITCH.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="50 WAYS TO BREAK by Plainrock124" tvg-logo="https://aqfadtv.astradamy.com/images/50WAYSTOBREAK/applewatch.png",15 WAYS TO BREAK AN APPLE WATCH
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/50-WAYS-TO-BREAK/15%20WAYS%20TO%20BREAK%20AN%20APPLE%20WATCH.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="50 WAYS TO BREAK by Plainrock124" tvg-logo="https://aqfadtv.astradamy.com/images/50WAYSTOBREAK/switch2.png",50 MORE WAYS TO BREAK A NINTENDO SWITCH
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/50-WAYS-TO-BREAK/50%20MORE%20WAYS%20TO%20BREAK%20A%20NINTENDO%20SWITCH.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="50 WAYS TO BREAK by Plainrock124" tvg-logo="https://aqfadtv.astradamy.com/images/50WAYSTOBREAK/switchlite.png",25 WAYS TO BREAK A SWITCH LITE
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/50-WAYS-TO-BREAK/25%20WAYS%20TO%20BREAK%20A%20SWITCH%20LITE.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="50 WAYS TO BREAK by Plainrock124" tvg-logo="https://aqfadtv.astradamy.com/images/50WAYSTOBREAK/money.png",50 WAYS TO BREAK MONEY
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/50-WAYS-TO-BREAK/50%20WAYS%20TO%20BREAK%20MONEY.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="50 WAYS TO BREAK by Plainrock124" tvg-logo="https://aqfadtv.astradamy.com/images/50WAYSTOBREAK/ps5andseriess.png",50 WAYS TO BREAK A PS5 & XBOX SERIES S
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/50-WAYS-TO-BREAK/50%20WAYS%20TO%20BREAK%20A%20PHONE.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="50 WAYS TO BREAK by aznguy.mp4" tvg-logo="https://aqfadtv.astradamy.com/images/50WAYSTOBREAK-aznguy.mp4/phone.png",50 Ways To Break a Phone
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/50-WAYS-TO-BREAK-aznguy.mp4/50%20Ways%20to%20Break%20a%20Phone.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="50 WAYS TO BREAK by aznguy.mp4" tvg-logo="https://aqfadtv.astradamy.com/images/50WAYSTOBREAK-aznguy.mp4/phone2.png",50 Ways To Break a Phone 2
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/50-WAYS-TO-BREAK-aznguy.mp4/50%20Ways%20to%20Break%20a%20Phone%202.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="50 WAYS TO BREAK by aznguy.mp4" tvg-logo="https://aqfadtv.astradamy.com/images/50WAYSTOBREAK-aznguy.mp4/tablet.png",50 Ways To Break a Tablet
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/50-WAYS-TO-BREAK-aznguy.mp4/50%20Ways%20to%20Break%20a%20Tablet.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="50 WAYS TO BREAK by aznguy.mp4" tvg-logo="https://aqfadtv.astradamy.com/images/50WAYSTOBREAK-aznguy.mp4/macbook.png",50 Ways To Break a MacBook
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/50-WAYS-TO-BREAK-aznguy.mp4/50%20Ways%20to%20Break%20a%20MacBook.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Gerak Khas Undercover" tvg-logo="https://aqfadtv.astradamy.com/images/Gerak-Khas-Undercover.png",Episod 1
+https://onedrive.astradamy.com/api?path=/TVSeries/Gerak.Khas.Undercover.2021/Gerak.Khas.Undercover.EP1%40malaydramaz.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Gerak Khas Undercover" tvg-logo="https://aqfadtv.astradamy.com/images/Gerak-Khas-Undercover.png",Episod 2
+https://onedrive.astradamy.com/api?path=/TVSeries/Gerak.Khas.Undercover.2021/Gerak.Khas.Undercover.EP2%40malaydramaz.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Gerak Khas Undercover" tvg-logo="https://aqfadtv.astradamy.com/images/Gerak-Khas-Undercover.png",Episod 3
+https://onedrive.astradamy.com/api?path=/TVSeries/Gerak.Khas.Undercover.2021/Gerak.Khas.Undercover.EP3%40malaydramaz.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Gerak Khas Undercover" tvg-logo="https://aqfadtv.astradamy.com/images/Gerak-Khas-Undercover.png",Episod 4
+https://onedrive.astradamy.com/api?path=/TVSeries/Gerak.Khas.Undercover.2021/Gerak.Khas.Undercover.EP4%40malaydramaz.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Gerak Khas Undercover" tvg-logo="https://aqfadtv.astradamy.com/images/Gerak-Khas-Undercover.png",Episod 5
+https://onedrive.astradamy.com/api?path=/TVSeries/Gerak.Khas.Undercover.2021/Gerak.Khas.Undercover.EP5%40malaydramaz.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Gerak Khas Undercover" tvg-logo="https://aqfadtv.astradamy.com/images/Gerak-Khas-Undercover.png",Episod 6
+https://onedrive.astradamy.com/api?path=/TVSeries/Gerak.Khas.Undercover.2021/Gerak.Khas.Undercover.EP6%40malaydramaz.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Gerak Khas Undercover" tvg-logo="https://aqfadtv.astradamy.com/images/Gerak-Khas-Undercover.png",Episod 7
+https://onedrive.astradamy.com/api?path=/TVSeries/Gerak.Khas.Undercover.2021/Gerak.Khas.Undercover.EP7%40malaydramaz.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Gerak Khas Undercover" tvg-logo="https://aqfadtv.astradamy.com/images/Gerak-Khas-Undercover.png",Episod 8
+https://onedrive.astradamy.com/api?path=/TVSeries/Gerak.Khas.Undercover.2021/Gerak.Khas.Undercover.EP8.v2%40malaydramaz.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Gerak Khas Undercover" tvg-logo="https://aqfadtv.astradamy.com/images/Gerak-Khas-Undercover.png",Episod 9
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Gerak-Khas-Undercover/Gerak-Khas-Undercover-EP09.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Gerak Khas Undercover" tvg-logo="https://aqfadtv.astradamy.com/images/Gerak-Khas-Undercover.png",Episod 10
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Gerak-Khas-Undercover/Gerak-Khas-Undercover-EP10.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Gerak Khas Undercover" tvg-logo="https://aqfadtv.astradamy.com/images/Gerak-Khas-Undercover.png",Episod 11
+https://onedrive.astradamy.com/api?path=/TVSeries/Gerak.Khas.Undercover.2021/Gerak.Khas.Undercover.EP11.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Gerak Khas Undercover" tvg-logo="https://aqfadtv.astradamy.com/images/Gerak-Khas-Undercover.png",Episod 12
+https://onedrive.astradamy.com/api?path=/TVSeries/Gerak.Khas.Undercover.2021/Gerak.Khas.Undercover.EP12.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Gerak Khas Undercover" tvg-logo="https://aqfadtv.astradamy.com/images/Gerak-Khas-Undercover.png",Episod 13
+https://onedrive.astradamy.com/api?path=/TVSeries/Gerak.Khas.Undercover.2021/Gerak.Khas.Undercover.EP13.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Gerak Khas Undercover" tvg-logo="https://aqfadtv.astradamy.com/images/Gerak-Khas-Undercover.png",Episod 14
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Gerak-Khas-Undercover/Gerak-Khas-Undercover-EP14.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Gerak Khas Undercover" tvg-logo="https://aqfadtv.astradamy.com/images/Gerak-Khas-Undercover.png",Episod 15
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Gerak-Khas-Undercover/EP15.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Sihir" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JWYZY_IVP_LAND_432x243_2021119_151853.jpg",Episod 1
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Sihir/Sihir-EP1.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Sihir" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JWYZZ_IVP_LAND_432x243_2021119_152148.jpg",Episod 2
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Sihir/Sihir-EP2.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Sihir" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JWZAA_IVP_LAND_432x243_2021119_152325.jpg",Episod 3 
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Sihir/Sihir-EP3.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Sihir" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JWZAB_IVP_LAND_448x252_2021119_152454.jpg",Episod 4 
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Sihir/Sihir-EP4.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Sihir" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JWZAC_IVP_LAND_448x252_2021119_152640.jpg",Episod 5
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Sihir/Sihir-EP5.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Sihir" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JWZAD_IVP_LAND_448x252_2021119_151349.jpg",Episod 6
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Sihir/Sihir-EP6.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Sihir" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JWZAE_IVP_LAND_448x252_2021119_152841.jpg",Episod 7
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Sihir/Sihir-EP7.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Sihir" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JWZAF_IVP_LAND_448x252_2021119_153110.jpg",Episod 8
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Sihir/Sihir-EP8.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sihir" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JWZAG_IVP_LAND_448x252_2022218_03750.jpg",Episod 9
+https://onedrive.astradamy.com/api?path=/TVSeries/Sihir.2021/Sihir.EP9%40malaydramaz.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sihir" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JWZAH_IVP_LAND_448x252_2022224_005.jpg",Episod 10
+https://onedrive.astradamy.com/api?path=/TVSeries/Sihir.2021/Sihir.EP10%40malaydramaz.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sihir" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JWZAI_IVP_LAND_448x252_2022218_23251.jpg",Episod 11
+https://onedrive.astradamy.com/api?path=/TVSeries/Sihir.2021/Sihir.EP11%40malaydramaz.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sihir" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JWZAJ_IVP_LAND_448x252_2022214_234150.jpg",Episod 12
+https://onedrive.astradamy.com/api?path=/TVSeries/Sihir.2021/Sihir.EP12%40malaydramaz.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sihir" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JWZAK_IVP_LAND_448x252_202224_73949.jpg",Episod 13
+https://onedrive.astradamy.com/api?path=/TVSeries/Sihir.2021/Sihir.EP13%40malaydramaz.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sihir" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JWZAL_IVP_LAND_448x252_202224_91230.jpg",Episod 14
+https://onedrive.astradamy.com/api?path=/TVSeries/Sihir.2021/Sihir.EP14%40malaydramaz.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sihir" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JWZAM_IVP_LAND_448x252_202224_83143.jpg",Episod 15
+https://onedrive.astradamy.com/api?path=/TVSeries/Sihir.2021/Sihir.EP15%40malaydramaz.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sihir" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JWZAN_IVP_LAND_448x252_202225_95654.jpg",Episod 16
+https://onedrive.astradamy.com/api?path=/TVSeries/Sihir.2021/Sihir.EP16%40malaydramaz.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sihir" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JWZAO_IVP_LAND_448x252_202224_91314.jpg",Episod 17
+https://onedrive.astradamy.com/api?path=/TVSeries/Sihir.2021/Sihir.EP17%40malaydramaz.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sihir" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JWZAP_IVP_LAND_448x252_202224_102210.jpg",Episod 18
+https://onedrive.astradamy.com/api?path=/TVSeries/Sihir.2021/Sihir.EP18%40malaydramaz.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sihir" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JWZAQ_IVP_LAND_448x252_202224_7562.jpg",Episod 19
+https://onedrive.astradamy.com/api?path=/TVSeries/Sihir.2021/Sihir.EP19%40malaydramaz.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sihir" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JWZAR_IVP_LAND_448x252_202224_7841.jpg",Episod 20
+https://onedrive.astradamy.com/api?path=/TVSeries/Sihir.2021/Sihir.EP20%40malaydramaz.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="30 Hari Sebelum Raya" tvg-logo="https://aqfadtv.astradamy.com/images/30HariSebelumRaya/1.png",Episod 1
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/30-Hari-Sebelum-Raya/EP01.mp4
+
+#EXTINF:-1 type="series" group-title="30 Hari Sebelum Raya" tvg-logo="https://aqfadtv.astradamy.com/images/30HariSebelumRaya/2.png",Episod 2
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/30-Hari-Sebelum-Raya/EP02.mp4
+
+#EXTINF:-1 type="series" group-title="30 Hari Sebelum Raya" tvg-logo="https://aqfadtv.astradamy.com/images/30HariSebelumRaya/3.png",Episod 3
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/30-Hari-Sebelum-Raya/EP03.mp4
+
+#EXTINF:-1 type="series" group-title="30 Hari Sebelum Raya" tvg-logo="https://aqfadtv.astradamy.com/images/30HariSebelumRaya/4.png",Episod 4
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/30-Hari-Sebelum-Raya/EP04.mp4
+
+#EXTINF:-1 type="series" group-title="30 Hari Sebelum Raya" tvg-logo="https://aqfadtv.astradamy.com/images/30HariSebelumRaya/5.png",Episod 5
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/30-Hari-Sebelum-Raya/EP05.mp4
+
+#EXTINF:-1 type="series" group-title="30 Hari Sebelum Raya" tvg-logo="https://aqfadtv.astradamy.com/images/30HariSebelumRaya/6.png",Episod 6
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/30-Hari-Sebelum-Raya/EP06.mp4
+
+#EXTINF:-1 type="series" group-title="30 Hari Sebelum Raya" tvg-logo="https://aqfadtv.astradamy.com/images/30HariSebelumRaya/7.png",Episod 7
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/30-Hari-Sebelum-Raya/EP07.mp4
+
+#EXTINF:-1 type="series" group-title="30 Hari Sebelum Raya" tvg-logo="https://aqfadtv.astradamy.com/images/30HariSebelumRaya/8.png",Episod 8
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/30-Hari-Sebelum-Raya/EP08.mp4
+
+#EXTINF:-1 type="series" group-title="30 Hari Sebelum Raya" tvg-logo="https://aqfadtv.astradamy.com/images/30HariSebelumRaya/9.png",Episod 9
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/30-Hari-Sebelum-Raya/EP09.mp4
+
+#EXTINF:-1 type="series" group-title="30 Hari Sebelum Raya" tvg-logo="https://aqfadtv.astradamy.com/images/30HariSebelumRaya/10.png",Episod 10
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/30-Hari-Sebelum-Raya/EP10.mp4
+
+#EXTINF:-1 type="series" group-title="Cukup Derita Itu" group-logo="https://aqfadtv.astradamy.com/images/CukupDeritaItu.png" tvg-logo="https://aqfadtv.astradamy.com/images/CukupDeritaItu.png",Episod 1
+https://onedrive.astradamy.com/api?path=/TVSeries/Cukup.Derita.Itu.2021/Cukup.Derita.Itu.2021.EP01.1080p.WEB_DL.AAC.H.264_OMG.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Cukup Derita Itu" group-logo="https://aqfadtv.astradamy.com/images/CukupDeritaItu.png" tvg-logo="https://aqfadtv.astradamy.com/images/CukupDeritaItu.png",Episod 2
+https://onedrive.astradamy.com/api?path=/TVSeries/Cukup.Derita.Itu.2021/Cukup.Derita.Itu.2021.EP02.1080p.WEB_DL.AAC.H.264_OMG.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Cukup Derita Itu" group-logo="https://aqfadtv.astradamy.com/images/CukupDeritaItu.png" tvg-logo="https://aqfadtv.astradamy.com/images/CukupDeritaItu.png",Episod 3
+https://onedrive.astradamy.com/api?path=/TVSeries/Cukup.Derita.Itu.2021/Cukup.Derita.Itu.2021.EP03.1080p.WEB_DL.AAC.H.264_OMG.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Cukup Derita Itu" group-logo="https://aqfadtv.astradamy.com/images/CukupDeritaItu.png" tvg-logo="https://aqfadtv.astradamy.com/images/CukupDeritaItu.png",Episod 4
+https://onedrive.astradamy.com/api?path=/TVSeries/Cukup.Derita.Itu.2021/Cukup.Derita.Itu.2021.EP04.1080p.WEB_DL.AAC.H.264_OMG.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Cukup Derita Itu" group-logo="https://aqfadtv.astradamy.com/images/CukupDeritaItu.png" tvg-logo="https://aqfadtv.astradamy.com/images/CukupDeritaItu.png",Episod 5
+https://onedrive.astradamy.com/api?path=/TVSeries/Cukup.Derita.Itu.2021/Cukup.Derita.Itu.2021.EP05.1080p.WEB_DL.AAC.H.264_OMG.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Cukup Derita Itu" group-logo="https://aqfadtv.astradamy.com/images/CukupDeritaItu.png" tvg-logo="https://aqfadtv.astradamy.com/images/CukupDeritaItu.png",Episod 6
+https://onedrive.astradamy.com/api?path=/TVSeries/Cukup.Derita.Itu.2021/Cukup.Derita.Itu.2021.EP06.1080p.WEB_DL.AAC.H.264_OMG.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Cukup Derita Itu" group-logo="https://aqfadtv.astradamy.com/images/CukupDeritaItu.png" tvg-logo="https://aqfadtv.astradamy.com/images/CukupDeritaItu.png",Episod 7
+https://onedrive.astradamy.com/api?path=/TVSeries/Cukup.Derita.Itu.2021/Cukup.Derita.Itu.2021.EP07.1080p.WEB_DL.AAC.H.264_OMG.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Cukup Derita Itu" group-logo="https://aqfadtv.astradamy.com/images/CukupDeritaItu.png" tvg-logo="https://aqfadtv.astradamy.com/images/CukupDeritaItu.png",Episod 8
+https://onedrive.astradamy.com/api?path=/TVSeries/Cukup.Derita.Itu.2021/Cukup.Derita.Itu.2021.EP08.1080p.WEB_DL.AAC.H.264_OMG.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Cukup Derita Itu" group-logo="https://aqfadtv.astradamy.com/images/CukupDeritaItu.png" tvg-logo="https://aqfadtv.astradamy.com/images/CukupDeritaItu.png",Episod 9
+https://onedrive.astradamy.com/api?path=/TVSeries/Cukup.Derita.Itu.2021/Cukup.Derita.Itu.2021.EP09.1080p.WEB_DL.AAC.H.264_OMG.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Cukup Derita Itu" group-logo="https://aqfadtv.astradamy.com/images/CukupDeritaItu.png" tvg-logo="https://aqfadtv.astradamy.com/images/CukupDeritaItu.png",Episod 10
+https://onedrive.astradamy.com/api?path=/TVSeries/Cukup.Derita.Itu.2021/Cukup.Derita.Itu.2021.EP10.1080p.WEB_DL.AAC.H.264_OMG.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Cukup Derita Itu" group-logo="https://aqfadtv.astradamy.com/images/CukupDeritaItu.png" tvg-logo="https://aqfadtv.astradamy.com/images/CukupDeritaItu.png",Episod 11
+https://onedrive.astradamy.com/api?path=/TVSeries/Cukup.Derita.Itu.2021/Cukup.Derita.Itu.2021.EP11.1080p.WEB_DL.AAC.H.264_OMG.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Cukup Derita Itu" group-logo="https://aqfadtv.astradamy.com/images/CukupDeritaItu.png" tvg-logo="https://aqfadtv.astradamy.com/images/CukupDeritaItu.png",Episod 12
+https://onedrive.astradamy.com/api?path=/TVSeries/Cukup.Derita.Itu.2021/Cukup.Derita.Itu.2021.EP12.1080p.WEB_DL.AAC.H.264_OMG.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Cukup Derita Itu" group-logo="https://aqfadtv.astradamy.com/images/CukupDeritaItu.png" tvg-logo="https://aqfadtv.astradamy.com/images/CukupDeritaItu.png",Episod 13
+https://onedrive.astradamy.com/api?path=/TVSeries/Cukup.Derita.Itu.2021/Cukup.Derita.Itu.2021.EP13.1080p.WEB_DL.AAC.H.264_OMG.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Cukup Derita Itu" group-logo="https://aqfadtv.astradamy.com/images/CukupDeritaItu.png" tvg-logo="https://aqfadtv.astradamy.com/images/CukupDeritaItu.png",Episod 14
+https://onedrive.astradamy.com/api?path=/TVSeries/Cukup.Derita.Itu.2021/Cukup.Derita.Itu.2021.EP14.1080p.WEB_DL.AAC.H.264_OMG.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Cukup Derita Itu" group-logo="https://aqfadtv.astradamy.com/images/CukupDeritaItu.png" tvg-logo="https://aqfadtv.astradamy.com/images/CukupDeritaItu.png",Episod 15
+https://onedrive.astradamy.com/api?path=/TVSeries/Cukup.Derita.Itu.2021/Cukup.Derita.Itu.2021.EP15.1080p.WEB_DL.AAC.H.264_OMG.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Cukup Derita Itu" group-logo="https://aqfadtv.astradamy.com/images/CukupDeritaItu.png" tvg-logo="https://aqfadtv.astradamy.com/images/CukupDeritaItu.png",Episod 16
+https://onedrive.astradamy.com/api?path=/TVSeries/Cukup.Derita.Itu.2021/Cukup.Derita.Itu.2021.EP16.1080p.WEB_DL.AAC.H.264_OMG.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Cukup Derita Itu" group-logo="https://aqfadtv.astradamy.com/images/CukupDeritaItu.png" tvg-logo="https://aqfadtv.astradamy.com/images/CukupDeritaItu.png",Episod 17
+https://onedrive.astradamy.com/api?path=/TVSeries/Cukup.Derita.Itu.2021/Cukup.Derita.Itu.2021.EP17.1080p.WEB_DL.AAC.H.264_OMG.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Cukup Derita Itu" group-logo="https://aqfadtv.astradamy.com/images/CukupDeritaItu.png" tvg-logo="https://aqfadtv.astradamy.com/images/CukupDeritaItu.png",Episod 18
+https://onedrive.astradamy.com/api?path=/TVSeries/Cukup.Derita.Itu.2021/Cukup.Derita.Itu.2021.EP18.1080p.WEB_DL.AAC.H.264_OMG.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Cukup Derita Itu" group-logo="https://aqfadtv.astradamy.com/images/CukupDeritaItu.png" tvg-logo="https://aqfadtv.astradamy.com/images/CukupDeritaItu.png",Episod 19
+https://onedrive.astradamy.com/api?path=/TVSeries/Cukup.Derita.Itu.2021/Cukup.Derita.Itu.2021.EP19.1080p.WEB_DL.AAC.H.264_OMG.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Cukup Derita Itu" group-logo="https://aqfadtv.astradamy.com/images/CukupDeritaItu.png" tvg-logo="https://aqfadtv.astradamy.com/images/CukupDeritaItu.png",Episod 20
+https://onedrive.astradamy.com/api?path=/TVSeries/Cukup.Derita.Itu.2021/Cukup.Derita.Itu.2021.EP20.1080p.WEB_DL.AAC.H.264_OMG.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Cukup Derita Itu" group-logo="https://aqfadtv.astradamy.com/images/CukupDeritaItu.png" tvg-logo="https://aqfadtv.astradamy.com/images/CukupDeritaItu.png",Episod 21
+https://onedrive.astradamy.com/api?path=/TVSeries/Cukup.Derita.Itu.2021/Cukup.Derita.Itu.EP21%40malaydramaz~1.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Cukup Derita Itu" group-logo="https://aqfadtv.astradamy.com/images/CukupDeritaItu.png" tvg-logo="https://aqfadtv.astradamy.com/images/CukupDeritaItu.png",Episod 22
+https://onedrive.astradamy.com/api?path=/TVSeries/Cukup.Derita.Itu.2021/Cukup.Derita.Itu.EP22%40malaydramaz.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Cukup Derita Itu" group-logo="https://aqfadtv.astradamy.com/images/CukupDeritaItu.png" tvg-logo="https://aqfadtv.astradamy.com/images/CukupDeritaItu.png",Episod 23
+https://onedrive.astradamy.com/api?path=/TVSeries/Cukup.Derita.Itu.2021/Cukup.Derita.Itu.EP23%40malaydramaz.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Cukup Derita Itu" group-logo="https://aqfadtv.astradamy.com/images/CukupDeritaItu.png" tvg-logo="https://aqfadtv.astradamy.com/images/CukupDeritaItu.png",Episod 24
+https://onedrive.astradamy.com/api?path=/TVSeries/Cukup.Derita.Itu.2021/Cukup.Derita.Itu.EP24%40malaydramaz.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Cukup Derita Itu" group-logo="https://aqfadtv.astradamy.com/images/CukupDeritaItu.png" tvg-logo="https://aqfadtv.astradamy.com/images/CukupDeritaItu.png",Episod 25
+https://onedrive.astradamy.com/api?path=/TVSeries/Cukup.Derita.Itu.2021/Cukup.Derita.Itu.EP25%40malaydramaz.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Cukup Derita Itu" group-logo="https://aqfadtv.astradamy.com/images/CukupDeritaItu.png" tvg-logo="https://aqfadtv.astradamy.com/images/CukupDeritaItu.png",Episod 26
+https://onedrive.astradamy.com/api?path=/TVSeries/Cukup.Derita.Itu.2021/Cukup.Derita.Itu.EP26%40malaydramaz.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Cukup Derita Itu" group-logo="https://aqfadtv.astradamy.com/images/CukupDeritaItu.png" tvg-logo="https://aqfadtv.astradamy.com/images/CukupDeritaItu.png",Episod 27
+https://onedrive.astradamy.com/api?path=/TVSeries/Cukup.Derita.Itu.2021/Cukup.Derita.Itu.EP27%40malaydramaz.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Cukup Derita Itu" group-logo="https://aqfadtv.astradamy.com/images/CukupDeritaItu.png" tvg-logo="https://aqfadtv.astradamy.com/images/CukupDeritaItu.png",Episod 28
+https://onedrive.astradamy.com/api?path=/TVSeries/Cukup.Derita.Itu.2021/Cukup.Derita.Itu.EP28%40malaydramaz.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Cukup Derita Itu" group-logo="https://aqfadtv.astradamy.com/images/CukupDeritaItu.png" tvg-logo="https://aqfadtv.astradamy.com/images/CukupDeritaItu.png",Episod 29
+https://onedrive.astradamy.com/api?path=/TVSeries/Cukup.Derita.Itu.2021/Cukup.Derita.Itu.EP29%40malaydramaz.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Cukup Derita Itu" group-logo="https://aqfadtv.astradamy.com/images/CukupDeritaItu.png" tvg-logo="https://aqfadtv.astradamy.com/images/CukupDeritaItu.png",Episod 30
+https://onedrive.astradamy.com/api?path=/TVSeries/Cukup.Derita.Itu.2021/Cukup.Derita.Itu.EP30%40malaydramaz.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Cukup Derita Itu" group-logo="https://aqfadtv.astradamy.com/images/CukupDeritaItu.png" tvg-logo="https://aqfadtv.astradamy.com/images/CukupDeritaItu.png",Episod 31
+https://onedrive.astradamy.com/api?path=/TVSeries/Cukup.Derita.Itu.2021/Cukup.Derita.Itu.EP31%40malaydramaz.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Cukup Derita Itu" group-logo="https://aqfadtv.astradamy.com/images/CukupDeritaItu.png" tvg-logo="https://aqfadtv.astradamy.com/images/CukupDeritaItu.png",Episod 32
+https://onedrive.astradamy.com/api?path=/TVSeries/Cukup.Derita.Itu.2021/Cukup.Derita.Itu.EP32%40malaydramaz.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Cukup Derita Itu" group-logo="https://aqfadtv.astradamy.com/images/CukupDeritaItu.png" tvg-logo="https://aqfadtv.astradamy.com/images/CukupDeritaItu.png",Episod 33
+https://onedrive.astradamy.com/api?path=/TVSeries/Cukup.Derita.Itu.2021/Cukup.Derita.Itu.EP33%40malaydramaz.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Cukup Derita Itu" group-logo="https://aqfadtv.astradamy.com/images/CukupDeritaItu.png" tvg-logo="https://aqfadtv.astradamy.com/images/CukupDeritaItu.png",Episod 34
+https://onedrive.astradamy.com/api?path=/TVSeries/Cukup.Derita.Itu.2021/Cukup.Derita.Itu.EP34%40malaydramaz.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Cukup Derita Itu" group-logo="https://aqfadtv.astradamy.com/images/CukupDeritaItu.png" tvg-logo="https://aqfadtv.astradamy.com/images/CukupDeritaItu.png",Episod 35
+https://onedrive.astradamy.com/api?path=/TVSeries/Cukup.Derita.Itu.2021/Cukup.Derita.Itu.EP35%40malaydramaz.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Cukup Derita Itu" group-logo="https://aqfadtv.astradamy.com/images/CukupDeritaItu.png" tvg-logo="https://aqfadtv.astradamy.com/images/CukupDeritaItu.png",Episod 36
+https://onedrive.astradamy.com/api?path=/TVSeries/Cukup.Derita.Itu.2021/Cukup.Derita.Itu.EP36%40malaydramaz.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Cukup Derita Itu" group-logo="https://aqfadtv.astradamy.com/images/CukupDeritaItu.png" tvg-logo="https://aqfadtv.astradamy.com/images/CukupDeritaItu.png",Episod 37
+https://onedrive.astradamy.com/api?path=/TVSeries/Cukup.Derita.Itu.2021/Cukup.Derita.Itu.EP37%40malaydramaz.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Cukup Derita Itu" group-logo="https://aqfadtv.astradamy.com/images/CukupDeritaItu.png" tvg-logo="https://aqfadtv.astradamy.com/images/CukupDeritaItu.png",Episod 38
+https://onedrive.astradamy.com/api?path=/TVSeries/Cukup.Derita.Itu.2021/Cukup.Derita.Itu.EP38%40malaydramaz.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Cukup Derita Itu" group-logo="https://aqfadtv.astradamy.com/images/CukupDeritaItu.png" tvg-logo="https://aqfadtv.astradamy.com/images/CukupDeritaItu.png",Episod 39
+https://onedrive.astradamy.com/api?path=/TVSeries/Cukup.Derita.Itu.2021/Cukup.Derita.Itu.EP39%40malaydramaz.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Cukup Derita Itu" group-logo="https://aqfadtv.astradamy.com/images/CukupDeritaItu.png" tvg-logo="https://aqfadtv.astradamy.com/images/CukupDeritaItu.png",Episod 40
+https://onedrive.astradamy.com/api?path=/TVSeries/Cukup.Derita.Itu.2021/Cukup.Derita.Itu.EP40%40malaydramaz.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="3 Nota Cinta" tvg-logo="https://aqfadtv.astradamy.com/images/3NotaCinta.png",Episod 1
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/3-Nota-Cinta/EP1.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="3 Nota Cinta" tvg-logo="https://aqfadtv.astradamy.com/images/3NotaCinta.png",Episod 2
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/3-Nota-Cinta/EP2.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="3 Nota Cinta" tvg-logo="https://aqfadtv.astradamy.com/images/3NotaCinta.png",Episod 3
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/3-Nota-Cinta/EP3.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="3 Nota Cinta" tvg-logo="https://aqfadtv.astradamy.com/images/3NotaCinta.png",Episod 4
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/3-Nota-Cinta/EP4.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="3 Nota Cinta" tvg-logo="https://aqfadtv.astradamy.com/images/3NotaCinta.png",Episod 5
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/3-Nota-Cinta/EP5.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="3 Nota Cinta" tvg-logo="https://aqfadtv.astradamy.com/images/3NotaCinta.png",Episod 6
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/3-Nota-Cinta/EP6.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="3 Nota Cinta" tvg-logo="https://aqfadtv.astradamy.com/images/3NotaCinta.png",Episod 7
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/3-Nota-Cinta/EP7.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="3 Nota Cinta" tvg-logo="https://aqfadtv.astradamy.com/images/3NotaCinta.png",Episod 8
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/3-Nota-Cinta/EP8.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="3 Nota Cinta" tvg-logo="https://aqfadtv.astradamy.com/images/3NotaCinta.png",Episod 9
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/3-Nota-Cinta/EP9.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="3 Nota Cinta" tvg-logo="https://aqfadtv.astradamy.com/images/3NotaCinta.png",Episod 10
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/3-Nota-Cinta/EP10.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="3 Nota Cinta" tvg-logo="https://aqfadtv.astradamy.com/images/3NotaCinta.png",Episod 11
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/3-Nota-Cinta/EP11.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="3 Nota Cinta" tvg-logo="https://aqfadtv.astradamy.com/images/3NotaCinta.png",Episod 12
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/3-Nota-Cinta/EP12.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="3 Nota Cinta" tvg-logo="https://aqfadtv.astradamy.com/images/3NotaCinta.png",Episod 13
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/3-Nota-Cinta/EP13.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="3 Nota Cinta" tvg-logo="https://aqfadtv.astradamy.com/images/3NotaCinta.png",Episod 14
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/3-Nota-Cinta/EP14.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sayang Tak Dikenang" tvg-logo="https://aqfadtv.astradamy.com/images/SayangTakDikenang/1.png",Episod 1
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Sayang-Tak-Dikenang/EP1.mp4
+
+#EXTINF:-1 type="series" group-title="Sayang Tak Dikenang" tvg-logo="https://aqfadtv.astradamy.com/images/SayangTakDikenang/2.png",Episod 2
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Sayang-Tak-Dikenang/EP2.mp4
+
+#EXTINF:-1 type="series" group-title="Sayang Tak Dikenang" tvg-logo="https://aqfadtv.astradamy.com/images/SayangTakDikenang/3.png",Episod 3
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Sayang-Tak-Dikenang/EP3.mp4
+
+#EXTINF:-1 type="series" group-title="Sayang Tak Dikenang" tvg-logo="https://aqfadtv.astradamy.com/images/SayangTakDikenang/4.png",Episod 4
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Sayang-Tak-Dikenang/EP4.mp4
+
+#EXTINF:-1 type="series" group-title="Sayang Tak Dikenang" tvg-logo="https://aqfadtv.astradamy.com/images/SayangTakDikenang/5.png",Episod 5
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Sayang-Tak-Dikenang/EP5.mp4
+
+#EXTINF:-1 type="series" group-title="Sayang Tak Dikenang" tvg-logo="https://aqfadtv.astradamy.com/images/SayangTakDikenang/6.png",Episod 6
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Sayang-Tak-Dikenang/EP6.mp4
+
+#EXTINF:-1 type="series" group-title="Sayang Tak Dikenang" tvg-logo="https://aqfadtv.astradamy.com/images/SayangTakDikenang/7.png",Episod 7
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Sayang-Tak-Dikenang/EP7.mp4
+
+#EXTINF:-1 type="series" group-title="Sayang Tak Dikenang" tvg-logo="https://aqfadtv.astradamy.com/images/SayangTakDikenang/8.png",Episod 8
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Sayang-Tak-Dikenang/EP8.mp4
+
+#EXTINF:-1 type="series" group-title="Sayang Tak Dikenang" tvg-logo="https://aqfadtv.astradamy.com/images/SayangTakDikenang/9.png",Episod 9
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Sayang-Tak-Dikenang/EP9.mp4
+
+#EXTINF:-1 type="series" group-title="Sayang Tak Dikenang" tvg-logo="https://aqfadtv.astradamy.com/images/SayangTakDikenang/10.png",Episod 10
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Sayang-Tak-Dikenang/EP10.mp4
+
+#EXTINF:-1 type="series" group-title="Sayang Tak Dikenang" tvg-logo="https://aqfadtv.astradamy.com/images/SayangTakDikenang/11.png",Episod 11
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Sayang-Tak-Dikenang/EP11.mp4
+
+#EXTINF:-1 type="series" group-title="Sayang Tak Dikenang" tvg-logo="https://aqfadtv.astradamy.com/images/SayangTakDikenang/12.png",Episod 12
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Sayang-Tak-Dikenang/EP12.mp4
+
+#EXTINF:-1 type="series" group-title="Sayang Tak Dikenang" tvg-logo="https://aqfadtv.astradamy.com/images/SayangTakDikenang/13.png",Episod 13
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Sayang-Tak-Dikenang/EP13.mp4
+
+#EXTINF:-1 type="series" group-title="Sayang Tak Dikenang" tvg-logo="https://aqfadtv.astradamy.com/images/SayangTakDikenang/14.png",Episod 14
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Sayang-Tak-Dikenang/EP14.mp4
+
+#EXTINF:-1 type="series" group-title="Sayang Tak Dikenang" tvg-logo="https://aqfadtv.astradamy.com/images/SayangTakDikenang/15.png",Episod 15
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Sayang-Tak-Dikenang/EP15.mp4
+
+#EXTINF:-1 type="series" group-title="Sayang Tak Dikenang" tvg-logo="https://aqfadtv.astradamy.com/images/SayangTakDikenang/16.png",Episod 16
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Sayang-Tak-Dikenang/EP16.mp4
+
+#EXTINF:-1 type="series" group-title="Sayang Tak Dikenang" tvg-logo="https://aqfadtv.astradamy.com/images/SayangTakDikenang/17.png",Episod 17
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Sayang-Tak-Dikenang/EP17.mp4
+
+#EXTINF:-1 type="series" group-title="Sayang Tak Dikenang" tvg-logo="https://aqfadtv.astradamy.com/images/SayangTakDikenang/18.png",Episod 18
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Sayang-Tak-Dikenang/EP18.mp4
+
+#EXTINF:-1 type="series" group-title="Sayang Tak Dikenang" tvg-logo="https://aqfadtv.astradamy.com/images/SayangTakDikenang/19.png",Episod 19
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Sayang-Tak-Dikenang/EP19.mp4
+
+#EXTINF:-1 type="series" group-title="Sayang Tak Dikenang" tvg-logo="https://aqfadtv.astradamy.com/images/SayangTakDikenang/20.png",Episod 20
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Sayang-Tak-Dikenang/EP20.mp4
+
+#EXTINF:-1 type="series" group-title="Sayang Tak Dikenang" tvg-logo="https://aqfadtv.astradamy.com/images/SayangTakDikenang/21.png",Episod 21
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Sayang-Tak-Dikenang/EP21.mp4
+
+#EXTINF:-1 type="series" group-title="Sayang Tak Dikenang" tvg-logo="https://aqfadtv.astradamy.com/images/SayangTakDikenang/22.png",Episod 22
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Sayang-Tak-Dikenang/EP22.mp4
+
+#EXTINF:-1 type="series" group-title="Sayang Tak Dikenang" tvg-logo="https://aqfadtv.astradamy.com/images/SayangTakDikenang/23.png",Episod 23
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Sayang-Tak-Dikenang/EP23.mp4
+
+#EXTINF:-1 type="series" group-title="Sayang Tak Dikenang" tvg-logo="https://aqfadtv.astradamy.com/images/SayangTakDikenang/24.png",Episod 24
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Sayang-Tak-Dikenang/EP24.mp4
+
+#EXTINF:-1 type="series" group-title="Sayang Tak Dikenang" tvg-logo="https://aqfadtv.astradamy.com/images/SayangTakDikenang/25.png",Episod 25
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Sayang-Tak-Dikenang/EP25.mp4
+
+#EXTINF:-1 type="series" group-title="Sayang Tak Dikenang" tvg-logo="https://aqfadtv.astradamy.com/images/SayangTakDikenang/26.png",Episod 26
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Sayang-Tak-Dikenang/EP26.mp4
+
+#EXTINF:-1 type="series" group-title="Sayang Tak Dikenang" tvg-logo="https://aqfadtv.astradamy.com/images/SayangTakDikenang/27.png",Episod 27
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Sayang-Tak-Dikenang/EP27.mp4
+
+#EXTINF:-1 type="series" group-title="Sayang Tak Dikenang" tvg-logo="https://aqfadtv.astradamy.com/images/SayangTakDikenang/28.png",Episod 28
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Sayang-Tak-Dikenang/EP28.mp4
+
+#EXTINF:-1 type="series" group-title="Harith Fayyadh" tvg-logo="https://aqfadtv.astradamy.com/images/HarithFayyadh/1.png",Episod 1
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Harith-Fayyadh/EP01.mp4
+
+#EXTINF:-1 type="series" group-title="Harith Fayyadh" tvg-logo="https://aqfadtv.astradamy.com/images/HarithFayyadh/2.png",Episod 2
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Harith-Fayyadh/EP02.mp4
+
+#EXTINF:-1 type="series" group-title="Harith Fayyadh" tvg-logo="https://aqfadtv.astradamy.com/images/HarithFayyadh/3.png",Episod 3
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Harith-Fayyadh/EP03.mp4
+
+#EXTINF:-1 type="series" group-title="Harith Fayyadh" tvg-logo="https://aqfadtv.astradamy.com/images/HarithFayyadh/4.png",Episod 4
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Harith-Fayyadh/EP04.mp4
+
+#EXTINF:-1 type="series" group-title="Harith Fayyadh" tvg-logo="https://aqfadtv.astradamy.com/images/HarithFayyadh/5.png",Episod 5
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Harith-Fayyadh/EP05.mp4
+
+#EXTINF:-1 type="series" group-title="Harith Fayyadh" tvg-logo="https://aqfadtv.astradamy.com/images/HarithFayyadh/6.png",Episod 6
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Harith-Fayyadh/EP06.mp4
+
+#EXTINF:-1 type="series" group-title="Harith Fayyadh" tvg-logo="https://aqfadtv.astradamy.com/images/HarithFayyadh/7.png",Episod 7
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Harith-Fayyadh/EP07.mp4
+
+#EXTINF:-1 type="series" group-title="Harith Fayyadh" tvg-logo="https://aqfadtv.astradamy.com/images/HarithFayyadh/8.png",Episod 8
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Harith-Fayyadh/EP08.mp4
+
+#EXTINF:-1 type="series" group-title="Harith Fayyadh" tvg-logo="https://aqfadtv.astradamy.com/images/HarithFayyadh/9.png",Episod 9
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Harith-Fayyadh/EP09.mp4
+
+#EXTINF:-1 type="series" group-title="Harith Fayyadh" tvg-logo="https://aqfadtv.astradamy.com/images/HarithFayyadh/10.png",Episod 10
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Harith-Fayyadh/EP10.mp4
+
+#EXTINF:-1 type="series" group-title="Harith Fayyadh" tvg-logo="https://aqfadtv.astradamy.com/images/HarithFayyadh/11.png",Episod 11
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Harith-Fayyadh/EP11.mp4
+
+#EXTINF:-1 type="series" group-title="Harith Fayyadh" tvg-logo="https://aqfadtv.astradamy.com/images/HarithFayyadh/12.png",Episod 12
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Harith-Fayyadh/EP12.mp4
+
+#EXTINF:-1 type="series" group-title="Harith Fayyadh" tvg-logo="https://aqfadtv.astradamy.com/images/HarithFayyadh/13.png",Episod 13
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Harith-Fayyadh/EP13.mp4
+
+#EXTINF:-1 type="series" group-title="Harith Fayyadh" tvg-logo="https://aqfadtv.astradamy.com/images/HarithFayyadh/14.png",Episod 14
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Harith-Fayyadh/EP14.mp4
+
+#EXTINF:-1 type="series" group-title="Harith Fayyadh" tvg-logo="https://aqfadtv.astradamy.com/images/HarithFayyadh/15.png",Episod 15
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Harith-Fayyadh/EP15.mp4
+
+#EXTINF:-1 type="series" group-title="7 Hari Mencintaiku" tvg-logo="https://aqfadtv.astradamy.com/images/7HariMencintaiku/S1/1.png",S1 Episod 1
+https://aqfadtvonedrive.vercel.app/api/raw/?path=/VOD/Series/7-Hari-Mencintaiku/S1/EP01.mp4
+
+#EXTINF:-1 type="series" group-title="7 Hari Mencintaiku" tvg-logo="https://aqfadtv.astradamy.com/images/7HariMencintaiku/S1/2.png",S1 Episod 2
+https://aqfadtvonedrive.vercel.app/api/raw/?path=/VOD/Series/7-Hari-Mencintaiku/S1/EP02.mp4
+
+#EXTINF:-1 type="series" group-title="7 Hari Mencintaiku" tvg-logo="https://aqfadtv.astradamy.com/images/7HariMencintaiku/S1/3.png",S1 Episod 3
+https://aqfadtvonedrive.vercel.app/api/raw/?path=/VOD/Series/7-Hari-Mencintaiku/S1/EP03.mp4
+
+#EXTINF:-1 type="series" group-title="7 Hari Mencintaiku" tvg-logo="https://aqfadtv.astradamy.com/images/7HariMencintaiku/S1/4.png",S1 Episod 4
+https://aqfadtvonedrive.vercel.app/api/raw/?path=/VOD/Series/7-Hari-Mencintaiku/S1/EP04.mp4
+
+#EXTINF:-1 type="series" group-title="7 Hari Mencintaiku" tvg-logo="https://aqfadtv.astradamy.com/images/7HariMencintaiku/S1/5.png",S1 Episod 5
+https://aqfadtvonedrive.vercel.app/api/raw/?path=/VOD/Series/7-Hari-Mencintaiku/S1/EP05.mp4
+
+#EXTINF:-1 type="series" group-title="7 Hari Mencintaiku" tvg-logo="https://aqfadtv.astradamy.com/images/7HariMencintaiku/S1/6.png",S1 Episod 6
+https://aqfadtvonedrive.vercel.app/api/raw/?path=/VOD/Series/7-Hari-Mencintaiku/S1/EP06.mp4
+
+#EXTINF:-1 type="series" group-title="7 Hari Mencintaiku" tvg-logo="https://aqfadtv.astradamy.com/images/7HariMencintaiku/S1/7.png",S1 Episod 7
+https://aqfadtvonedrive.vercel.app/api/raw/?path=/VOD/Series/7-Hari-Mencintaiku/S1/EP07.mp4
+
+#EXTINF:-1 type="series" group-title="7 Hari Mencintaiku" tvg-logo="https://aqfadtv.astradamy.com/images/7HariMencintaiku/S1/8.png",S1 Episod 8
+https://aqfadtvonedrive.vercel.app/api/raw/?path=/VOD/Series/7-Hari-Mencintaiku/S1/EP08.mp4
+
+#EXTINF:-1 type="series" group-title="7 Hari Mencintaiku" tvg-logo="https://aqfadtv.astradamy.com/images/7HariMencintaiku/S1/9.png",S1 Episod 9
+https://aqfadtvonedrive.vercel.app/api/raw/?path=/VOD/Series/7-Hari-Mencintaiku/S1/EP09.mp4
+
+#EXTINF:-1 type="series" group-title="7 Hari Mencintaiku" tvg-logo="https://aqfadtv.astradamy.com/images/7HariMencintaiku/S1/Poster.png",S1 Episod 10
+https://aqfadtvonedrive.vercel.app/api/raw/?path=/VOD/Series/7-Hari-Mencintaiku/S1/EP10.mp4
+
+#EXTINF:-1 type="series" group-title="7 Hari Mencintaiku" tvg-logo="https://aqfadtv.astradamy.com/images/7HariMencintaiku/S1/Poster.png",S1 Episod 11
+https://aqfadtvonedrive.vercel.app/api/raw/?path=/VOD/Series/7-Hari-Mencintaiku/S1/EP11.mp4
+
+#EXTINF:-1 type="series" group-title="7 Hari Mencintaiku" tvg-logo="https://aqfadtv.astradamy.com/images/7HariMencintaiku/S1/Poster.png",S1 Episod 12
+https://aqfadtvonedrive.vercel.app/api/raw/?path=/VOD/Series/7-Hari-Mencintaiku/S1/EP12.mp4
+
+#EXTINF:-1 type="series" group-title="7 Hari Mencintaiku" tvg-logo="https://aqfadtv.astradamy.com/images/7HariMencintaiku/S1/Poster.png",S1 Episod 13
+https://aqfadtvonedrive.vercel.app/api/raw/?path=/VOD/Series/7-Hari-Mencintaiku/S1/EP13.mp4
+
+#EXTINF:-1 type="series" group-title="7 Hari Mencintaiku" tvg-logo="https://aqfadtv.astradamy.com/images/7HariMencintaiku/S1/Poster.png",S1 Episod 14
+https://aqfadtvonedrive.vercel.app/api/raw/?path=/VOD/Series/7-Hari-Mencintaiku/S1/EP14.mp4
+
+#EXTINF:-1 type="series" group-title="7 Hari Mencintaiku" tvg-logo="https://aqfadtv.astradamy.com/images/7HariMencintaiku/S1/Poster.png",S1 Episod 15
+https://aqfadtvonedrive.vercel.app/api/raw/?path=/VOD/Series/7-Hari-Mencintaiku/S1/EP15.mp4
+
+#EXTINF:-1 type="series" group-title="7 Hari Mencintaiku" tvg-logo="https://aqfadtv.astradamy.com/images/7HariMencintaiku/S1/16.png",S1 Episod 16
+https://aqfadtvonedrive.vercel.app/api/raw/?path=/VOD/Series/7-Hari-Mencintaiku/S1/EP16.mp4
+
+#EXTINF:-1 type="series" group-title="7 Hari Mencintaiku" tvg-logo="https://aqfadtv.astradamy.com/images/7HariMencintaiku/S1/17.png",S1 Episod 17
+https://aqfadtvonedrive.vercel.app/api/raw/?path=/VOD/Series/7-Hari-Mencintaiku/S1/EP17.mp4
+
+#EXTINF:-1 type="series" group-title="7 Hari Mencintaiku" tvg-logo="https://aqfadtv.astradamy.com/images/7HariMencintaiku/S1/18.png",S1 Episod 18
+https://aqfadtvonedrive.vercel.app/api/raw/?path=/VOD/Series/7-Hari-Mencintaiku/S1/EP18.mp4
+
+#EXTINF:-1 type="series" group-title="7 Hari Mencintaiku" tvg-logo="https://aqfadtv.astradamy.com/images/7HariMencintaiku/S1/19.png",S1 Episod 19
+https://aqfadtvonedrive.vercel.app/api/raw/?path=/VOD/Series/7-Hari-Mencintaiku/S1/EP19.mp4
+
+#EXTINF:-1 type="series" group-title="7 Hari Mencintaiku" tvg-logo="https://aqfadtv.astradamy.com/images/7HariMencintaiku/S1/20.png",S1 Episod 20
+https://aqfadtvonedrive.vercel.app/api/raw/?path=/VOD/Series/7-Hari-Mencintaiku/S1/EP20.mp4
+
+#EXTINF:-1 type="series" group-title="7 Hari Mencintaiku" tvg-logo="https://aqfadtv.astradamy.com/images/7HariMencintaiku/S1/21.png",S1 Episod 21
+https://aqfadtvonedrive.vercel.app/api/raw/?path=/VOD/Series/7-Hari-Mencintaiku/S1/EP21.mp4
+
+#EXTINF:-1 type="series" group-title="7 Hari Mencintaiku" tvg-logo="https://aqfadtv.astradamy.com/images/7HariMencintaiku/S1/22.png",S1 Episod 22
+https://aqfadtvonedrive.vercel.app/api/raw/?path=/VOD/Series/7-Hari-Mencintaiku/S1/EP22.mp4
+
+#EXTINF:-1 type="series" group-title="7 Hari Mencintaiku" tvg-logo="https://aqfadtv.astradamy.com/images/7HariMencintaiku/S1/23.png",S1 Episod 23
+https://aqfadtvonedrive.vercel.app/api/raw/?path=/VOD/Series/7-Hari-Mencintaiku/S1/EP23.mp4
+
+#EXTINF:-1 type="series" group-title="7 Hari Mencintaiku" tvg-logo="https://aqfadtv.astradamy.com/images/7HariMencintaiku/S1/24.png",S1 Episod 24
+https://aqfadtvonedrive.vercel.app/api/raw/?path=/VOD/Series/7-Hari-Mencintaiku/S1/EP24.mp4
+
+#EXTINF:-1 type="series" group-title="7 Hari Mencintaiku" tvg-logo="https://aqfadtv.astradamy.com/images/7HariMencintaiku/S1/25.png",S1 Episod 25
+https://aqfadtvonedrive.vercel.app/api/raw/?path=/VOD/Series/7-Hari-Mencintaiku/S1/EP25.mp4
+
+#EXTINF:-1 type="series" group-title="7 Hari Mencintaiku" tvg-logo="https://aqfadtv.astradamy.com/images/7HariMencintaiku/S1/26.png",S1 Episod 26
+https://aqfadtvonedrive.vercel.app/api/raw/?path=/VOD/Series/7-Hari-Mencintaiku/S1/EP26.mp4
+
+#EXTINF:-1 type="series" group-title="7 Hari Mencintaiku" tvg-logo="https://aqfadtv.astradamy.com/images/7HariMencintaiku/S1/27.png",S1 Episod 27
+https://aqfadtvonedrive.vercel.app/api/raw/?path=/VOD/Series/7-Hari-Mencintaiku/S1/EP27.mp4
+
+#EXTINF:-1 type="series" group-title="7 Hari Mencintaiku" tvg-logo="https://aqfadtv.astradamy.com/images/7HariMencintaiku/S1/28.png",S1 Episod 28
+https://aqfadtvonedrive.vercel.app/api/raw/?path=/VOD/Series/7-Hari-Mencintaiku/S1/EP28.mp4
+
+#EXTINF:-1 type="series" group-title="7 Hari Mencintaiku" tvg-logo="https://aqfadtv.astradamy.com/images/7HariMencintaiku/S2/1.png",S2 Episod 1
+https://aqfadtvonedrive.vercel.app/api/raw/?path=/VOD/Series/7-Hari-Mencintaiku/S2/EP01.mp4
+
+#EXTINF:-1 type="series" group-title="7 Hari Mencintaiku" tvg-logo="https://aqfadtv.astradamy.com/images/7HariMencintaiku/S2/2.png",S2 Episod 2
+https://aqfadtvonedrive.vercel.app/api/raw/?path=/VOD/Series/7-Hari-Mencintaiku/S2/EP02.mp4
+
+#EXTINF:-1 type="series" group-title="7 Hari Mencintaiku" tvg-logo="https://aqfadtv.astradamy.com/images/7HariMencintaiku/S2/3.png",S2 Episod 3
+https://aqfadtvonedrive.vercel.app/api/raw/?path=/VOD/Series/7-Hari-Mencintaiku/S2/EP03.mp4
+
+#EXTINF:-1 type="series" group-title="7 Hari Mencintaiku" tvg-logo="https://aqfadtv.astradamy.com/images/7HariMencintaiku/S2/4.png",S2 Episod 4
+https://aqfadtvonedrive.vercel.app/api/raw/?path=/VOD/Series/7-Hari-Mencintaiku/S2/EP04.mp4
+
+#EXTINF:-1 type="series" group-title="7 Hari Mencintaiku" tvg-logo="https://aqfadtv.astradamy.com/images/7HariMencintaiku/S2/5.png",S2 Episod 5
+https://aqfadtvonedrive.vercel.app/api/raw/?path=/VOD/Series/7-Hari-Mencintaiku/S2/EP05.mp4
+
+#EXTINF:-1 type="series" group-title="7 Hari Mencintaiku" tvg-logo="https://aqfadtv.astradamy.com/images/7HariMencintaiku/S2/6.png",S2 Episod 6
+https://aqfadtvonedrive.vercel.app/api/raw/?path=/VOD/Series/7-Hari-Mencintaiku/S2/EP06.mp4
+
+#EXTINF:-1 type="series" group-title="7 Hari Mencintaiku" tvg-logo="https://aqfadtv.astradamy.com/images/7HariMencintaiku/S2/7.png",S2 Episod 7
+https://aqfadtvonedrive.vercel.app/api/raw/?path=/VOD/Series/7-Hari-Mencintaiku/S2/EP07.mp4
+
+#EXTINF:-1 type="series" group-title="7 Hari Mencintaiku" tvg-logo="https://aqfadtv.astradamy.com/images/7HariMencintaiku/S2/8.png",S2 Episod 8
+https://aqfadtvonedrive.vercel.app/api/raw/?path=/VOD/Series/7-Hari-Mencintaiku/S2/EP08.mp4
+
+#EXTINF:-1 type="series" group-title="7 Hari Mencintaiku" tvg-logo="https://aqfadtv.astradamy.com/images/7HariMencintaiku/S2/Poster.png",S2 Episod 9
+https://aqfadtvonedrive.vercel.app/api/raw/?path=/VOD/Series/7-Hari-Mencintaiku/S2/EP09.mp4
+
+#EXTINF:-1 type="series" group-title="7 Hari Mencintaiku" tvg-logo="https://aqfadtv.astradamy.com/images/7HariMencintaiku/S2/Poster.png",S2 Episod 10
+https://aqfadtvonedrive.vercel.app/api/raw/?path=/VOD/Series/7-Hari-Mencintaiku/S2/EP10.mp4
+
+#EXTINF:-1 type="series" group-title="7 Hari Mencintaiku" tvg-logo="https://aqfadtv.astradamy.com/images/7HariMencintaiku/S2/Poster.png",S2 Episod 11
+https://aqfadtvonedrive.vercel.app/api/raw/?path=/VOD/Series/7-Hari-Mencintaiku/S2/EP11.mp4
+
+#EXTINF:-1 type="series" group-title="7 Hari Mencintaiku" tvg-logo="https://aqfadtv.astradamy.com/images/7HariMencintaiku/S2/Poster.png",S2 Episod 12
+https://aqfadtvonedrive.vercel.app/api/raw/?path=/VOD/Series/7-Hari-Mencintaiku/S2/EP12.mp4
+
+#EXTINF:-1 type="series" group-title="7 Hari Mencintaiku" tvg-logo="https://aqfadtv.astradamy.com/images/7HariMencintaiku/S2/Poster.png",S2 Episod 13
+https://aqfadtvonedrive.vercel.app/api/raw/?path=/VOD/Series/7-Hari-Mencintaiku/S2/EP13.mp4
+
+#EXTINF:-1 type="series" group-title="7 Hari Mencintaiku" tvg-logo="https://aqfadtv.astradamy.com/images/7HariMencintaiku/S2/Poster.png",S2 Episod 14
+https://aqfadtvonedrive.vercel.app/api/raw/?path=/VOD/Series/7-Hari-Mencintaiku/S2/EP14.mp4
+
+#EXTINF:-1 type="series" group-title="7 Hari Mencintaiku" tvg-logo="https://aqfadtv.astradamy.com/images/7HariMencintaiku/S2/15.png",S2 Episod 15
+https://aqfadtvonedrive.vercel.app/api/raw/?path=/VOD/Series/7-Hari-Mencintaiku/S2/EP15.mp4
+
+#EXTINF:-1 type="series" group-title="7 Hari Mencintaiku" tvg-logo="https://aqfadtv.astradamy.com/images/7HariMencintaiku/S2/Poster.png",S2 Episod 16
+https://aqfadtvonedrive.vercel.app/api/raw/?path=/VOD/Series/7-Hari-Mencintaiku/S2/EP16.mp4
+
+#EXTINF:-1 type="series" group-title="7 Hari Mencintaiku" tvg-logo="https://aqfadtv.astradamy.com/images/7HariMencintaiku/S2/Poster.png",S2 Episod 17
+https://aqfadtvonedrive.vercel.app/api/raw/?path=/VOD/Series/7-Hari-Mencintaiku/S2/EP17.mp4
+
+#EXTINF:-1 type="series" group-title="7 Hari Mencintaiku" tvg-logo="https://aqfadtv.astradamy.com/images/7HariMencintaiku/S2/18.png",S2 Episod 18
+https://aqfadtvonedrive.vercel.app/api/raw/?path=/VOD/Series/7-Hari-Mencintaiku/S2/EP18.mp4
+
+#EXTINF:-1 type="series" group-title="7 Hari Mencintaiku" tvg-logo="https://aqfadtv.astradamy.com/images/7HariMencintaiku/S2/19.png",S2 Episod 19
+https://aqfadtvonedrive.vercel.app/api/raw/?path=/VOD/Series/7-Hari-Mencintaiku/S2/EP19.mp4
+
+#EXTINF:-1 type="series" group-title="7 Hari Mencintaiku" tvg-logo="https://aqfadtv.astradamy.com/images/7HariMencintaiku/S2/20.png",S2 Episod 20
+https://aqfadtvonedrive.vercel.app/api/raw/?path=/VOD/Series/7-Hari-Mencintaiku/S2/EP20.mp4
+
+#EXTINF:-1 type="series" group-title="7 Hari Mencintaiku" tvg-logo="https://aqfadtv.astradamy.com/images/7HariMencintaiku/S2/21.png",S2 Episod 21
+https://aqfadtvonedrive.vercel.app/api/raw/?path=/VOD/Series/7-Hari-Mencintaiku/S2/EP21.mp4
+
+#EXTINF:-1 type="series" group-title="7 Hari Mencintaiku" tvg-logo="https://aqfadtv.astradamy.com/images/7HariMencintaiku/S2/22.png",S2 Episod 22
+https://aqfadtvonedrive.vercel.app/api/raw/?path=/VOD/Series/7-Hari-Mencintaiku/S2/EP22.mp4
+
+#EXTINF:-1 type="series" group-title="7 Hari Mencintaiku" tvg-logo="https://aqfadtv.astradamy.com/images/7HariMencintaiku/S2/23.png",S2 Episod 23
+https://aqfadtvonedrive.vercel.app/api/raw/?path=/VOD/Series/7-Hari-Mencintaiku/S2/EP23.mp4
+
+#EXTINF:-1 type="series" group-title="7 Hari Mencintaiku" tvg-logo="https://aqfadtv.astradamy.com/images/7HariMencintaiku/S2/Poster.png",S2 Episod 24
+https://aqfadtvonedrive.vercel.app/api/raw/?path=/VOD/Series/7-Hari-Mencintaiku/S2/EP24.mp4
+
+#EXTINF:-1 type="series" group-title="7 Hari Mencintaiku" tvg-logo="https://aqfadtv.astradamy.com/images/7HariMencintaiku/S2/Poster.png",S2 Episod 25
+https://aqfadtvonedrive.vercel.app/api/raw/?path=/VOD/Series/7-Hari-Mencintaiku/S2/EP25.mp4
+
+#EXTINF:-1 type="series" group-title="7 Hari Mencintaiku" tvg-logo="https://aqfadtv.astradamy.com/images/7HariMencintaiku/S2/26.png",S2 Episod 26
+https://aqfadtvonedrive.vercel.app/api/raw/?path=/VOD/Series/7-Hari-Mencintaiku/S2/EP26.mp4
+
+#EXTINF:-1 type="series" group-title="7 Hari Mencintaiku" tvg-logo="https://aqfadtv.astradamy.com/images/7HariMencintaiku/S2/27.png",S2 Episod 27
+https://aqfadtvonedrive.vercel.app/api/raw/?path=/VOD/Series/7-Hari-Mencintaiku/S2/EP27.mp4
+
+#EXTINF:-1 type="series" group-title="7 Hari Mencintaiku" tvg-logo="https://aqfadtv.astradamy.com/images/7HariMencintaiku/S2/28.png",S2 Episod 28
+https://aqfadtvonedrive.vercel.app/api/raw/?path=/VOD/Series/7-Hari-Mencintaiku/S2/EP28.mp4
+
+#EXTINF:-1 type="series" group-title="7 Hari Mencintaiku" tvg-logo="https://aqfadtv.astradamy.com/images/7HariMencintaiku/S2/29.png",S2 Episod 29
+https://aqfadtvonedrive.vercel.app/api/raw/?path=/VOD/Series/7-Hari-Mencintaiku/S2/EP29.mp4
+
+#EXTINF:-1 type="series" group-title="7 Hari Mencintaiku" tvg-logo="https://aqfadtv.astradamy.com/images/7HariMencintaiku/S2/Poster.png",S2 Episod 30
+https://aqfadtvonedrive.vercel.app/api/raw/?path=/VOD/Series/7-Hari-Mencintaiku/S2/EP30.mp4
+
+#EXTINF:-1 type="series" group-title="7 Hari Mencintaiku" tvg-logo="https://aqfadtv.astradamy.com/images/7HariMencintaiku/S2/31.png",S2 Episod 31
+https://aqfadtvonedrive.vercel.app/api/raw/?path=/VOD/Series/7-Hari-Mencintaiku/S2/EP31.mp4
+
+#EXTINF:-1 type="series" group-title="7 Hari Mencintaiku" tvg-logo="https://aqfadtv.astradamy.com/images/7HariMencintaiku/S2/32.png",S2 Episod 32
+https://aqfadtvonedrive.vercel.app/api/raw/?path=/VOD/Series/7-Hari-Mencintaiku/S2/EP32.mp4
+
+#EXTINF:-1 type="series" group-title="7 Hari Mencintaiku" tvg-logo="https://aqfadtv.astradamy.com/images/7HariMencintaiku/S2/33.png",S2 Episod 33
+https://aqfadtvonedrive.vercel.app/api/raw/?path=/VOD/Series/7-Hari-Mencintaiku/S2/EP33.mp4
+
+#EXTINF:-1 type="series" group-title="Kerana Dia Suka" tvg-logo="https://aqfadtv.astradamy.com/images/KeranaDiaSuka/1.png",Episod 1
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Kerana-Dia-Suka/EP1.mp4
+
+#EXTINF:-1 type="series" group-title="Kerana Dia Suka" tvg-logo="https://aqfadtv.astradamy.com/images/KeranaDiaSuka/2.png",Episod 2
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Kerana-Dia-Suka/EP2.mp4
+
+#EXTINF:-1 type="series" group-title="Kerana Dia Suka" tvg-logo="https://aqfadtv.astradamy.com/images/KeranaDiaSuka/3.png",Episod 3
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Kerana-Dia-Suka/EP3.mp4
+
+#EXTINF:-1 type="series" group-title="Kerana Dia Suka" tvg-logo="https://aqfadtv.astradamy.com/images/KeranaDiaSuka/4.png",Episod 4
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Kerana-Dia-Suka/EP4.mp4
+
+#EXTINF:-1 type="series" group-title="Kerana Dia Suka" tvg-logo="https://aqfadtv.astradamy.com/images/KeranaDiaSuka/5.png",Episod 5
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Kerana-Dia-Suka/EP5.mp4
+
+#EXTINF:-1 type="series" group-title="Kerana Dia Suka" tvg-logo="https://aqfadtv.astradamy.com/images/KeranaDiaSuka/6.png",Episod 6
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Kerana-Dia-Suka/EP6.mp4
+
+#EXTINF:-1 type="series" group-title="Kerana Dia Suka" tvg-logo="https://aqfadtv.astradamy.com/images/KeranaDiaSuka/7.png",Episod 7
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Kerana-Dia-Suka/EP7.mp4
+
+#EXTINF:-1 type="series" group-title="Kerana Dia Suka" tvg-logo="https://aqfadtv.astradamy.com/images/KeranaDiaSuka/8.png",Episod 8
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Kerana-Dia-Suka/EP8.mp4
+
+#EXTINF:-1 type="series" group-title="Kerana Dia Suka" tvg-logo="https://aqfadtv.astradamy.com/images/KeranaDiaSuka/9.png",Episod 9
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Kerana-Dia-Suka/EP9.mp4
+
+#EXTINF:-1 type="series" group-title="Kerana Dia Suka" tvg-logo="https://aqfadtv.astradamy.com/images/KeranaDiaSuka/10.png",Episod 10
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Kerana-Dia-Suka/EP10.mp4
+
+#EXTINF:-1 type="series" group-title="Kerana Dia Suka" tvg-logo="https://aqfadtv.astradamy.com/images/KeranaDiaSuka/11.png",Episod 11
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Kerana-Dia-Suka/EP11.mp4
+
+#EXTINF:-1 type="series" group-title="Kerana Dia Suka" tvg-logo="https://aqfadtv.astradamy.com/images/KeranaDiaSuka/12.png",Episod 12
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Kerana-Dia-Suka/EP12.mp4
+
+#EXTINF:-1 type="series" group-title="Kerana Dia Suka" tvg-logo="https://aqfadtv.astradamy.com/images/KeranaDiaSuka/13.png",Episod 13
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Kerana-Dia-Suka/EP13.mp4
+
+#EXTINF:-1 type="series" group-title="Kerana Dia Suka" tvg-logo="https://aqfadtv.astradamy.com/images/KeranaDiaSuka/14.png",Episod 14
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Kerana-Dia-Suka/EP14.mp4
+
+#EXTINF:-1 type="series" group-title="Kerana Dia Suka" tvg-logo="https://aqfadtv.astradamy.com/images/KeranaDiaSuka/15.png",Episod 15
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Kerana-Dia-Suka/EP15.mp4
+
+#EXTINF:-1 type="series" group-title="Kerana Dia Suka" tvg-logo="https://aqfadtv.astradamy.com/images/KeranaDiaSuka/16.png",Episod 16
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Kerana-Dia-Suka/EP16.mp4
+
+#EXTINF:-1 type="series" group-title="Kerana Dia Suka" tvg-logo="https://aqfadtv.astradamy.com/images/KeranaDiaSuka/17.png",Episod 17
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Kerana-Dia-Suka/EP17.mp4
+
+#EXTINF:-1 type="series" group-title="Kerana Dia Suka" tvg-logo="https://aqfadtv.astradamy.com/images/KeranaDiaSuka/18.png",Episod 18
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Kerana-Dia-Suka/EP18.mp4
+
+#EXTINF:-1 type="series" group-title="Kerana Dia Suka" tvg-logo="https://aqfadtv.astradamy.com/images/KeranaDiaSuka/19.png",Episod 19
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Kerana-Dia-Suka/EP19.mp4
+
+#EXTINF:-1 type="series" group-title="Kerana Dia Suka" tvg-logo="https://aqfadtv.astradamy.com/images/KeranaDiaSuka/19.png",Episod 20
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Kerana-Dia-Suka/EP20.mp4
+
+#EXTINF:-1 type="series" group-title="Do You Love Me, Captain?" tvg-logo="https://aqfadtv.astradamy.com/images/DoYouLoveMeCaptain/1.png",Episod 1
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Do-You-Love-Me-Captain/EP01.mp4
+
+#EXTINF:-1 type="series" group-title="Do You Love Me, Captain?" tvg-logo="https://aqfadtv.astradamy.com/images/DoYouLoveMeCaptain/2.png",Episod 2
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Do-You-Love-Me-Captain/EP02.mp4
+
+#EXTINF:-1 type="series" group-title="Bila Hati Memilih Dia" tvg-logo="https://aqfadtv.astradamy.com/images/BilaHatiMemilihDia/1.png",Episod 1
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Bila-Hati-Memilih-Dia/EP01.mp4
+
+#EXTINF:-1 type="series" group-title="Bila Hati Memilih Dia" tvg-logo="https://aqfadtv.astradamy.com/images/BilaHatiMemilihDia/2.png",Episod 2
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Bila-Hati-Memilih-Dia/EP02.mp4
+
+#EXTINF:-1 type="series" group-title="Bila Hati Memilih Dia" tvg-logo="https://aqfadtv.astradamy.com/images/BilaHatiMemilihDia/3.png",Episod 3
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Bila-Hati-Memilih-Dia/EP03.mp4
+
+#EXTINF:-1 type="series" group-title="Bila Hati Memilih Dia" tvg-logo="https://aqfadtv.astradamy.com/images/BilaHatiMemilihDia/4.png",Episod 4
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Bila-Hati-Memilih-Dia/EP04.mp4
+
+#EXTINF:-1 type="series" group-title="Bila Hati Memilih Dia" tvg-logo="https://aqfadtv.astradamy.com/images/BilaHatiMemilihDia/5.png",Episod 5
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Bila-Hati-Memilih-Dia/EP05.mp4
+
+#EXTINF:-1 type="series" group-title="Bila Hati Memilih Dia" tvg-logo="https://aqfadtv.astradamy.com/images/BilaHatiMemilihDia/6.png",Episod 6
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Bila-Hati-Memilih-Dia/EP06.mp4
+
+#EXTINF:-1 type="series" group-title="Bila Hati Memilih Dia" tvg-logo="https://aqfadtv.astradamy.com/images/BilaHatiMemilihDia/7.png",Episod 7
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Bila-Hati-Memilih-Dia/EP07.mp4
+
+#EXTINF:-1 type="series" group-title="Bila Hati Memilih Dia" tvg-logo="https://aqfadtv.astradamy.com/images/BilaHatiMemilihDia/8.png",Episod 8
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Bila-Hati-Memilih-Dia/EP08.mp4
+
+#EXTINF:-1 type="series" group-title="Bila Hati Memilih Dia" tvg-logo="https://aqfadtv.astradamy.com/images/BilaHatiMemilihDia/9.png",Episod 9
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Bila-Hati-Memilih-Dia/EP09.mp4
+
+#EXTINF:-1 type="series" group-title="Bila Hati Memilih Dia" tvg-logo="https://aqfadtv.astradamy.com/images/BilaHatiMemilihDia/10.png",Episod 10
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Bila-Hati-Memilih-Dia/EP10.mp4
+
+#EXTINF:-1 type="series" group-title="Bila Hati Memilih Dia" tvg-logo="https://aqfadtv.astradamy.com/images/BilaHatiMemilihDia/11.png",Episod 11
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Bila-Hati-Memilih-Dia/EP11.mp4
+
+#EXTINF:-1 type="series" group-title="Suamiku Lelaki Pendosa" tvg-logo="https://aqfadtv.astradamy.com/images/SuamikuLelakiPendosa/1.png",Episod 1
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Suamiku-Lelaki-Pendosa/EP1.mp4
+
+#EXTINF:-1 type="series" group-title="Suamiku Lelaki Pendosa" tvg-logo="https://aqfadtv.astradamy.com/images/SuamikuLelakiPendosa/2.png",Episod 2
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Suamiku-Lelaki-Pendosa/EP2.mp4
+
+#EXTINF:-1 type="series" group-title="Suamiku Lelaki Pendosa" tvg-logo="https://aqfadtv.astradamy.com/images/SuamikuLelakiPendosa/3.png",Episod 3
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Suamiku-Lelaki-Pendosa/EP3.mp4
+
+#EXTINF:-1 type="series" group-title="Suamiku Lelaki Pendosa" tvg-logo="https://aqfadtv.astradamy.com/images/SuamikuLelakiPendosa/4.png",Episod 4
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Suamiku-Lelaki-Pendosa/EP4.mp4
+
+#EXTINF:-1 type="series" group-title="Suamiku Lelaki Pendosa" tvg-logo="https://aqfadtv.astradamy.com/images/SuamikuLelakiPendosa/5.png",Episod 5
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Suamiku-Lelaki-Pendosa/EP5.mp4
+
+#EXTINF:-1 type="series" group-title="Suamiku Lelaki Pendosa" tvg-logo="https://aqfadtv.astradamy.com/images/SuamikuLelakiPendosa/6.png",Episod 6
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Suamiku-Lelaki-Pendosa/EP6.mp4
+
+#EXTINF:-1 type="series" group-title="Suamiku Lelaki Pendosa" tvg-logo="https://aqfadtv.astradamy.com/images/SuamikuLelakiPendosa/7.png",Episod 7
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Suamiku-Lelaki-Pendosa/EP7.mp4
+
+#EXTINF:-1 type="series" group-title="Suamiku Lelaki Pendosa" tvg-logo="https://aqfadtv.astradamy.com/images/SuamikuLelakiPendosa/8.png",Episod 8
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Suamiku-Lelaki-Pendosa/EP8.mp4
+
+#EXTINF:-1 type="series" group-title="Suamiku Lelaki Pendosa" tvg-logo="https://aqfadtv.astradamy.com/images/SuamikuLelakiPendosa/9.png",Episod 9
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Suamiku-Lelaki-Pendosa/EP9.mp4
+
+#EXTINF:-1 type="series" group-title="Suamiku Lelaki Pendosa" tvg-logo="https://aqfadtv.astradamy.com/images/SuamikuLelakiPendosa/10.png",Episod 10
+https://aqfadtvonedrive.vercel.app/api/raw/?path=/VOD/Series/Suamiku-Lelaki-Pendosa/EP10.mp4
+
+#EXTINF:-1 type="series" group-title="Suamiku Lelaki Pendosa" tvg-logo="https://aqfadtv.astradamy.com/images/SuamikuLelakiPendosa/11.png",Episod 11
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Suamiku-Lelaki-Pendosa/EP11.mp4
+
+#EXTINF:-1 type="series" group-title="Suamiku Lelaki Pendosa" tvg-logo="https://aqfadtv.astradamy.com/images/SuamikuLelakiPendosa/12.png",Episod 12
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Suamiku-Lelaki-Pendosa/EP12.mp4
+
+#EXTINF:-1 type="series" group-title="Suamiku Lelaki Pendosa" tvg-logo="https://aqfadtv.astradamy.com/images/SuamikuLelakiPendosa/13.png",Episod 13
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Suamiku-Lelaki-Pendosa/EP13.mp4
+
+#EXTINF:-1 type="series" group-title="Suamiku Lelaki Pendosa" tvg-logo="https://aqfadtv.astradamy.com/images/SuamikuLelakiPendosa/14.png",Episod 14
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Suamiku-Lelaki-Pendosa/EP14.mp4
+
+#EXTINF:-1 type="series" group-title="Suamiku Lelaki Pendosa" tvg-logo="https://aqfadtv.astradamy.com/images/SuamikuLelakiPendosa/15.png",Episod 15
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Suamiku-Lelaki-Pendosa/EP15.mp4
+
+#EXTINF:-1 type="series" group-title="Suamiku Lelaki Pendosa" tvg-logo="https://aqfadtv.astradamy.com/images/SuamikuLelakiPendosa/16.png",Episod 16
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Suamiku-Lelaki-Pendosa/EP16.mp4
+
+#EXTINF:-1 type="series" group-title="Suamiku Lelaki Pendosa" tvg-logo="https://aqfadtv.astradamy.com/images/SuamikuLelakiPendosa/17.png",Episod 17
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Suamiku-Lelaki-Pendosa/EP17.mp4
+
+#EXTINF:-1 type="series" group-title="Suamiku Lelaki Pendosa" tvg-logo="https://aqfadtv.astradamy.com/images/SuamikuLelakiPendosa/18.png",Episod 18
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Suamiku-Lelaki-Pendosa/EP18.mp4
+
+#EXTINF:-1 type="series" group-title="Suamiku Lelaki Pendosa" tvg-logo="https://aqfadtv.astradamy.com/images/SuamikuLelakiPendosa/19.png",Episod 19
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Suamiku-Lelaki-Pendosa/EP19.mp4
+
+#EXTINF:-1 type="series" group-title="Suamiku Lelaki Pendosa" tvg-logo="https://aqfadtv.astradamy.com/images/SuamikuLelakiPendosa/20.png",Episod 20
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Suamiku-Lelaki-Pendosa/EP20.mp4
+
+#EXTINF:-1 type="series" group-title="Suamiku Lelaki Pendosa" tvg-logo="https://aqfadtv.astradamy.com/images/SuamikuLelakiPendosa/21.png",Episod 21
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Suamiku-Lelaki-Pendosa/EP21.mp4
+
+#EXTINF:-1 type="series" group-title="Suamiku Lelaki Pendosa" tvg-logo="https://aqfadtv.astradamy.com/images/SuamikuLelakiPendosa/22.png",Episod 22
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Suamiku-Lelaki-Pendosa/EP22.mp4
+
+#EXTINF:-1 type="series" group-title="Suamiku Lelaki Pendosa" tvg-logo="https://aqfadtv.astradamy.com/images/SuamikuLelakiPendosa/23.png",Episod 23
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Suamiku-Lelaki-Pendosa/EP23.mp4
+
+#EXTINF:-1 type="series" group-title="Suamiku Lelaki Pendosa" tvg-logo="https://aqfadtv.astradamy.com/images/SuamikuLelakiPendosa/24.png",Episod 24
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Suamiku-Lelaki-Pendosa/EP24.mp4
+
+#EXTINF:-1 type="series" group-title="Suamiku Lelaki Pendosa" tvg-logo="https://aqfadtv.astradamy.com/images/SuamikuLelakiPendosa/25.png",Episod 25
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Suamiku-Lelaki-Pendosa/EP25.mp4
+
+#EXTINF:-1 type="series" group-title="Suamiku Lelaki Pendosa" tvg-logo="https://aqfadtv.astradamy.com/images/SuamikuLelakiPendosa/26.png",Episod 26
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Suamiku-Lelaki-Pendosa/EP26.mp4
+
+#EXTINF:-1 type="series" group-title="Suamiku Lelaki Pendosa" tvg-logo="https://aqfadtv.astradamy.com/images/SuamikuLelakiPendosa/27.png",Episod 27
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Suamiku-Lelaki-Pendosa/EP27.mp4
+
+#EXTINF:-1 type="series" group-title="Suamiku Lelaki Pendosa" tvg-logo="https://aqfadtv.astradamy.com/images/SuamikuLelakiPendosa/28.png",Episod 28
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Suamiku-Lelaki-Pendosa/EP28.mp4
+
+#EXTINF:-1 type="series" group-title="Bunga Hati" tvg-logo="https://aqfadtv.astradamy.com/images/BungaHati/IVP(STB_OTT_STV)_JYXKX_IVP_LAND_448x252_2022111_144656.jpg",Episod 1
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Sayang-Tak-Dikenang/EP1.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Bunga Hati" tvg-logo="https://aqfadtv.astradamy.com/images/BungaHati/IVP(STB_OTT_STV)_JYXKY_IVP_LAND_432x243_2022111_19355.jpg",Episod 2
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Bunga-Hati/EP2.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Bunga Hati" tvg-logo="https://aqfadtv.astradamy.com/images/BungaHati/IVP(STB_OTT_STV)_JYXKZ_IVP_LAND_448x252_2022112_2053.jpg",Episod 3
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Bunga-Hati/EP3.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Bunga Hati" tvg-logo="https://aqfadtv.astradamy.com/images/BungaHati/IVP(STB_OTT_STV)_JYXLA_IVP_LAND_448x252_2022113_2275.jpg",Episod 4
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Bunga-Hati/EP4.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Bunga Hati" tvg-logo="https://aqfadtv.astradamy.com/images/BungaHati/IVP(STB_OTT_STV)_JYXLB_IVP_LAND_448x252_2022117_202246.jpg",Episod 5
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Bunga-Hati/EP5.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Bunga Hati" tvg-logo="https://aqfadtv.astradamy.com/images/BungaHati/IVP(STB_OTT_STV)_JYXLC_IVP_LAND_448x252_2022118_203352.jpg",Episod 6
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Bunga-Hati/EP6.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Bunga Hati" tvg-logo="https://aqfadtv.astradamy.com/images/BungaHati/IVP(STB_OTT_STV)_JYXLD_IVP_LAND_448x252_2022228_142910.jpg",Episod 7
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Bunga-Hati/EP7.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Bunga Hati" tvg-logo="https://aqfadtv.astradamy.com/images/BungaHati/IVP(STB_OTT_STV)_JYXLE_IVP_LAND_448x252_202224_131347.jpg",Episod 8
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Bunga-Hati/EP8.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Bunga Hati" tvg-logo="https://aqfadtv.astradamy.com/images/BungaHati/IVP(STB_OTT_STV)_JYXLF_IVP_LAND_448x252_202227_17547.jpg",Episod 9
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Bunga-Hati/EP9.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Bunga Hati" tvg-logo="https://aqfadtv.astradamy.com/images/BungaHati/IVP(STB_OTT_STV)_JYXLG_IVP_LAND_448x252_202224_131536.jpg",Episod 10
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Bunga-Hati/EP10.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Bunga Hati" tvg-logo="https://aqfadtv.astradamy.com/images/BungaHati/IVP(STB_OTT_STV)_JYXLH_IVP_LAND_448x252_202224_132253.jpg",Episod 11
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Bunga-Hati/EP11.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Bunga Hati" tvg-logo="https://aqfadtv.astradamy.com/images/BungaHati/IVP(STB_OTT_STV)_JYXLI_IVP_LAND_448x252_202224_132511.jpg",Episod 12
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Bunga-Hati/EP12.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Bunga Hati" tvg-logo="https://aqfadtv.astradamy.com/images/BungaHati/IVP(STB_OTT_STV)_JYXLJ_IVP_LAND_448x252_2022228_151735.jpg",Episod 13
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Bunga-Hati/EP13.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Bunga Hati" tvg-logo="https://aqfadtv.astradamy.com/images/BungaHati/IVP(STB_OTT_STV)_JYXLK_IVP_LAND_448x252_2022228_141740.jpg",Episod 14
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Bunga-Hati/EP14.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Bunga Hati" tvg-logo="https://aqfadtv.astradamy.com/images/BungaHati/IVP(STB_OTT_STV)_JYXLL_IVP_LAND_448x252_2022228_14245.jpg",Episod 15
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Bunga-Hati/EP15.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Bunga Hati" tvg-logo="https://aqfadtv.astradamy.com/images/BungaHati/IVP(STB_OTT_STV)_JYXLM_IVP_LAND_448x252_2022228_135449.jpg",Episod 16
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Bunga-Hati/EP16.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Bunga Hati" tvg-logo="https://aqfadtv.astradamy.com/images/BungaHati/IVP(STB_OTT_STV)_JYXLN_IVP_LAND_448x252_2022228_134559.jpg",Episod 17
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Bunga-Hati/EP17.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Bunga Hati" tvg-logo="https://aqfadtv.astradamy.com/images/BungaHati/IVP(STB_OTT_STV)_JYXLO_IVP_LAND_448x252_2022228_14251.jpg",Episod 18
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Bunga-Hati/EP18.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Bunga Hati" tvg-logo="https://aqfadtv.astradamy.com/images/BungaHati/IVP(STB_OTT_STV)_JYXLP_IVP_LAND_448x252_2022228_191652.jpg",Episod 19
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Bunga-Hati/EP19.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Bunga Hati" tvg-logo="https://aqfadtv.astradamy.com/images/BungaHati/IVP(STB_OTT_STV)_JYXLQ_IVP_LAND_448x252_2022228_192743.jpg",Episod 20
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Bunga-Hati/EP20.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Tetuan Ang & Rahimin" tvg-logo="https://aqfadtv.astradamy.com/images/TetuanAng&Rahimin/1.jpg",Episod 1
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Tetuan-Ang-Dan-Rahimin/EP01.mp4
+
+#EXTINF:-1 type="series" group-title="Tetuan Ang & Rahimin" tvg-logo="https://aqfadtv.astradamy.com/images/TetuanAng&Rahimin/2.jpg",Episod 2
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Tetuan-Ang-Dan-Rahimin/EP02.mp4
+
+#EXTINF:-1 type="series" group-title="Tetuan Ang & Rahimin" tvg-logo="https://aqfadtv.astradamy.com/images/TetuanAng&Rahimin/3.jpg",Episod 3
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Tetuan-Ang-Dan-Rahimin/EP03.mp4
+
+#EXTINF:-1 type="series" group-title="Tetuan Ang & Rahimin" tvg-logo="https://aqfadtv.astradamy.com/images/TetuanAng&Rahimin/4.jpg",Episod 4
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Tetuan-Ang-Dan-Rahimin/EP04.mp4
+
+#EXTINF:-1 type="series" group-title="Tetuan Ang & Rahimin" tvg-logo="https://aqfadtv.astradamy.com/images/TetuanAng&Rahimin/5.jpg",Episod 5
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Tetuan-Ang-Dan-Rahimin/EP05.mp4
+
+#EXTINF:-1 type="series" group-title="Tetuan Ang & Rahimin" tvg-logo="https://aqfadtv.astradamy.com/images/TetuanAng&Rahimin/6.jpg",Episod 6
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Tetuan-Ang-Dan-Rahimin/EP06.mp4
+
+#EXTINF:-1 type="series" group-title="Tetuan Ang & Rahimin" tvg-logo="https://aqfadtv.astradamy.com/images/TetuanAng&Rahimin/7.jpg",Episod 7
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Tetuan-Ang-Dan-Rahimin/EP07.mp4
+
+#EXTINF:-1 type="series" group-title="Tetuan Ang & Rahimin" tvg-logo="https://aqfadtv.astradamy.com/images/TetuanAng&Rahimin/8.jpg",Episod 8
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Tetuan-Ang-Dan-Rahimin/EP08.mp4
+
+#EXTINF:-1 type="series" group-title="Tetuan Ang & Rahimin" tvg-logo="https://aqfadtv.astradamy.com/images/TetuanAng&Rahimin/9.jpg",Episod 9
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Tetuan-Ang-Dan-Rahimin/EP09.mp4
+
+#EXTINF:-1 type="series" group-title="Tetuan Ang & Rahimin" tvg-logo="https://aqfadtv.astradamy.com/images/TetuanAng&Rahimin/10.jpg",Episod 10
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Tetuan-Ang-Dan-Rahimin/EP10.mp4
+
+#EXTINF:-1 type="series" group-title="Tetuan Ang & Rahimin" tvg-logo="https://aqfadtv.astradamy.com/images/TetuanAng&Rahimin/11.jpg",Episod 11
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Tetuan-Ang-Dan-Rahimin/EP11.mp4
+
+#EXTINF:-1 type="series" group-title="Tetuan Ang & Rahimin" tvg-logo="https://aqfadtv.astradamy.com/images/TetuanAng&Rahimin/12.jpg",Episod 12
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Tetuan-Ang-Dan-Rahimin/EP12.mp4
+
+#EXTINF:-1 type="series" group-title="Tetuan Ang & Rahimin" tvg-logo="https://aqfadtv.astradamy.com/images/TetuanAng&Rahimin/13.jpg",Episod 13
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Tetuan-Ang-Dan-Rahimin/EP13.mp4
+
+#EXTINF:-1 type="series" group-title="Tetuan Ang & Rahimin" tvg-logo="https://aqfadtv.astradamy.com/images/TetuanAng&Rahimin/14.jpg",Episod 14
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Tetuan-Ang-Dan-Rahimin/EP14.mp4
+
+#EXTINF:-1 type="series" group-title="Tetuan Ang & Rahimin" tvg-logo="https://aqfadtv.astradamy.com/images/TetuanAng&Rahimin/15.jpg",Episod 15
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Tetuan-Ang-Dan-Rahimin/EP15.mp4
+
+#EXTINF:-1 type="series" group-title="Tetuan Ang & Rahimin" tvg-logo="https://aqfadtv.astradamy.com/images/TetuanAng&Rahimin/15.jpg",Episod 16
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Tetuan-Ang-Dan-Rahimin/EP16.mp4
+
+#EXTINF:-1 type="series" group-title="Tetuan Ang & Rahimin" tvg-logo="https://aqfadtv.astradamy.com/images/TetuanAng&Rahimin/15.jpg",Episod 17
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Tetuan-Ang-Dan-Rahimin/EP17.mp4
+
+#EXTINF:-1 type="series" group-title="Tetuan Ang & Rahimin" tvg-logo="https://aqfadtv.astradamy.com/images/TetuanAng&Rahimin/15.jpg",Episod 18
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Tetuan-Ang-Dan-Rahimin/EP18.mp4
+
+#EXTINF:-1 type="series" group-title="Tetuan Ang & Rahimin" tvg-logo="https://aqfadtv.astradamy.com/images/TetuanAng&Rahimin/15.jpg",Episod 19
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Tetuan-Ang-Dan-Rahimin/EP19.mp4
+
+#EXTINF:-1 type="series" group-title="Tetuan Ang & Rahimin" tvg-logo="https://aqfadtv.astradamy.com/images/TetuanAng&Rahimin/15.jpg",Episod 20
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Tetuan-Ang-Dan-Rahimin/EP20.mp4
+
+#EXTINF:-1 type="series" group-title="Pok Ya Cong Codei Memburu Siti" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KAADE_IVP_LAND_448x252_202241_34326.jpg",Episod 1
+https://aqfadtvonedrive.vercel.app/api/raw/?path=/VOD/Series/Pok-Ya-Cong-Codei-Memburu-Siti/EP01.mp4
+
+#EXTINF:-1 type="series" group-title="Pok Ya Cong Codei Memburu Siti" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KAADF_IVP_LAND_448x252_202241_3139.jpg",Episod 2
+https://aqfadtvonedrive.vercel.app/api/raw/?path=/VOD/Series/Pok-Ya-Cong-Codei-Memburu-Siti/EP02.mp4
+
+#EXTINF:-1 type="series" group-title="Pok Ya Cong Codei Memburu Siti" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KAADG_IVP_LAND_448x252_202241_31131.jpg",Episod 3
+https://aqfadtvonedrive.vercel.app/api/raw/?path=/VOD/Series/Pok-Ya-Cong-Codei-Memburu-Siti/EP03.mp4
+
+#EXTINF:-1 type="series" group-title="Pok Ya Cong Codei Memburu Siti" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KAADG_IVP_LAND_448x252_202241_31131.jpg",Episod 4
+https://aqfadtvonedrive.vercel.app/api/raw/?path=/VOD/Series/Pok-Ya-Cong-Codei-Memburu-Siti/EP04.mp4
+
+#EXTINF:-1 type="series" group-title="Pok Ya Cong Codei Memburu Siti" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KAADG_IVP_LAND_448x252_202241_31131.jpg",Episod 5
+https://aqfadtvonedrive.vercel.app/api/raw/?path=/VOD/Series/Pok-Ya-Cong-Codei-Memburu-Siti/EP05.mp4
+
+#EXTINF:-1 type="series" group-title="Pok Ya Cong Codei Memburu Siti" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KAADG_IVP_LAND_448x252_202241_31131.jpg",Episod 6
+https://aqfadtvonedrive.vercel.app/api/raw/?path=/VOD/Series/Pok-Ya-Cong-Codei-Memburu-Siti/EP06.mp4
+
+#EXTINF:-1 type="series" group-title="Pok Ya Cong Codei Memburu Siti" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KAADG_IVP_LAND_448x252_202241_31131.jpg",Episod 7
+https://aqfadtvonedrive.vercel.app/api/raw/?path=/VOD/Series/Pok-Ya-Cong-Codei-Memburu-Siti/EP07.mp4
+
+#EXTINF:-1 type="series" group-title="Pok Ya Cong Codei Memburu Siti" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KAADG_IVP_LAND_448x252_202241_31131.jpg",Episod 8
+https://aqfadtvonedrive.vercel.app/api/raw/?path=/VOD/Series/Pok-Ya-Cong-Codei-Memburu-Siti/EP08.mp4
+
+#EXTINF:-1 type="series" group-title="Pok Ya Cong Codei Memburu Siti" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KAADG_IVP_LAND_448x252_202241_31131.jpg",Episod 9
+https://aqfadtvonedrive.vercel.app/api/raw/?path=/VOD/Series/Pok-Ya-Cong-Codei-Memburu-Siti/EP09.mp4
+
+#EXTINF:-1 type="series" group-title="Pok Ya Cong Codei Memburu Siti" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KAADG_IVP_LAND_448x252_202241_31131.jpg",Episod 10
+https://aqfadtvonedrive.vercel.app/api/raw/?path=/VOD/Series/Pok-Ya-Cong-Codei-Memburu-Siti/EP10.mp4
+
+#EXTINF:-1 type="series" group-title="Pok Ya Cong Codei Memburu Siti" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KAADG_IVP_LAND_448x252_202241_31131.jpg",Episod 11
+https://aqfadtvonedrive.vercel.app/api/raw/?path=/VOD/Series/Pok-Ya-Cong-Codei-Memburu-Siti/EP11.mp4
+
+#EXTINF:-1 type="series" group-title="Pok Ya Cong Codei Memburu Siti" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KAADG_IVP_LAND_448x252_202241_31131.jpg",Episod 12
+https://aqfadtvonedrive.vercel.app/api/raw/?path=/VOD/Series/Pok-Ya-Cong-Codei-Memburu-Siti/EP12.mp4
+
+#EXTINF:-1 type="series" group-title="Dendam Seorang Isteri" tvg-logo="https://aqfadtv.astradamy.com/images/DendamSeorangIsteri/1.png",Episod 1
+https://aqfadtvonedrive.vercel.app/api/raw/?path=/VOD/Series/Dendam-Seorang-Isteri/EP01.mp4
+
+#EXTINF:-1 type="series" group-title="Dendam Seorang Isteri" tvg-logo="https://aqfadtv.astradamy.com/images/DendamSeorangIsteri/2.png",Episod 2
+https://aqfadtvonedrive.vercel.app/api/raw/?path=/VOD/Series/Dendam-Seorang-Isteri/EP02.mp4
+
+#EXTINF:-1 type="series" group-title="Dendam Seorang Isteri" tvg-logo="https://aqfadtv.astradamy.com/images/DendamSeorangIsteri/3.png",Episod 3
+https://aqfadtvonedrive.vercel.app/api/raw/?path=/VOD/Series/Dendam-Seorang-Isteri/EP03.mp4
+
+#EXTINF:-1 type="series" group-title="Dendam Seorang Isteri" tvg-logo="https://aqfadtv.astradamy.com/images/DendamSeorangIsteri/4.png",Episod 4
+https://aqfadtvonedrive.vercel.app/api/raw/?path=/VOD/Series/Dendam-Seorang-Isteri/EP04.mp4
+
+#EXTINF:-1 type="series" group-title="Dendam Seorang Isteri" tvg-logo="https://aqfadtv.astradamy.com/images/DendamSeorangIsteri/5.png",Episod 5
+https://aqfadtvonedrive.vercel.app/api/raw/?path=/VOD/Series/Dendam-Seorang-Isteri/EP05.mp4
+
+#EXTINF:-1 type="series" group-title="Dendam Seorang Isteri" tvg-logo="https://aqfadtv.astradamy.com/images/DendamSeorangIsteri/6.png",Episod 6
+https://aqfadtvonedrive.vercel.app/api/raw/?path=/VOD/Series/Dendam-Seorang-Isteri/EP06.mp4
+
+#EXTINF:-1 type="series" group-title="Dendam Seorang Isteri" tvg-logo="https://aqfadtv.astradamy.com/images/DendamSeorangIsteri/7.png",Episod 7
+https://aqfadtvonedrive.vercel.app/api/raw/?path=/VOD/Series/Dendam-Seorang-Isteri/EP07.mp4
+
+#EXTINF:-1 type="series" group-title="Dendam Seorang Isteri" tvg-logo="https://aqfadtv.astradamy.com/images/DendamSeorangIsteri/8.png",Episod 8
+https://aqfadtvonedrive.vercel.app/api/raw/?path=/VOD/Series/Dendam-Seorang-Isteri/EP08.mp4
+
+#EXTINF:-1 type="series" group-title="Dendam Seorang Isteri" tvg-logo="https://aqfadtv.astradamy.com/images/DendamSeorangIsteri/9.png",Episod 9
+https://aqfadtvonedrive.vercel.app/api/raw/?path=/VOD/Series/Dendam-Seorang-Isteri/EP09.mp4
+
+#EXTINF:-1 type="series" group-title="Dendam Seorang Isteri" tvg-logo="https://aqfadtv.astradamy.com/images/DendamSeorangIsteri/10.png",Episod 10
+https://aqfadtvonedrive.vercel.app/api/raw/?path=/VOD/Series/Dendam-Seorang-Isteri/EP10.mp4
+
+#EXTINF:-1 type="series" group-title="Dendam Seorang Isteri" tvg-logo="https://aqfadtv.astradamy.com/images/DendamSeorangIsteri/11.png",Episod 11
+https://aqfadtvonedrive.vercel.app/api/raw/?path=/VOD/Series/Dendam-Seorang-Isteri/EP11.mp4
+
+#EXTINF:-1 type="series" group-title="Dendam Seorang Isteri" tvg-logo="https://aqfadtv.astradamy.com/images/DendamSeorangIsteri/12.png",Episod 12
+https://aqfadtvonedrive.vercel.app/api/raw/?path=/VOD/Series/Dendam-Seorang-Isteri/EP12.mp4
+
+#EXTINF:-1 type="series" group-title="Dendam Seorang Isteri" tvg-logo="https://aqfadtv.astradamy.com/images/DendamSeorangIsteri/13.png",Episod 13
+https://aqfadtvonedrive.vercel.app/api/raw/?path=/VOD/Series/Dendam-Seorang-Isteri/EP13.mp4
+
+#EXTINF:-1 type="series" group-title="Dendam Seorang Isteri" tvg-logo="https://aqfadtv.astradamy.com/images/DendamSeorangIsteri/14.png",Episod 14
+https://aqfadtvonedrive.vercel.app/api/raw/?path=/VOD/Series/Dendam-Seorang-Isteri/EP14.mp4
+
+#EXTINF:-1 type="series" group-title="Dendam Seorang Isteri" tvg-logo="https://aqfadtv.astradamy.com/images/DendamSeorangIsteri/DendamSeorangIsteri.png",Episod 15
+https://aqfadtvonedrive.vercel.app/api/raw/?path=/VOD/Series/Dendam-Seorang-Isteri/EP15.mp4
+
+#EXTINF:-1 type="series" group-title="Dendam Seorang Isteri" tvg-logo="https://aqfadtv.astradamy.com/images/DendamSeorangIsteri/16.png",Episod 16
+https://aqfadtvonedrive.vercel.app/api/raw/?path=/VOD/Series/Dendam-Seorang-Isteri/EP16.mp4
+
+#EXTINF:-1 type="series" group-title="Dendam Seorang Isteri" tvg-logo="https://aqfadtv.astradamy.com/images/DendamSeorangIsteri/17.png",Episod 17
+https://aqfadtvonedrive.vercel.app/api/raw/?path=/VOD/Series/Dendam-Seorang-Isteri/EP17.mp4
+
+#EXTINF:-1 type="series" group-title="Dendam Seorang Isteri" tvg-logo="https://aqfadtv.astradamy.com/images/DendamSeorangIsteri/18.png",Episod 18
+https://aqfadtvonedrive.vercel.app/api/raw/?path=/VOD/Series/Dendam-Seorang-Isteri/EP18.mp4
+
+#EXTINF:-1 type="series" group-title="Dendam Seorang Isteri" tvg-logo="https://aqfadtv.astradamy.com/images/DendamSeorangIsteri/19.png",Episod 19
+https://aqfadtvonedrive.vercel.app/api/raw/?path=/VOD/Series/Dendam-Seorang-Isteri/EP19.mp4
+
+#EXTINF:-1 type="series" group-title="Take CTRL" tvg-logo="https://aqfadtv.astradamy.com/images/TakeCTRL/1.jpg",EP1 Level 1: Noob
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Take-CTRL/EP1.mkv
+
+#EXTINF:-1 type="series" group-title="Take CTRL" tvg-logo="https://aqfadtv.astradamy.com/images/TakeCTRL/2.jpg",EP2 Level 2: RPG
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Take-CTRL/EP2.mp4
+
+#EXTINF:-1 type="series" group-title="Take CTRL" tvg-logo="https://aqfadtv.astradamy.com/images/TakeCTRL/3.jpg",EP3 Level 3: AFK
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Take-CTRL/EP3.mp4
+
+#EXTINF:-1 type="series" group-title="Take CTRL" tvg-logo="https://aqfadtv.astradamy.com/images/TakeCTRL/4.jpg",EP4 Level 4: Grind
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Take-CTRL/EP4.mp4
+
+#EXTINF:-1 type="series" group-title="Take CTRL" tvg-logo="https://aqfadtv.astradamy.com/images/TakeCTRL/5.jpg",EP5 Level 5: PWN
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Take-CTRL/EP5.mp4
+
+#EXTINF:-1 type="series" group-title="Take CTRL" tvg-logo="https://aqfadtv.astradamy.com/images/TakeCTRL/6.jpg",EP6 Level 6: GG
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Take-CTRL/EP6.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUUI_IVP_LAND_672x378_2020124_154859.jpg",Episod 1
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP1.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUUJ_IVP_LAND_672x378_2020124_15499.jpg",Episod 2
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP2.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUUJ_IVP_LAND_672x378_2020124_15499.jpg",Episod 3
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP3.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUUL_IVP_LAND_672x378_2020124_154839.jpg",Episod 4
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP4.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUUM_IVP_LAND_672x378_20201214_73641.jpg",Episod 5
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP5.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUUN_IVP_LAND_672x378_20201214_73631.jpg",Episod 6
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP6.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUUO_IVP_LAND_672x378_20201214_75124.jpg",Episod 7
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP7.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUUP_IVP_LAND_672x378_20201217_184626.jpg",Episod 8
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP8.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUUR_IVP_LAND_672x378_20201221_175545.jpg",Episod 9
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP9.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUUQ_IVP_LAND_672x378_20201218_18549.jpg",Episod 10
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP10.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUUS_IVP_LAND_672x378_20201221_173015.jpg",Episod 11
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP11.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUUT_IVP_LAND_672x378_20201224_24054.jpg",Episod 12
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP12.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUUX_IVP_LAND_672x378_20201228_65456.jpg",Episod 13
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP13.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUUU_IVP_LAND_672x378_20201226_18354.jpg",Episod 14
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP14.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUUV_IVP_LAND_672x378_20201226_181057.jpg",Episod 15
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP15.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUUW_IVP_LAND_672x378_20201227_132248.jpg",Episod 16
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP16.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUUX_IVP_LAND_672x378_20201228_65456.jpg",Episod 17
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP17.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUUY_IVP_LAND_672x378_202112_2125.jpg",Episod 18
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP18.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUUZ_IVP_LAND_672x378_202112_21033.jpg",Episod 19
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP19.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUVA_IVP_LAND_672x378_202113_13627.jpg",Episod 20
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP20.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUVB_IVP_LAND_672x378_202113_13745.jpg",Episod 21
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP21.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUVC_IVP_LAND_672x378_202117_163242.jpg",Episod 22
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP22.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUVD_IVP_LAND_672x378_202117_163213.jpg",Episod 24
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP24.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUVF_IVP_LAND_672x378_202117_163223.jpg",Episod 25
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP25.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUVG_IVP_LAND_672x378_2021120_135852.jpg",Episod 26
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP26.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUVH_IVP_LAND_672x378_2021120_13592.jpg",Episod 27
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP27.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUVI_IVP_LAND_672x378_2021120_135833.jpg",Episod 28
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP28.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUVJ_IVP_LAND_672x378_2021120_135843.jpg",Episod 29
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP29.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUVK_IVP_LAND_672x378_202128_95232.jpg",Episod 30
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP30.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUVL_IVP_LAND_672x378_202128_95310.jpg",Episod 31
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP31.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUVM_IVP_LAND_672x378_2021211_175525.jpg",Episod 32
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP32.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUVN_IVP_LAND_672x378_2021219_103415.jpg",Episod 33
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP33.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUVQ_IVP_LAND_672x378_2021226_12858.jpg",Episod 34
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP34.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUVR_IVP_LAND_672x378_2021226_12929.jpg",Episod 35
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP35.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUVS_IVP_LAND_672x378_202135_102754.jpg",Episod 36
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP36.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUVT_IVP_LAND_672x378_202135_102744.jpg",Episod 37
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP37.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUVU_IVP_LAND_672x378_2021312_16590.jpg",Episod 38
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP38.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUVV_IVP_LAND_672x378_2021312_165959.jpg",Episod 39
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP39.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUVW_IVP_LAND_672x378_2021322_83321.jpg",Episod 40
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP40.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUVX_IVP_LAND_672x378_2021322_8345.jpg",Episod 41
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP41.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUVY_IVP_LAND_672x378_2021326_222829.jpg",Episod 42
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP42.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUVZ_IVP_LAND_672x378_2021326_22291.jpg",Episod 43
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP43.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUWA_IVP_LAND_672x378_202142_174912.jpg",Episod 44
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP44.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUWD_IVP_LAND_672x378_202149_18114.jpg",Episod 45
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP45.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru//IVP(STB_OTT_STV)_JMUWE_IVP_LAND_672x378_2021416_142855.jpg",Episod 46
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP46.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUWF_IVP_LAND_672x378_2021416_142858.jpg",Episod 47
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP47.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUWG_IVP_LAND_672x378_2021423_15369.jpg",Episod 48
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP48.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUWH_IVP_LAND_672x378_2021423_153612.jpg",Episod 49
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP49.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUWI_IVP_LAND_672x378_2021512_152924.jpg",Episod 50
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP50.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUWJ_IVP_LAND_672x378_2021512_1650.jpg",Episod 51
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP51.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUWK_IVP_LAND_672x378_2021512_152920.jpg",Episod 52
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP52.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUWL_IVP_LAND_672x378_2021512_16433.jpg",Episod 53
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP53.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUWM_IVP_LAND_672x378_2021512_16426.jpg",Episod 54
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP54.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUWN_IVP_LAND_672x378_2021512_152933.jpg",Episod 55
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP55.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUWO_IVP_LAND_672x378_2021518_155628.jpg",Episod 56
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP56.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUWC_IVP_LAND_672x378_202149_18114.jpg",Episod 57
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP57.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUWB_IVP_LAND_672x378_202142_174922.jpg",Episod 58
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP58.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUVO_IVP_LAND_672x378_2021217_8658.jpg",Episod 59
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP59.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sonic Boom" tvg-logo="https://aqfadtv.astradamy.com/images/SonicBoom/S1/1.png",S1 EP1 The Sidekick
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Sonic_Boom/S1/Sonic_Boom_S1_EP1_The_Sidekick.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sonic Boom" tvg-logo="https://aqfadtv.astradamy.com/images/SonicBoom/S1/2.png",S1 EP2 Can an Evil Genius Crash on Your Couch for a Few Days
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Sonic_Boom/S1/Sonic_Boom_S1_EP2_Can_an_Evil_Genius_Crash_on_Your_Couch_for_a_Few_Days.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sonic Boom" tvg-logo="https://aqfadtv.astradamy.com/images/SonicBoom/S1/3.png",S1 EP3 Translate This
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Sonic_Boom/S1/Sonic_Boom_S1_EP3_Translate_This.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sonic Boom" tvg-logo="https://aqfadtv.astradamy.com/images/SonicBoom/S1/4.png",S1 EP4 Buster
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Sonic_Boom/S1/Sonic_Boom_S1_EP4_Buster.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sonic Boom" tvg-logo="https://aqfadtv.astradamy.com/images/SonicBoom/S1/5.png",S1 EP5 My Fair Sticksy
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Sonic_Boom/S1/Sonic_Boom_S1_EP5_My_Fair_Sticksy.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sonic Boom" tvg-logo="https://aqfadtv.astradamy.com/images/SonicBoom/S1/06.png",S1 EP6 Fortress of Squalitude
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Sonic_Boom/S1/Sonic_Boom_S1_EP6_Fortress_of_Squalitude.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sonic Boom" tvg-logo="https://aqfadtv.astradamy.com/images/SonicBoom/S1/7.png",S1 EP7 Double Doomsday
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Sonic_Boom/S1/Sonic_Boom_S1_EP7_Double_Doomsday.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sonic Boom" tvg-logo="https://aqfadtv.astradamy.com/images/SonicBoom/S1/8.png",S1 EP8 Eggheads
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Sonic_Boom/S1/Sonic_Boom_S1_EP8_Eggheads.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sonic Boom" tvg-logo="https://aqfadtv.astradamy.com/images/SonicBoom/S1/9.png",S1 EP9 Guilt Tripping
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Sonic_Boom/S1/Sonic_Boom_S1_EP9_Guilt_Tripping.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sonic Boom" tvg-logo="https://aqfadtv.astradamy.com/images/SonicBoom/S1/10.png",S1 EP10 Dude, Where's My Eggman
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Sonic_Boom/S1/Sonic_Boom_S1_EP10_Dude%2C_Where's_My_Eggman.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sonic Boom" tvg-logo="https://aqfadtv.astradamy.com/images/SonicBoom/S1/11.png",S1 EP11 Cowbot
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Sonic_Boom/S1/Sonic_Boom_S1_EP11_Cowbot.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sonic Boom" tvg-logo="https://aqfadtv.astradamy.com/images/SonicBoom/S1/12.png",S1 EP12 Circus of Plunders
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Sonic_Boom/S1/Sonic_Boom_S1_EP12_Circus_of_Plunders.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sonic Boom" tvg-logo="https://aqfadtv.astradamy.com/images/SonicBoom/S1/13.png",S1 EP13 Unlucky Knuckles
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Sonic_Boom/S1/Sonic_Boom_S1_EP13_Unlucky_Knuckles.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sonic Boom" tvg-logo="https://aqfadtv.astradamy.com/images/SonicBoom/S1/14.png",S1 EP14 The Meteor
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Sonic_Boom/S1/Sonic_Boom_S1_EP14_The_Meteor.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sonic Boom" tvg-logo="https://aqfadtv.astradamy.com/images/SonicBoom/S1/15.png",S1 EP15 Aim Low
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Sonic_Boom/S1/Sonic_Boom_S1_EP15_Aim_Low.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sonic Boom" tvg-logo="https://aqfadtv.astradamy.com/images/SonicBoom/S1/16.png",S1 EP16 How to Succeed in Evil Without Really Trying
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Sonic_Boom/S1/Sonic_Boom_S1_EP16_How_to_Succeed_in_Evil_Without_Really_Trying.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sonic Boom" tvg-logo="https://aqfadtv.astradamy.com/images/SonicBoom/S1/17.png",S1 EP17 Don't Judge Me
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Sonic_Boom/S1/Sonic_Boom_S1_EP17_Don't_Judge_Me.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sonic Boom" tvg-logo="https://aqfadtv.astradamy.com/images/SonicBoom/S1/18.png",S1 EP18 Dr. Eggman's Tomato Sauce
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Sonic_Boom/S1/Sonic_Boom_S1_EP18_Dr._Eggman's_Tomato_Sauce.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sonic Boom" tvg-logo="https://aqfadtv.astradamy.com/images/SonicBoom/S1/19.png",S1 EP19 Sole Power
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Sonic_Boom/S1/Sonic_Boom_S1_EP19_Sole_Power.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sonic Boom" tvg-logo="https://aqfadtv.astradamy.com/images/SonicBoom/S1/20.png",S1 EP20 Hedgehog Day
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Sonic_Boom/S1/Sonic_Boom_S1_EP20_Hedgehog_Day.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sonic Boom" tvg-logo="https://aqfadtv.astradamy.com/images/SonicBoom/S1/21.png",S1 EP21 Sleeping Giant
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Sonic_Boom/S1/Sonic_Boom_S1_EP21_Sleeping_Giant.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sonic Boom" tvg-logo="https://aqfadtv.astradamy.com/images/SonicBoom/S1/22.png",S1 EP22 The Curse of Buddy Buddy Temple
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Sonic_Boom/S1/Sonic_Boom_S1_EP22_The_Curse_of_Buddy_Buddy_Temple.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sonic Boom" tvg-logo="https://aqfadtv.astradamy.com/images/SonicBoom/S1/23.png",S1 EP23 Let's Play Musical Friends
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Sonic_Boom/S1/Sonic_Boom_S1_EP23_Let's_Play_Musical_Friends.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sonic Boom" tvg-logo="https://aqfadtv.astradamy.com/images/SonicBoom/S1/24.png",S1 EP24 Late Fees
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Sonic_Boom/S1/Sonic_Boom_S1_EP24_Late_Fees.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sonic Boom" tvg-logo="https://aqfadtv.astradamy.com/images/SonicBoom/S1/25.png",S1 EP25 Into the Wilderness
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Sonic_Boom/S1/Sonic_Boom_S1_EP25_Into_the_Wilderness.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sonic Boom" tvg-logo="https://aqfadtv.astradamy.com/images/SonicBoom/S1/26.png",S1 EP26 Eggman Unplugged
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Sonic_Boom/S1/Sonic_Boom_S1_EP26_Eggman_Unplugged.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sonic Boom" tvg-logo="https://aqfadtv.astradamy.com/images/SonicBoom/S1/027.png",S1 EP27 Chez Amy
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Sonic_Boom/S1/Sonic_Boom_S1_EP27_Chez_Amy.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sonic Boom" tvg-logo="https://aqfadtv.astradamy.com/images/SonicBoom/S1/028.png",S1 EP28 Blue with Envy
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Sonic_Boom/S1/Sonic_Boom_S1_EP28_Blue_with_Envy.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sonic Boom" tvg-logo="https://aqfadtv.astradamy.com/images/SonicBoom/S1/29.png",S1 EP29 Curse of the Cross Eyed Moose
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Sonic_Boom/S1/Sonic_Boom_S1_EP29_Curse_of_the_Cross_Eyed_Moose.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sonic Boom" tvg-logo="https://aqfadtv.astradamy.com/images/SonicBoom/S1/30.png",S1 EP30 Chili Dog Day Afternoon
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Sonic_Boom/S1/Sonic_Boom_S1_EP30_Chili_Dog_Day_Afternoon.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sonic Boom" tvg-logo="https://aqfadtv.astradamy.com/images/SonicBoom/S1/31.png",S1 EP31 Closed Door Policy
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Sonic_Boom/S1/Sonic_Boom_S1_EP31_%20Closed_Door_Policy.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sonic Boom" tvg-logo="https://aqfadtv.astradamy.com/images/SonicBoom/S1/32.png",S1 EP32 Mayor Knuckles
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Sonic_Boom/S1/Sonic_Boom_S1_EP32_Mayor_Knuckles.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sonic Boom" tvg-logo="https://aqfadtv.astradamy.com/images/SonicBoom/S1/33.png",S1 EP33 Eggman the Auteur
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Sonic_Boom/S1/Sonic_Boom_S1_EP33_Eggman_the_Auteur.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sonic Boom" tvg-logo="https://aqfadtv.astradamy.com/images/SonicBoom/S1/34.png",S1 EP34 Just a Guy
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Sonic_Boom/S1/Sonic_Boom_S1_EP34_Just_a_Guy.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sonic Boom" tvg-logo="https://aqfadtv.astradamy.com/images/SonicBoom/S1/35.png",S1 EP35 Two Good to Be True
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Sonic_Boom/S1/Sonic_Boom_S1_EP35_Two_Good_to_Be_True.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sonic Boom" tvg-logo="https://aqfadtv.astradamy.com/images/SonicBoom/S1/36.png",S1 EP36 Beyond the Valley of the Cubots
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Sonic_Boom/S1/Sonic_Boom_S1_EP36_Beyond_the_Valley_of_the_Cubots.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sonic Boom" tvg-logo="https://aqfadtv.astradamy.com/images/SonicBoom/S1/37.png",S1 EP37 Next Top Villain
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Sonic_Boom/S1/Sonic_Boom_S1_EP37_Next_Top_Villain.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sonic Boom" tvg-logo="https://aqfadtv.astradamy.com/images/SonicBoom/S1/38.png",S1 EP38 New Year's Retribution
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Sonic_Boom/S1/Sonic_Boom_S1_EP38_New_Year's_Retribution.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sonic Boom" tvg-logo="https://aqfadtv.astradamy.com/images/SonicBoom/S1/39.png",S1 EP39 Battle of the Boy Bands
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Sonic_Boom/S1/Sonic_Boom_S1_EP39_Battle_of_the_Boy_Bands.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sonic Boom" tvg-logo="https://aqfadtv.astradamy.com/images/SonicBoom/S1/40.png",S1 EP40 Tails' Crush
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Sonic_Boom/S1/Sonic_Boom_S1_EP40_Tails_Crush.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sonic Boom" tvg-logo="https://aqfadtv.astradamy.com/images/SonicBoom/S1/41.png",S1 EP41 Bro-Down Showdown
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Sonic_Boom/S1/Sonic_Boom_S1_EP41_Bro-Down_Showdown.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sonic Boom" tvg-logo="https://aqfadtv.astradamy.com/images/SonicBoom/S1/42.png",S1 EP42 Late Night Wars
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Sonic_Boom/S1/Sonic_Boom_S1_EP41_Late_Night_Wars.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sonic Boom" tvg-logo="https://aqfadtv.astradamy.com/images/SonicBoom/S1/43.png",S1 EP43 Fire in a Crowded Workshop
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Sonic_Boom/S1/Sonic_Boom_S1_EP43_Fire_in_a_Crowded_Workshop.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sonic Boom" tvg-logo="https://aqfadtv.astradamy.com/images/SonicBoom/S1/44.png",S1 EP44 It Wasn't Me, It Was the One-Armed Hedgehog
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Sonic_Boom/S1/Sonic_Boom_S1_EP44_It_Wasn't_Me,_It_Was_the_One_Armed_Hedgehog.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sonic Boom" tvg-logo="https://aqfadtv.astradamy.com/images/SonicBoom/S1/45.png",S1 EP45 Robot Battle Royale
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Sonic_Boom/S1/Sonic_Boom_S1_EP45_Robot_Battle_Royale.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sonic Boom" tvg-logo="https://aqfadtv.astradamy.com/images/SonicBoom/S1/46.png",S1 EP46 No Robots Allowed
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Sonic_Boom/S1/Sonic_Boom_S1_EP46_No_Robots_Allowed.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sonic Boom" tvg-logo="https://aqfadtv.astradamy.com/images/SonicBoom/S1/47.png",S1 EP47 Fuzzy Puppy Buddies
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Sonic_Boom/S1/Sonic_Boom_S1_EP47_Fuzzy_Puppy_Buddies.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sonic Boom" tvg-logo="https://aqfadtv.astradamy.com/images/SonicBoom/S1/48.png",S1 EP48 Designated Heroes
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Sonic_Boom/S1/Sonic_Boom_S1_EP48_Designated_Heroes.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sonic Boom" tvg-logo="https://aqfadtv.astradamy.com/images/SonicBoom/S1/49.png",S1 EP49 Role Models
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Sonic_Boom/S1/Sonic_Boom_S1_EP49_Role_Models.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sonic Boom" tvg-logo="https://aqfadtv.astradamy.com/images/SonicBoom/S1/50.png",S1 EP50 Cabin Fever
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Sonic_Boom/S1/Sonic_Boom_S1_EP50_Cabin_Fever.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sonic Boom" tvg-logo="https://aqfadtv.astradamy.com/images/SonicBoom/S1/51.png",S1 EP51 Counter Productive
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Sonic_Boom/S1/Sonic_Boom_S1_EP51_Counter_Productive.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sonic Boom" tvg-logo="https://aqfadtv.astradamy.com/images/SonicBoom/S1/52.png",S1 EP52 It Takes a Village to Defeat a Hedgehog
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Sonic_Boom/S1/Sonic_Boom_S1_EP52_It_Takes_a_Village_to_Defeat_a_Hedgehog.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sonic Boom" tvg-logo="https://aqfadtv.astradamy.com/images/SonicBoom/S2/1.png",S2 EP1 Tommy Thunder: Method Actor
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Sonic_Boom/S2/Sonic_Boom_S2_EP1_Tommy_Thunder_Method_Actor.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sonic Boom" tvg-logo="https://aqfadtv.astradamy.com/images/SonicBoom/S2/2.png",S2 EP2 Spacemageddonocalypse
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Sonic_Boom/S2/Sonic_Boom_S2_EP2_Spacemageddonocalypse.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sonic Boom" tvg-logo="https://aqfadtv.astradamy.com/images/SonicBoom/S2/3.png",S2 EP3 Nutwork
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Sonic_Boom/S2/Sonic_Boom_S2_EP3_Nutwork.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sonic Boom" tvg-logo="https://aqfadtv.astradamy.com/images/SonicBoom/S2/4.png",S2 EP4 Alone Again, Unnaturally
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Sonic_Boom/S2/Sonic_Boom_S2_EP4_Alone_Again%2C_Unnaturally.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sonic Boom" tvg-logo="https://aqfadtv.astradamy.com/images/SonicBoom/S2/5.png",S2 EP5 The Biggest Fan
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Sonic_Boom/S2/Sonic_Boom_S2_EP5_The_Biggest_Fan.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sonic Boom" tvg-logo="https://aqfadtv.astradamy.com/images/SonicBoom/S2/6.png",S2 EP6 Anything You Can Do, I Can Do Worse-er
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Sonic_Boom/S2/Sonic_Boom_S2_EP6_Anything_You_Can_Do%2C_I_Can_Do_Worse-er.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sonic Boom" tvg-logo="https://aqfadtv.astradamy.com/images/SonicBoom/S2/7.png",S2 EP7 I Can Sea Sonic's Fear from Here
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Sonic_Boom/S2/Sonic_Boom_S2_EP7_I_Can_Sea_Sonic's_Fear_from_Here.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sonic Boom" tvg-logo="https://aqfadtv.astradamy.com/images/SonicBoom/S2/8.png",S2 EP8 In the Midnight Hour
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Sonic_Boom/S2/Sonic_Boom_S2_EP8_In_the_Midnight_Hour.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sonic Boom" tvg-logo="https://aqfadtv.astradamy.com/images/SonicBoom/S2/9.png",S2 EP9 Multi-Tails
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Sonic_Boom/S2/Sonic_Boom_S2_EP9_Multi-Tails.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sonic Boom" tvg-logo="https://aqfadtv.astradamy.com/images/SonicBoom/S2/10.png",S2 EP10 Strike!
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Sonic_Boom/S2/Sonic_Boom_S2_EP10_Strike.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sonic Boom" tvg-logo="https://aqfadtv.astradamy.com/images/SonicBoom/S2/11.png",S2 EP11 The Evil Dr. Orbot
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Sonic_Boom/S2/Sonic_Boom_S2_EP11_The_Evil_Dr._Orbot.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sonic Boom" tvg-logo="https://aqfadtv.astradamy.com/images/SonicBoom/S2/12.png",S2 EP12 Knuck Knuck, Who's Here
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Sonic_Boom/S2/Sonic_Boom_S2_EP12_Knuck_Knuck,_Who's_Here.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sonic Boom" tvg-logo="https://aqfadtv.astradamy.com/images/SonicBoom/S2/13.png",S2 EP13 Mech Suits Me
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Sonic_Boom/S2/Sonic_Boom_S2_EP13_Mech_Suits_Me.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sonic Boom" tvg-logo="https://aqfadtv.astradamy.com/images/SonicBoom/S2/14.png",S2 EP14 FiendBot
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Sonic_Boom/S2/Sonic_Boom_S2_EP14_FiendBot.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sonic Boom" tvg-logo="https://aqfadtv.astradamy.com/images/SonicBoom/S2/15.png",S2 EP15 Og Man Out
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Sonic_Boom/S2/Sonic_Boom_S2_EP15_Og_Man_Out.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sonic Boom" tvg-logo="https://aqfadtv.astradamy.com/images/SonicBoom/S2/16.png",S2 EP16 Knine-to-Five Knuckles
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Sonic_Boom/S2/Sonic_Boom_S2_EP16_Knine-to-Five_Knuckles.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sonic Boom" tvg-logo="https://aqfadtv.astradamy.com/images/SonicBoom/S2/17.png",S2 EP17 Blackout
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Sonic_Boom/S2/Sonic_Boom_S2_EP17_Blackout.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sonic Boom" tvg-logo="https://aqfadtv.astradamy.com/images/SonicBoom/S2/18.png",S2 EP18 Unnamed Episode
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Sonic_Boom/S2/Sonic_Boom_S2_EP18_Unnamed_Episode.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sonic Boom" tvg-logo="https://aqfadtv.astradamy.com/images/SonicBoom/S2/19.png",S2 EP19 Robot Employees
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Sonic_Boom/S2/Sonic_Boom_S2_EP19_Robot_Employees.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sonic Boom" tvg-logo="https://aqfadtv.astradamy.com/images/SonicBoom/S2/20.png",S2 EP20 Give Bees a Chance
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Sonic_Boom/S2/Sonic_Boom_S2_EP20_Give_Bees_a_Chance.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sonic Boom" tvg-logo="https://aqfadtv.astradamy.com/images/SonicBoom/S2/21.png",S2 EP21 Mombot
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Sonic_Boom/S2/Sonic_Boom_S2_EP21_Mombot.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sonic Boom" tvg-logo="https://aqfadtv.astradamy.com/images/SonicBoom/S2/22.png",S2 EP22 Muckfoot
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Sonic_Boom/S2/Sonic_Boom_S2_EP22_Muckfoot.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sonic Boom" tvg-logo="https://aqfadtv.astradamy.com/images/SonicBoom/S2/23.png",S2 EP23 Nominatus Rising
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Sonic_Boom/S2/Sonic_Boom_S2_EP23_Nominatus_Rising.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sonic Boom" tvg-logo="https://aqfadtv.astradamy.com/images/SonicBoom/S2/24.png",S2 EP24 Eggman's Brother
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Sonic_Boom/S2/Sonic_Boom_S2_EP24_Eggman's_Brother.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sonic Boom" tvg-logo="https://aqfadtv.astradamy.com/images/SonicBoom/S2/25.png",S2 EP25 Do Not Disturb
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Sonic_Boom/S2/Sonic_Boom_S2_EP25_Do_Not_Disturb.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sonic Boom" tvg-logo="https://aqfadtv.astradamy.com/images/SonicBoom/S2/26.png",S2 EP26 Robots from the Sky (Part 1)
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Sonic_Boom/S2/Sonic_Boom_S2_EP26_Robots_from_the_Sky,_Part_1.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sonic Boom" tvg-logo="https://aqfadtv.astradamy.com/images/SonicBoom/S2/27.png",S2 EP27 Robots from the Sky (Part 2)
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Sonic_Boom/S2/Sonic_Boom_S2_EP27_Robots_from_the_Sky,_Part_2.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sonic Boom" tvg-logo="https://aqfadtv.astradamy.com/images/SonicBoom/S2/28.png",S2 EP28 Robots from the Sky (Part 3)
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Sonic_Boom/S2/Sonic_Boom_S2_EP28_Robots_from_the_Sky,_Part_3.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sonic Boom" tvg-logo="https://aqfadtv.astradamy.com/images/SonicBoom/S2/29.png",S2 EP29 Robots from the Sky (Part 4)
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Sonic_Boom/S2/Sonic_Boom_S2_EP29_Robots_from_the_Sky,_Part_4.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sonic Boom" tvg-logo="https://aqfadtv.astradamy.com/images/SonicBoom/S2/30.png",S2 EP30 Flea-ing from Trouble
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Sonic_Boom/S2/Sonic_Boom_S2_EP30_Flea-ing_from_Trouble.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sonic Boom" tvg-logo="https://aqfadtv.astradamy.com/images/SonicBoom/S2/31.png",S2 EP31 Lightning Bowler Society
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Sonic_Boom/S2/Sonic_Boom_S2_EP31_Lightning_Bowler_Society.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sonic Boom" tvg-logo="https://aqfadtv.astradamy.com/images/SonicBoom/S2/32.png",S2 EP32 Planes, Trains and Dude-Mobiles
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Sonic_Boom/S2/Sonic_Boom_S2_EP32_Planes,_Trains_and_Dude-Mobiles.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sonic Boom" tvg-logo="https://aqfadtv.astradamy.com/images/SonicBoom/S2/33.png",S2 EP33 Sticks and Amy's Excellent Staycation
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Sonic_Boom/S2/Sonic_Boom_S2_EP33_Sticks_and_Amy's_Excellent_Staycation.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sonic Boom" tvg-logo="https://aqfadtv.astradamy.com/images/SonicBoom/S2/34.png",S2 EP34 Inn Sanity
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Sonic_Boom/S2/Sonic_Boom_S2_EP34_Inn_Sanity.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sonic Boom" tvg-logo="https://aqfadtv.astradamy.com/images/SonicBoom/S2/35.png",S2 EP35 Mister Eggman
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Sonic_Boom/S2/Sonic_Boom_S2_EP35_Mister_Eggman.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sonic Boom" tvg-logo="https://aqfadtv.astradamy.com/images/SonicBoom/S2/36.png",S2 EP36 The Haunted Lair
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Sonic_Boom/S2/Sonic_Boom_S2_EP36_The_Haunted_Lair.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sonic Boom" tvg-logo="https://aqfadtv.astradamy.com/images/SonicBoom/S2/37.png",S2 EP37 Return of the Buddy Buddy Temple of Doom
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Sonic_Boom/S2/Sonic_Boom_S2_EP37_Return_of_the_Buddy_Buddy_Temple_of_Doom.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sonic Boom" tvg-logo="https://aqfadtv.astradamy.com/images/SonicBoom/S2/38.png",S2 EP38 Eggman's Anti Gravity Ray
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Sonic_Boom/S2/Sonic_Boom_S2_EP38_Eggman's_Anti_Gravity_Ray.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sonic Boom" tvg-logo="https://aqfadtv.astradamy.com/images/SonicBoom/S2/39.png",S2 EP39 Victory
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Sonic_Boom/S2/Sonic_Boom_S2_EP39_Victory.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sonic Boom" tvg-logo="https://aqfadtv.astradamy.com/images/SonicBoom/S2/40.png",S2 EP40 Three Men and My Baby
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Sonic_Boom/S2/Sonic_Boom_S2_EP40_Three_Men_and_My_Baby.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sonic Boom" tvg-logo="https://aqfadtv.astradamy.com/images/SonicBoom/S2/41.png",S2 EP41 Where Have All the Sonics Gone
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Sonic_Boom/S2/Sonic_Boom_S2_EP41_Where_Have_All_the_Sonics_Gone.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sonic Boom" tvg-logo="https://aqfadtv.astradamy.com/images/SonicBoom/S2/42.png",S2 EP42 If You Build It They Will Race
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Sonic_Boom/S2/Sonic_Boom_S2_EP42_If_You_Build_It_They_Will_Race.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sonic Boom" tvg-logo="https://aqfadtv.astradamy.com/images/SonicBoom/S2/43.png",S2 EP43 Chain Letter
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Sonic_Boom/S2/Sonic_Boom_S2_EP43_Chain_Letter.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Sonic Boom" tvg-logo="https://aqfadtv.astradamy.com/images/SonicBoom/S2/44.png",S2 EP44 Vector Detector
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Sonic_Boom/S2/Sonic_Boom_S2_EP44_Vector_Detector.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Upin & Ipin" tvg-logo="https://aqfadtv.astradamy.com/images/Upin&Ipin/S1/1.png",S1 EP1 Esok Puasa
+https://aqfadtvonedrive.vercel.app/api?path=/VOD/Series/Upin-%26-Ipin/S1/EP1.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Upin & Ipin" tvg-logo="https://aqfadtv.astradamy.com/images/Upin&Ipin/S1/2.png",S1 EP2 Dugaan
+https://aqfadtvonedrive.vercel.app/api?path=/VOD/Series/Upin-%26-Ipin/S1/EP2.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Upin & Ipin" tvg-logo="https://aqfadtv.astradamy.com/images/Upin&Ipin/S1/3.png",S1 EP3 Nikmat
+https://aqfadtvonedrive.vercel.app/api?path=/VOD/Series/Upin-%26-Ipin/S1/EP3.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Upin & Ipin" tvg-logo="https://aqfadtv.astradamy.com/images/Upin&Ipin/S1/4.png",S4 EP4 Terawih
+https://aqfadtvonedrive.vercel.app/api?path=/VOD/Series/Upin-%26-Ipin/S1/EP4.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Upin & Ipin" tvg-logo="https://aqfadtv.astradamy.com/images/Upin&Ipin/S1/5.png",S1 EP5 Esok Raya!
+https://aqfadtvonedrive.vercel.app/api?path=/VOD/Series/Upin-%26-Ipin/S1/EP5.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Upin & Ipin" tvg-logo="https://aqfadtv.astradamy.com/images/Upin&Ipin/S1/6.png",S1 EP6 Hari Raya
+https://aqfadtvonedrive.vercel.app/api?path=/VOD/Series/Upin-%26-Ipin/S1/EP6.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Upin & Ipin" tvg-logo="https://aqfadtv.astradamy.com/images/Upin&Ipin/S2/1.png",S2 EP1 Tadika
+https://aqfadtvonedrive.vercel.app/api?path=/VOD/Series/Upin-%26-Ipin/S2/EP1.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Upin & Ipin" tvg-logo="https://aqfadtv.astradamy.com/images/Upin&Ipin/S2/2.png",S2 EP2 Anak Bulan
+https://aqfadtvonedrive.vercel.app/api?path=/VOD/Series/Upin-%26-Ipin/S2/EP2.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Upin & Ipin" tvg-logo="https://aqfadtv.astradamy.com/images/Upin&Ipin/S2/3.png",S2 EP3 Adat
+https://aqfadtvonedrive.vercel.app/api?path=/VOD/Series/Upin-%26-Ipin/S2/EP3.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Upin & Ipin" tvg-logo="https://aqfadtv.astradamy.com/images/Upin&Ipin/S2/4.png",S2 EP4 Tamak
+https://aqfadtvonedrive.vercel.app/api?path=/VOD/Series/Upin-%26-Ipin/S2/EP4.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Upin & Ipin" tvg-logo="https://aqfadtv.astradamy.com/images/Upin&Ipin/S2/5.png",S2 EP5 Lailatul Qadr
+https://aqfadtvonedrive.vercel.app/api?path=/VOD/Series/Upin-%26-Ipin/S2/EP5.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Upin & Ipin" tvg-logo="https://aqfadtv.astradamy.com/images/Upin&Ipin/S2/6.png",S2 EP6 Kisah & Tauladan
+https://aqfadtvonedrive.vercel.app/api?path=/VOD/Series/Upin-%26-Ipin/S2/EP6.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Upin & Ipin" tvg-logo="https://aqfadtv.astradamy.com/images/Upin&Ipin/S2/7.png",S2 EP7 Sayang Kak Ros
+https://aqfadtvonedrive.vercel.app/api?path=/VOD/Series/Upin-%26-Ipin/S2/EP7.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Upin & Ipin" tvg-logo="https://aqfadtv.astradamy.com/images/Upin&Ipin/S2/8.png",S2 EP8 Ketupat
+https://aqfadtvonedrive.vercel.app/api?path=/VOD/Series/Upin-%26-Ipin/S2/EP8.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Upin & Ipin" tvg-logo="https://aqfadtv.astradamy.com/images/Upin&Ipin/S2/9.png",S2 EP9 Zakat Fitrah
+https://aqfadtvonedrive.vercel.app/api?path=/VOD/Series/Upin-%26-Ipin/S2/EP9.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Upin & Ipin" tvg-logo="https://aqfadtv.astradamy.com/images/Upin&Ipin/S2/10.png",S2 EP10 Malam Syahdu
+https://aqfadtvonedrive.vercel.app/api?path=/VOD/Series/Upin-%26-Ipin/S2/EP10.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Upin & Ipin" tvg-logo="https://aqfadtv.astradamy.com/images/Upin&Ipin/S2/11.png",S2 EP11 Pagi Raya
+https://aqfadtvonedrive.vercel.app/api?path=/VOD/Series/Upin-%26-Ipin/S2/EP11.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Upin & Ipin" tvg-logo="https://aqfadtv.astradamy.com/images/Upin&Ipin/S2/12.png",S2 EP12 Berkat
+https://aqfadtvonedrive.vercel.app/api?path=/VOD/Series/Upin-%26-Ipin/S2/EP12.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Upin & Ipin" tvg-logo="https://aqfadtv.astradamy.com/images/Upin&Ipin/S3/1.png",S3 EP1 Air Kolah, Air Laut (Bahagian 1)
+https://aqfadtvonedrive.vercel.app/api?path=/VOD/Series/Upin-%26-Ipin/S3/EP1.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Upin & Ipin" tvg-logo="https://aqfadtv.astradamy.com/images/Upin&Ipin/S3/2.png",S3 EP2 Air Kolah, Air Laut (Bahagian 2)
+https://aqfadtvonedrive.vercel.app/api?path=/VOD/Series/Upin-%26-Ipin/S3/EP2.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Upin & Ipin" tvg-logo="https://aqfadtv.astradamy.com/images/Upin&Ipin/S3/3.png",S3 EP3 Basikal Baru (Bahagian 1)
+https://aqfadtvonedrive.vercel.app/api?path=/VOD/Series/Upin-%26-Ipin/S3/EP3.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Upin & Ipin" tvg-logo="https://aqfadtv.astradamy.com/images/Upin&Ipin/S3/4.png",S3 EP4 Basikal Baru (Bahagian 2)
+https://aqfadtvonedrive.vercel.app/api?path=/VOD/Series/Upin-%26-Ipin/S3/EP4.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Upin & Ipin" tvg-logo="https://aqfadtv.astradamy.com/images/Upin&Ipin/S3/5.png",S3 EP5 Berkebun (Bahagian 1)
+https://aqfadtvonedrive.vercel.app/api?path=/VOD/Series/Upin-%26-Ipin/S3/EP5.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Upin & Ipin" tvg-logo="https://aqfadtv.astradamy.com/images/Upin&Ipin/S3/6.png",S3 EP6 Berkebun (Bahagian 2)
+https://aqfadtvonedrive.vercel.app/api?path=/VOD/Series/Upin-%26-Ipin/S3/EP6.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Upin & Ipin" tvg-logo="https://aqfadtv.astradamy.com/images/Upin&Ipin/S3/7.png",S3 EP7 Gosok Jangan Tak Gosok (Bahagian 1)
+https://aqfadtvonedrive.vercel.app/api?path=/VOD/Series/Upin-%26-Ipin/S3/EP7.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Upin & Ipin" tvg-logo="https://aqfadtv.astradamy.com/images/Upin&Ipin/S3/8.png",S3 EP8 Gosok Jangan Tak Gosok (Bahagian 2)
+https://aqfadtvonedrive.vercel.app/api?path=/VOD/Series/Upin-%26-Ipin/S3/EP8.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Upin & Ipin" tvg-logo="https://aqfadtv.astradamy.com/images/Upin&Ipin/S3/9.png",S3 EP9 Gosok Jangan Tak Gosok (Bahagian 3)
+https://aqfadtvonedrive.vercel.app/api?path=/VOD/Series/Upin-%26-Ipin/S3/EP9.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Upin & Ipin" tvg-logo="https://aqfadtv.astradamy.com/images/Upin&Ipin/S3/10.png",S3 EP10 Kisah Dua Malam (Bahagian 1)
+https://aqfadtvonedrive.vercel.app/api?path=/VOD/Series/Upin-%26-Ipin/S3/EP10.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Upin & Ipin" tvg-logo="https://aqfadtv.astradamy.com/images/Upin&Ipin/S3/11.png",S3 EP11 Kisah Dua Malam (Bahagian 2)
+https://aqfadtvonedrive.vercel.app/api?path=/VOD/Series/Upin-%26-Ipin/S3/EP11.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Upin & Ipin" tvg-logo="https://aqfadtv.astradamy.com/images/Upin&Ipin/S3/12.png",S3 EP12 Kembara ke Pulau Harta Karun! (Bahagian 1)
+https://aqfadtvonedrive.vercel.app/api?path=/VOD/Series/Upin-%26-Ipin/S3/EP12.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Upin & Ipin" tvg-logo="https://aqfadtv.astradamy.com/images/Upin&Ipin/S3/13.png",S3 EP13 Kembara ke Pulau Harta Karun! (Bahagian 2)
+https://aqfadtvonedrive.vercel.app/api?path=/VOD/Series/Upin-%26-Ipin/S3/EP13.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Upin & Ipin" tvg-logo="https://aqfadtv.astradamy.com/images/Upin&Ipin/S3/14.png",S3 EP14 Kembara ke Pulau Harta Karun! (Bahagian 3)
+https://aqfadtvonedrive.vercel.app/api?path=/VOD/Series/Upin-%26-Ipin/S3/EP14.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Upin & Ipin" tvg-logo="https://aqfadtv.astradamy.com/images/Upin&Ipin/S3/15.png",S3 EP15 Istimewa Hari Ibu (Bahagian 1)
+https://aqfadtvonedrive.vercel.app/api?path=/VOD/Series/Upin-%26-Ipin/S3/EP15.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Upin & Ipin" tvg-logo="https://aqfadtv.astradamy.com/images/Upin&Ipin/S3/16.png",S3 EP16 Istimewa Hari Ibu (Bahagian 2)
+https://aqfadtvonedrive.vercel.app/api?path=/VOD/Series/Upin-%26-Ipin/S3/EP16.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Upin & Ipin" tvg-logo="https://aqfadtv.astradamy.com/images/Upin&Ipin/S3/17.png",S3 EP17 Seronoknya Membaca (Bahagian 1)
+https://aqfadtvonedrive.vercel.app/api?path=/VOD/Series/Upin-%26-Ipin/S3/EP17.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Upin & Ipin" tvg-logo="https://aqfadtv.astradamy.com/images/Upin&Ipin/S3/18.png",S3 EP18 Seronoknya Membaca (Bahagian 2)
+https://aqfadtvonedrive.vercel.app/api?path=/VOD/Series/Upin-%26-Ipin/S3/EP18.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Upin & Ipin" tvg-logo="https://aqfadtv.astradamy.com/images/Upin&Ipin/S3/19.png",S3 EP19 Seronoknya Membaca (Bahagian 3)
+https://aqfadtvonedrive.vercel.app/api?path=/VOD/Series/Upin-%26-Ipin/S3/EP19.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Upin & Ipin" tvg-logo="https://aqfadtv.astradamy.com/images/Upin&Ipin/S3/20.png",S3 EP20 Upin, Ipin & Apin (Bahagian 1)
+https://aqfadtvonedrive.vercel.app/api?path=/VOD/Series/Upin-%26-Ipin/S3/EP20.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Upin & Ipin" tvg-logo="https://aqfadtv.astradamy.com/images/Upin&Ipin/S3/21.png",S3 EP21 Upin, Ipin & Apin (Bahagian 2)
+https://aqfadtvonedrive.vercel.app/api?path=/VOD/Series/Upin-%26-Ipin/S3/EP21.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Upin & Ipin" tvg-logo="https://aqfadtv.astradamy.com/images/Upin&Ipin/S3/22.png",S3 EP22 Kami 1 Malaysia (Bahagian 1)
+https://aqfadtvonedrive.vercel.app/api?path=/VOD/Series/Upin-%26-Ipin/S3/EP22.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Upin & Ipin" tvg-logo="https://aqfadtv.astradamy.com/images/Upin&Ipin/S3/23.png",S3 EP23 Kami 1 Malaysia (Bahagian 2)
+https://aqfadtvonedrive.vercel.app/api?path=/VOD/Series/Upin-%26-Ipin/S3/EP23.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Upin & Ipin" tvg-logo="https://aqfadtv.astradamy.com/images/Upin&Ipin/S3/24.png",S3 EP24 Berpuasa Bersama Kawan Baru (Bahagian 1)
+https://aqfadtvonedrive.vercel.app/api?path=/VOD/Series/Upin-%26-Ipin/S3/EP24.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Upin & Ipin" tvg-logo="https://aqfadtv.astradamy.com/images/Upin&Ipin/S3/25.png",S3 EP25 Berpuasa Bersama Kawan Baru (Bahagian 2)
+https://aqfadtvonedrive.vercel.app/api?path=/VOD/Series/Upin-%26-Ipin/S3/EP25.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Upin & Ipin" tvg-logo="https://aqfadtv.astradamy.com/images/Upin&Ipin/S3/26.png",S3 EP26 Selamat Menyambut Lebaran
+https://aqfadtvonedrive.vercel.app/api?path=/VOD/Series/Upin-%26-Ipin/S3/EP26.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Upin & Ipin" tvg-logo="https://aqfadtv.astradamy.com/images/Upin&Ipin/S3/27.png",S3 EP27 Jejak Rembo (Bahagian 1)
+https://aqfadtvonedrive.vercel.app/api?path=/VOD/Series/Upin-%26-Ipin/S3/EP27.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Upin & Ipin" tvg-logo="https://aqfadtv.astradamy.com/images/Upin&Ipin/S3/28.png",S3 EP28 Jejak Rembo (Bahagian 2)
+https://aqfadtvonedrive.vercel.app/api?path=/VOD/Series/Upin-%26-Ipin/S3/EP28.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Upin & Ipin" tvg-logo="https://aqfadtv.astradamy.com/images/Upin&Ipin/S3/29.png",S3 EP29 Jejak Rembo (Bahagian 3)
+https://aqfadtvonedrive.vercel.app/api?path=/VOD/Series/Upin-%26-Ipin/S3/EP29.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Upin & Ipin" tvg-logo="https://aqfadtv.astradamy.com/images/Upin&Ipin/S3/30.png",S3 EP30 Diri Bersih Badan Sihat (Bahagian 1)
+https://aqfadtvonedrive.vercel.app/api?path=/VOD/Series/Upin-%26-Ipin/S3/EP30.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Upin & Ipin" tvg-logo="https://aqfadtv.astradamy.com/images/Upin&Ipin/S3/31.png",S3 EP31 Diri Bersih Badan Sihat (Bahagian 2)
+https://aqfadtvonedrive.vercel.app/api?path=/VOD/Series/Upin-%26-Ipin/S3/EP31.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Upin & Ipin" tvg-logo="https://aqfadtv.astradamy.com/images/Upin&Ipin/S3/32.png",S3 EP32 Kembara ke Pulau Harta Karun! (Bahagian 4)
+https://aqfadtvonedrive.vercel.app/api?path=/VOD/Series/Upin-%26-Ipin/S3/EP32.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Upin & Ipin" tvg-logo="https://aqfadtv.astradamy.com/images/Upin&Ipin/S3/33.png",S3 EP33 Kembara ke Pulau Harta Karun! (Bahagian 5)
+https://aqfadtvonedrive.vercel.app/api?path=/VOD/Series/Upin-%26-Ipin/S3/EP33.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Upin & Ipin" tvg-logo="https://aqfadtv.astradamy.com/images/Upin&Ipin/S3/34.png",S3 EP34 Kembara ke Pulau Harta Karun! (Bahagian 6)
+https://aqfadtvonedrive.vercel.app/api?path=/VOD/Series/Upin-%26-Ipin/S3/EP34.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Upin & Ipin" tvg-logo="https://aqfadtv.astradamy.com/images/Upin&Ipin/S3/35.png",S3 EP35 Kembara ke Pulau Harta Karun! (Bahagian 7)
+https://aqfadtvonedrive.vercel.app/api?path=/VOD/Series/Upin-%26-Ipin/S3/EP35.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Upin & Ipin" tvg-logo="https://aqfadtv.astradamy.com/images/Upin&Ipin/S3/36.png",S3 EP36 Sapy Oh Sapy (Bahagian 1)
+https://aqfadtvonedrive.vercel.app/api?path=/VOD/Series/Upin-%26-Ipin/S3/EP36.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Upin & Ipin" tvg-logo="https://aqfadtv.astradamy.com/images/Upin&Ipin/S3/37.png",S3 EP37 Sapy Oh Sapy (Bahagian 2)
+https://aqfadtvonedrive.vercel.app/api?path=/VOD/Series/Upin-%26-Ipin/S3/EP37.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Upin & Ipin" tvg-logo="https://aqfadtv.astradamy.com/images/Upin&Ipin/S3/38.png",S3 EP38 Ambil Galah Tolong Tunjukkan (Bahagian 1)
+https://aqfadtvonedrive.vercel.app/api?path=/VOD/Series/Upin-%26-Ipin/S3/EP38.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Upin & Ipin" tvg-logo="https://aqfadtv.astradamy.com/images/Upin&Ipin/S3/39.png",S3 EP39 Ambil Galah Tolong Tunjukkan (Bahagian 2)
+https://aqfadtvonedrive.vercel.app/api?path=/VOD/Series/Upin-%26-Ipin/S3/EP39.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Upin & Ipin" tvg-logo="https://aqfadtv.astradamy.com/images/Upin&Ipin/S3/40.png",S3 EP40 Ambil Galah Tolong Tunjukkan (Bahagian 3)
+https://aqfadtvonedrive.vercel.app/api?path=/VOD/Series/Upin-%26-Ipin/S3/EP40.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Upin & Ipin" tvg-logo="https://aqfadtv.astradamy.com/images/Upin&Ipin/S3/41.png",S3 EP41 Ambil Galah Tolong Tunjukkan (Bahagian 4)
+https://aqfadtvonedrive.vercel.app/api?path=/VOD/Series/Upin-%26-Ipin/S3/EP41.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Upin & Ipin" tvg-logo="https://aqfadtv.astradamy.com/images/Upin&Ipin/S3/42.png",S3 EP42 Kembara ke Pulau Harta Karun! (Bahagian 8)
+https://aqfadtvonedrive.vercel.app/api?path=/VOD/Series/Upin-%26-Ipin/S3/EP42.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Mechamato" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JXXXB_IVP_LAND_432x243_20211130_215122.jpg",S1 Episode 1
+https://onedrive.astradamy.com/api?path=/TVSeries/Mechamato.2021/Mechamato.S01E01.1080p.WEB-DL-PENCURiMOViE.CYOU.mkv&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Mechamato" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JXXXO_IVP_LAND_432x243_20211130_215116.jpg",S1 Episode 2
+https://onedrive.astradamy.com/api?path=/TVSeries/Mechamato.2021/Mechamato.S01E02.1080p.WEB-DL-PENCURiMOViE.CYOU.mkv&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Mechamato" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JXXXP_IVP_LAND_432x243_20211130_215117.jpg",S1 Episode 3
+https://onedrive.astradamy.com/api?path=/TVSeries/Mechamato.2021/Mechamato.S01E03.1080p.WEB-DL-PENCURiMOViE.CYOU.mkv&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Mechamato" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JXXXQ_IVP_LAND_432x243_20211130_215124.jpg",S1 Episode 4
+https://onedrive.astradamy.com/api?path=/TVSeries/Mechamato.2021/Mechamato.S01E04.1080p.WEB-DL-PENCURiMOViE.CYOU.mkv&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Mechamato" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JXXXR_IVP_LAND_432x243_20211130_215121.jpg",S1 Episode 5
+https://onedrive.astradamy.com/api?path=/TVSeries/Mechamato.2021/Mechamato.S01E05.1080p.WEB-DL-PENCURiMOViE.CYOU.mkv&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Mechamato" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JXXXS_IVP_LAND_432x243_20211130_215138.jpg",S1 Episode 6
+https://onedrive.astradamy.com/api?path=/TVSeries/Mechamato.2021/Mechamato.S01E06.1080p.WEB-DL-PENCURiMOViE.CYOU.mkv&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Mechamato" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JXXXT_IVP_LAND_448x252_2022228_161251.jpg",S1 Episode 7
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Mechamato/Mechamato.S01E07.1080p.WEB-DL-PENCURiMOViE.CYOU.mkv&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Mechamato" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JXXXU_IVP_LAND_448x252_2022228_161259.jpg",S1 Episode 8
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Mechamato/Mechamato.S01E08.1080p.WEB-DL-PENCURiMOViE.CYOU.mkv&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Mechamato" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JXXXV_IVP_LAND_448x252_2022228_16132.jpg",S1 Episode 9
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Mechamato/Mechamato%20EP9%20REPACK%20%40MyDramaa.mkv&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Mechamato" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JXXXW_IVP_LAND_448x252_2022228_161255.jpg",S1 Episode 10
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Mechamato/Mechamato%20EP10%20%40MyDramaa.mkv&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Mechamato" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JZNCF_IVP_LAND_448x252_2022228_153710.jpg",S1 Episode 11
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Mechamato/EP11.mkv&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Mechamato" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JZNCG_IVP_LAND_448x252_202234_103030.jpg",S1 Episode 12
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Mechamato/EP12.mkv&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Mechamato" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JZWHN_IVP_LAND_448x252_2022228_171323.jpg",S1 Episode 13
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Mechamato/%5Bon9.stream%5DMechamato.2021.S01E13.1080p.WEB-DL.x264.AAC-Pipe.mkv
+
+#EXTINF-1 type="series" group-title="All Of Us Are Dead" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTY1ZGM2YzQtMTBjZC00NjE2LWJlNzUtYjA0YjYxNzBjMmRjXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_FMjpg_UX1000_.jpg",S1 Episode 1 
+https://onedrive.astradamy.com/api?path=/TVSeries/All.Of.Us.Are.Dead.2022/All.of.Us.Are.Dead.EP01.720p.WEB-OMG.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="All Of Us Are Dead" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTY1ZGM2YzQtMTBjZC00NjE2LWJlNzUtYjA0YjYxNzBjMmRjXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_FMjpg_UX1000_.jpg",S1 Episode 2 
+https://onedrive.astradamy.com/api?path=/TVSeries/All.Of.Us.Are.Dead.2022/All.of.Us.Are.Dead.EP02.720p.WEB-OMG.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="All Of Us Are Dead" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTY1ZGM2YzQtMTBjZC00NjE2LWJlNzUtYjA0YjYxNzBjMmRjXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_FMjpg_UX1000_.jpg",S1 Episode 3 
+https://onedrive.astradamy.com/api?path=/TVSeries/All.Of.Us.Are.Dead.2022/All.of.Us.Are.Dead.EP03.720p.WEB-OMG.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="All Of Us Are Dead" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTY1ZGM2YzQtMTBjZC00NjE2LWJlNzUtYjA0YjYxNzBjMmRjXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_FMjpg_UX1000_.jpg",S1 Episode 4
+https://onedrive.astradamy.com/api?path=/TVSeries/All.Of.Us.Are.Dead.2022/All.of.Us.Are.Dead.EP04.720p.WEB-OMG.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="All Of Us Are Dead" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTY1ZGM2YzQtMTBjZC00NjE2LWJlNzUtYjA0YjYxNzBjMmRjXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_FMjpg_UX1000_.jpg",S1 Episode 5
+https://onedrive.astradamy.com/api?path=/TVSeries/All.Of.Us.Are.Dead.2022/All.of.Us.Are.Dead.EP05.720p.WEB-OMG.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="All Of Us Are Dead" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTY1ZGM2YzQtMTBjZC00NjE2LWJlNzUtYjA0YjYxNzBjMmRjXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_FMjpg_UX1000_.jpg",S1 Episode 6 
+https://onedrive.astradamy.com/api?path=/TVSeries/All.Of.Us.Are.Dead.2022/All.of.Us.Are.Dead.EP06.720p.WEB-OMG.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="All Of Us Are Dead" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTY1ZGM2YzQtMTBjZC00NjE2LWJlNzUtYjA0YjYxNzBjMmRjXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_FMjpg_UX1000_.jpg",S1 Episode 7 
+https://onedrive.astradamy.com/api?path=/TVSeries/All.Of.Us.Are.Dead.2022/All.of.Us.Are.Dead.EP07.720p.WEB-OMG.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="All Of Us Are Dead" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTY1ZGM2YzQtMTBjZC00NjE2LWJlNzUtYjA0YjYxNzBjMmRjXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_FMjpg_UX1000_.jpg",S1 Episode 8 
+https://onedrive.astradamy.com/api?path=/TVSeries/All.Of.Us.Are.Dead.2022/All.of.Us.Are.Dead.EP08.720p.WEB-OMG.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="All Of Us Are Dead" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTY1ZGM2YzQtMTBjZC00NjE2LWJlNzUtYjA0YjYxNzBjMmRjXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_FMjpg_UX1000_.jpg",S1 Episode 9 
+https://onedrive.astradamy.com/api?path=/TVSeries/All.Of.Us.Are.Dead.2022/All.of.Us.Are.Dead.EP09.720p.WEB-OMG.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="All Of Us Are Dead" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTY1ZGM2YzQtMTBjZC00NjE2LWJlNzUtYjA0YjYxNzBjMmRjXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_FMjpg_UX1000_.jpg",S1 Episode 10 
+https://onedrive.astradamy.com/api?path=/TVSeries/All.Of.Us.Are.Dead.2022/All.of.Us.Are.Dead.EP10.720p.WEB-OMG.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="All Of Us Are Dead" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTY1ZGM2YzQtMTBjZC00NjE2LWJlNzUtYjA0YjYxNzBjMmRjXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_FMjpg_UX1000_.jpg",S1 Episode 11 
+https://onedrive.astradamy.com/api?path=/TVSeries/All.Of.Us.Are.Dead.2022/All.of.Us.Are.Dead.EP11.720p.WEB-OMG.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="All Of Us Are Dead" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTY1ZGM2YzQtMTBjZC00NjE2LWJlNzUtYjA0YjYxNzBjMmRjXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_FMjpg_UX1000_.jpg",S1 Episode 12 
+https://onedrive.astradamy.com/api?path=/TVSeries/All.Of.Us.Are.Dead.2022/All.of.Us.Are.Dead.EP12.720p.WEB-OMG.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Snowdrop" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWJhZWVjYjgtZWVhNy00ZWZlLWFlODMtMDFhYzUyMmJkY2ZjXkEyXkFqcGdeQXVyNjgyMTI1MDE@._V1_FMjpg_UX1000_.jpg",S1 Episode 1 
+https://onedrive.astradamy.com/api?path=/TVSeries/Snowdrop.2021.2022/Snowdrop.S01E01.1080p.DSNP.WEB-DL.AAC2.0.H.264-NYH.mkv&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Snowdrop" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWJhZWVjYjgtZWVhNy00ZWZlLWFlODMtMDFhYzUyMmJkY2ZjXkEyXkFqcGdeQXVyNjgyMTI1MDE@._V1_FMjpg_UX1000_.jpg",S1 Episode 2 
+https://onedrive.astradamy.com/api?path=/TVSeries/Snowdrop.2021.2022/Snowdrop.S01E02.1080p.DSNP.WEB-DL.AAC2.0.H.264-NYH.mkv&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Snowdrop" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWJhZWVjYjgtZWVhNy00ZWZlLWFlODMtMDFhYzUyMmJkY2ZjXkEyXkFqcGdeQXVyNjgyMTI1MDE@._V1_FMjpg_UX1000_.jpg",S1 Episode 3 
+https://onedrive.astradamy.com/api?path=/TVSeries/Snowdrop.2021.2022/Snowdrop.S01E03.1080p.DSNP.WEB-DL.AAC2.0.H.264-NYH.mkv&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Snowdrop" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWJhZWVjYjgtZWVhNy00ZWZlLWFlODMtMDFhYzUyMmJkY2ZjXkEyXkFqcGdeQXVyNjgyMTI1MDE@._V1_FMjpg_UX1000_.jpg",S1 Episode 4 
+https://onedrive.astradamy.com/api?path=/TVSeries/Snowdrop.2021.2022/Snowdrop.S01E04.1080p.DSNP.WEB-DL.AAC2.0.H.264-NYH.mkv&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Snowdrop" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWJhZWVjYjgtZWVhNy00ZWZlLWFlODMtMDFhYzUyMmJkY2ZjXkEyXkFqcGdeQXVyNjgyMTI1MDE@._V1_FMjpg_UX1000_.jpg",S1 Episode 5 
+https://onedrive.astradamy.com/api?path=/TVSeries/Snowdrop.2021.2022/Snowdrop.S01E05.1080p.DSNP.WEB-DL.AAC2.0.H.264-NYH.mkv&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Snowdrop" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWJhZWVjYjgtZWVhNy00ZWZlLWFlODMtMDFhYzUyMmJkY2ZjXkEyXkFqcGdeQXVyNjgyMTI1MDE@._V1_FMjpg_UX1000_.jpg",S1 Episode 6 
+https://onedrive.astradamy.com/api?path=/TVSeries/Snowdrop.2021.2022/Snowdrop.S01E06.1080p.DSNP.WEB-DL.AAC2.0.H.264-NYH.mkv&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Snowdrop" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWJhZWVjYjgtZWVhNy00ZWZlLWFlODMtMDFhYzUyMmJkY2ZjXkEyXkFqcGdeQXVyNjgyMTI1MDE@._V1_FMjpg_UX1000_.jpg",S1 Episode 7 
+https://onedrive.astradamy.com/api?path=/TVSeries/Snowdrop.2021.2022/Snowdrop.S01E07.1080p.DSNP.WEB-DL.AAC2.0.H.264-NYH.mkv&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Snowdrop" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWJhZWVjYjgtZWVhNy00ZWZlLWFlODMtMDFhYzUyMmJkY2ZjXkEyXkFqcGdeQXVyNjgyMTI1MDE@._V1_FMjpg_UX1000_.jpg",S1 Episode 8 
+https://onedrive.astradamy.com/api?path=/TVSeries/Snowdrop.2021.2022/Snowdrop.S01E08.1080p.DSNP.WEB-DL.AAC2.0.H.264-NYH.mkv&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Snowdrop" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWJhZWVjYjgtZWVhNy00ZWZlLWFlODMtMDFhYzUyMmJkY2ZjXkEyXkFqcGdeQXVyNjgyMTI1MDE@._V1_FMjpg_UX1000_.jpg",S1 Episode 9 
+https://onedrive.astradamy.com/api?path=/TVSeries/Snowdrop.2021.2022/Snowdrop.S01E09.1080p.DHM.WEB-DL.AAC2.0.H.264.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Snowdrop" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWJhZWVjYjgtZWVhNy00ZWZlLWFlODMtMDFhYzUyMmJkY2ZjXkEyXkFqcGdeQXVyNjgyMTI1MDE@._V1_FMjpg_UX1000_.jpg",S1 Episode 10 
+https://onedrive.astradamy.com/api?path=/TVSeries/Snowdrop.2021.2022/Snowdrop.S01E10.1080p.DHM.WEB-DL.AAC2.0.H.264.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Snowdrop" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWJhZWVjYjgtZWVhNy00ZWZlLWFlODMtMDFhYzUyMmJkY2ZjXkEyXkFqcGdeQXVyNjgyMTI1MDE@._V1_FMjpg_UX1000_.jpg",S1 Episode 11 
+https://onedrive.astradamy.com/api?path=/TVSeries/Snowdrop.2021.2022/Snowdrop.S01E11.1080p.DHM.WEB-DL.AAC2.0.H.264.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Snowdrop" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWJhZWVjYjgtZWVhNy00ZWZlLWFlODMtMDFhYzUyMmJkY2ZjXkEyXkFqcGdeQXVyNjgyMTI1MDE@._V1_FMjpg_UX1000_.jpg",S1 Episode 12 
+https://onedrive.astradamy.com/api?path=/TVSeries/Snowdrop.2021.2022/Snowdrop.S01E12.1080p.DHM.WEB-DL.AAC2.0.H.264.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Snowdrop" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWJhZWVjYjgtZWVhNy00ZWZlLWFlODMtMDFhYzUyMmJkY2ZjXkEyXkFqcGdeQXVyNjgyMTI1MDE@._V1_FMjpg_UX1000_.jpg",S1 Episode 13 
+https://onedrive.astradamy.com/api?path=/TVSeries/Snowdrop.2021.2022/Snowdrop.S01E13.1080p.DHM.WEB-DL.AAC2.0.H.264.mp4&raw=true&type=file.mp4
+
+#EXTINF-1 type="series" group-title="Events" tvg-logo="https://aqfadtv.astradamy.com/images/AJL36.jpg",Anugerah Juara Lagu ke-36
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Events/AJL36.mp4
+
+#EXTINF-1 type="series" group-title="Events" tvg-logo="https://aqfadtv.astradamy.com/images/AnugerahDramaSangat.png",Anugerah Drama Sangat
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Events/Anugerah-Drama-Sangat-Melodi-19-12-21.mp4
+
+#EXTINF-1 type="series" group-title="Events" tvg-logo="https://aqfadtv.astradamy.com/images/2021MAMA.png",2021 MAMA (via Tonton)
+https://onedrive.astradamy.com/api?path=/Events/MAMA.2021.cinema.tonton.com.my.mp4&raw=true&type=file.mp4
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RPc7ZdF/Tunnel-Teo-neol-2016.jpg" group-title="VOD Korea", Tunnel / Teo-neol (2016)
 https://www.googleapis.com/drive/v3/files/1Wzl1VJnrncB0BZad_377awDcZj6DX8oG?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0M9MDH6/The-Odd-Family-Zombie-on-Sale-2019.jpg" group-title="VOD Korea", The Odd Family: Zombie on Sale (2019)
