@@ -3,7 +3,7 @@ File m3u | Short Link | Remarks
 ------------ | ------------- | -------------
 Livetvvodje.m3u | https://bit.ly/39pH77g
 njoi.m3u | https://bit.ly/38OmjDA
-tv.m3u | https://bit.ly/3emGnjh | thanks [@weareblahs](https://github.com/weareblahs/unifi-tv)
+tv.m3u | https://tinyurl.com/myfreeviewlist| thanks [@weareblahs](https://github.com/weareblahs/unifi-tv)
 myFreeview.m3u | https://bit.ly/3cKhehd | source : [myklik RTM](https://rtmklik.rtm.gov.my/) </br> source : [tonton](https://www.tonton.com.my/)</br>
 
 Playlist m3u can be used on :
