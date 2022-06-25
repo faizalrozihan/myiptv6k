@@ -4,7 +4,7 @@ File m3u | Short Link | Remarks
 Livetvvodje.m3u | https://bit.ly/39pH77g
 njoi.m3u | https://bit.ly/38OmjDA
 tv.m3u | https://tinyurl.com/myfreeviewlist
-samsam123.m3u | https://bit.ly/3cKhehd
+samlong123.m3u | https://bit.ly/3cKhehd
 
 Playlist m3u can be used on :
 * [Tivimate](https://play.google.com/store/apps/details?id=ar.tvplayer.tv)
