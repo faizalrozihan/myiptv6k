@@ -47,5 +47,49 @@ https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
 
-
-
+#EXTINF:-1 tvg-id="101" group-title="MALAYSIA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/101.png",TV1
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
+ 
+#EXTINF:-1 tvg-id="102" group-title="MALAYSIA" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032302034uev.png",TV2
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
+ 
+#EXTINF:-1 tvg-id="103" group-title="MALAYSIA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103.png",TV3
+#EXTVLCOPT:http-referrer=https://dailymotion.com
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8
+ 
+#EXTINF:-1 tvg-id="106" group-title="MALAYSIA" tvg-logo="https://mediahomes.github.io/logos/tv6.png",TV6
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
+ 
+#EXTINF:-1 tvg-id="107" group-title="MALAYSIA" tvg-logo="https://didik.tv/images/logotv2.png",DidikTV KPM
+#EXTVLCOPT:http-referrer=https://dailymotion.com
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8
+ 
+#EXTINF:-1 tvg-id="108" group-title="MALAYSIA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/148.png",8TV
+#EXTVLCOPT:http-referrer=https://dailymotion.com
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8
+ 
+#EXTINF:-1 tvg-id="109" group-title="MALAYSIA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/149.png",TV9
+#EXTVLCOPT:http-referrer=https://dailymotion.com
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
+ 
+#EXTINF:-1 tvg-id="CHN" group-title="MALAYSIA" tvg-logo="https://baseimages.tonton.com.my/1580295767086_drama_sangat_new.jpg",Drama Sangat
+#EXTVLCOPT:http-referrer=https://dailymotion.com
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
+ 
+#EXTINF:-1 tvg-id="110" group-title="MALAYSIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",OKEY
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
+ 
+#EXTINF:-1 tvg-id="114" tvg-name="TV Alhijrah" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/d/da/Logo_TV_Alhijrah.png" group-title="MALAYSIA",TV Alhijrah
+http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="123" group-title="MALAYSIA" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",Berita RTM
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
+ 
+#EXTINF:-1 tvg-id="111" group-title="MALAYSIA" tvg-logo="https://mediahomes.github.io/logos/sukan.png",Sukan RTM
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
