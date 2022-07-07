@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url=https://bit.ly/aqfadtvepg refresh="1440" max-conn="1" refresh="24" 
+#EXTM3U x-tvg-url=https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml refresh="1440" max-conn="1" refresh="24" 
 
 #EXTINF:-1  tvg-id="Channel5" group-title="SINGAPORE" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png",Channel 5 
 http://185.180.221.194:8278/streams/d/Channel5/playlist.m3u8
