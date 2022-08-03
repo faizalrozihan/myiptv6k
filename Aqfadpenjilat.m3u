@@ -4,20 +4,22 @@
 https://onedrive.aqfadtv.xyz/api/raw/?path=/Info.mp4&raw=true
 
 #EXTINF:-1 tvg-id="CHN" group-title="Preview" ch-number="2" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/68bacd2e2fc3456d8f66ee1cdeab9ae0/version/6/width/368/height/208/quality/80",Anugerah Meletop Era 2021 Promo
-# https://onedrive.aqfadtv.xyz/api?path=/AME2021.mp4&raw=true
+https://onedrive.aqfadtv.xyz/api?path=/AME2021.mp4&raw=true
 
 #EXTINF:-1 tvg-id="CHN" group-title="Preview" ch-number="3" tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/shop/nov%202021/asr1305029_cassandra_acm-banner-refresh_batch-2_decktop_eng_sports-pack.jpg",Astro's Biggest Year For Sports 2022
-# https://videos.astradamy.com/astrobigyearforsports2022/master.m3u8
+https://videos.astradamy.com/astrobigyearforsports2022/master.m3u8
 
 #EXTINF:-1 tvg-id="CHN" group-title="Preview" ch-number="4" tvg-logo="https://aqfadtv.astradamy.com/logos/AqFadPreviewChannel.png",AqFad Preview Channel
-# https://onedrive.aqfadtv.xyz/api?path=/previewchannel.mp4&raw=true
-# https://aqfadtv.astradamy.com/AqFadPreviewChannel/master.m3u8
+https://onedrive.aqfadtv.xyz/api?path=/previewchannel.mp4&raw=true
+
+#EXTINF:-1 tvg-id="CHN" group-title="Preview" ch-number="4" tvg-logo="https://aqfadtv.astradamy.com/logos/AqFadPreviewChannel.png",AqFad Preview Channel
+https://aqfadtv.astradamy.com/AqFadPreviewChannel/master.m3u8
 
 #EXTINF:-1 tvg-id="CHN" group-title="Events" ch-number="100" tvg-logo="https://aqfadtv.astradamy.com/logos/AME2021.png",Anugerah Meletop Era 2021
-# https://asrazunifi.ddns.net:8443/show.m3u8
+https://asrazunifi.ddns.net:8443/show.m3u8
 
 #EXTINF:-1 tvg-id="CHN" group-title="Live" ch-number="100" tvg-logo="https://aqfadtv.astradamy.com/logos/AqFadLive.png",AqFad Live
-# https://asrazunifi.ddns.net:8443/aqfadlive.m3u8
+https://asrazunifi.ddns.net:8443/aqfadlive.m3u8
 
 #EXTINF:-1 tvg-id="TV1" group-title="myFreeview" ch-number="101" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",101 TV1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -164,11 +166,6 @@ https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MmVkNzNjM2YtZTNlYS0zYzIyLWEzZmMtNjc5MTI1ZGE4NDEw
 https://live.astradamy.com/unifitv/duniasinema/index.mpd
-
-#EXTINF:-1 tvg-id="ARTMovies" ch-number="129" group-title="Movies" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/42_144.png",129 ART Movies
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/1109
-# https://linearjitp-playback.astro.com.my/dash-wv/linear/1109/default.mpd
 
 #EXTINF:-1 group-title="Wireguard Needed" ch-number="141" tvg-id="141" tvg-logo="https://playtv.unifi.com.my:7044/CPS/images/universal/film/logo/201907/20190716/201907160659062937ij.png",141 Pesona HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -383,11 +380,6 @@ https://linear02-playback.sooka.my/CH1/masterCH1.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2702
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default_primary.mpd
-
-#EXTINF:-1 tvg-id="OhK" ch-number="394" group-title="Korean" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/191_144.png",394 Oh!K HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/1002
-http://linearjitp-playback.astro.com.my/dash-wv/linear/1002/default_primary.mpd
 
 #EXTINF:-1 tvg-id="tvN" ch-number="395" group-title="Korean" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/190_144.png",395 tvN HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -688,11 +680,6 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5049/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MmVkNzNjM2YtZTNlYS0zYzIyLWEzZmMtNjc5MTI1ZGE4NDEw
 #EXTINF:-1 group-title="Wireguard Needed" ch-number="704" tvg-id="704" tvg-chno="704" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/57/Unifi-Sports-4.png/revision/latest?cb=20210712113617",unifi Sports 4 HD
 https://live.astradamy.com/unifitv/unifisports4/index.mpd
-
-#EXTINF:-1 tvg-id="KIX" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/495px-KIX_logo.svg.png" ch-number="705",705 KIX HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/607
-http://linearjitp-playback.astro.com.my/dash-wv/linear/607/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MmVkNzNjM2YtZTNlYS0zYzIyLWEzZmMtNjc5MTI1ZGE4NDEw
