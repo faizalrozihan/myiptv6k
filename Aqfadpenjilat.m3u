@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url=https://bit.ly/aqfadtvepg refresh="1440" max-conn="1" refresh="24"
+#EXTM3U x-tvg-url=https://aqfadtv.xyz/epg refresh="1440" max-conn="1" refresh="24"
 
 #EXTINF:-1 tvg-id="CHN" group-title="Info" ch-number="1" tvg-logo="https://aqfadtv.astradamy.com/images/Untitled.png",DO NOT SELL THIS PLAYLIST!
 https://onedrive.aqfadtv.xyz/api/raw/?path=/Info.mp4&raw=true
