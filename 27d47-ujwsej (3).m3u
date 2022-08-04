@@ -1,0 +1,524 @@
+#EXTM3U url-tvg="http://bit.ly/kodiEPG" x-tvg-url="http://bit.ly/kodiEPG"
+
+#EXTINF:0 tvg-name="Androidrepublica" tvg-ID="Astro.Warna.HD.my" tvg-logo="https://raw.githubusercontent.com/androidrepublica/icons/master/ARMC-logo.png" group-title="MY-AR",Androidrepublica
+https://bit.ly/seOnlyla
+
+#EXTINF:0 tvg-name="TV1" tvg-ID="TV1.HD.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png" group-title="MY-AR",TV1
+https://rtmlive01.secureswiftcontent.com/rtmchannel/01-1080.m3u8|Referer=https://myklik.rtm.gov.my
+
+#EXTINF:0 tvg-name="TV2" tvg-ID="tv2.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png" group-title="MY-AR",TV2
+https://rtmlive05.secureswiftcontent.com/rtmchannel/05-1080.m3u8|Referer=https://myklik.rtm.gov.my
+
+#EXTINF:0 tvg-name="RTM Sport" tvg-ID="tvsukan.my" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/Sukan_RTM_1_April.png" group-title="MY-AR",RTM Sport
+https://rtmlive06.secureswiftcontent.com/rtmchannel/06-1080.m3u8|Referer=https://myklik.rtm.gov.my
+
+#EXTINF:0 tvg-name="RTM NEWS" tvg-ID="berita.rtm.my" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Berita_RTM_v1.png" group-title="MY-AR",RTM NEWS
+https://rtmlive03.secureswiftcontent.com/rtmchannel/03-1080.m3u8
+
+#EXTINF:0 tvg-name="TV6" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/TV6-PlayerLogo-JPG.jpg" group-title="MY-AR",TV6
+https://rtmlive07.secureswiftcontent.com/rtmchannel/07-1080.m3u8
+
+#EXTINF:0 tvg-name="Okey" tvg-ID="TV.Okey.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/97_144.png" group-title="MY-AR",Okey
+https://rtmlive02.secureswiftcontent.com/rtmchannel/02-1080.m3u8
+
+#EXTINF:0 tvg-name="TVS" tvg-ID="TVS.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/429_144.png" group-title="MY-AR",TVS
+https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
+
+#EXTINF:0 tvg-name="TV3" tvg-ID="tv3.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="MY-AR",TV3
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8
+
+#EXTINF:0 tvg-name="TV9" tvg-ID="tv9.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png" group-title="MY-AR",TV9
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
+
+#EXTINF:0 tvg-name="NTV7" tvg-ID="ntv7.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/93_144.png" group-title="MY-AR",NTV7
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8
+
+#EXTINF:0 tvg-name="8TV" tvg-ID="8tv.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png" group-title="MY-AR",8TV
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8|Referer=https://www.dailymotion.com
+
+#EXTINF:0 tvg-name="Drama Sangat" tvg-logo="https://i.imgur.com/cTzLBiQ.jpg" group-title="MY-AR",Drama Sangat
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
+
+#EXTINF:0 tvg-name="TV Alhijrah" tvg-ID="Al-Hijrah.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/149_144.png" group-title="MY-AR",TV Alhijrah
+http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
+
+#EXTINF:0 tvg-name="Astro Ria" tvg-ID="astroria.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="MY-AR",Astro Ria
+http://iptv.tvmalaysia.cc/jalan8/jalan8/6730
+
+#EXTINF:0 tvg-name="Astro Oasis" tvg-ID="astrooasis.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png" group-title="MY-AR",Astro Oasis
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6725
+
+#EXTINF:0 tvg-name="Astro Prima" tvg-ID="astroprima.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png" group-title="MY-AR",Astro Prima
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6727
+
+#EXTINF:0 tvg-name="Astro Warna" tvg-ID="Astro.Warna.HD.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="MY-AR",Astro Warna
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6740
+
+#EXTINF:0 tvg-name="Astro Citra" tvg-ID="Astro.Citra.HD.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png" group-title="MY-AR",Astro Citra
+http://iptv.tvmalaysia.cc:80/kl570/kl570/7267
+
+#EXTINF:0 tvg-name="Astro Naura" tvg-ID="naura.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/299_144.png" group-title="MY-AR",Astro Naura
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6724
+
+#EXTINF:0 tvg-name="Astro Boo" tvg-ID="BOO.HD.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/251_144.png" group-title="MY-AR",Astro Boo
+http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599322
+
+#EXTINF:0 tvg-name="Astro AEC" tvg-ID="Astro.AEC.HD.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/182_144.png" group-title="MY-AR",Astro AEC
+http://50.7.161.82:8277/streams/d/aec_pye/playlist.m3u8
+
+#EXTINF:0 tvg-name="Astro Shuang Xing" tvg-ID="Astro.Shuang.Xing.HD.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/183_144.png" group-title="MY-AR",Astro Shuang Xing
+http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
+
+#EXTINF:0 tvg-name="Astro Quan jia" tvg-ID="Astro.Quan.Jia.HD.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/158_144.png" group-title="MY-AR",Astro Quan jia
+http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
+
+#EXTINF:0 tvg-name="Astro Xiao Tai Yang" tvg-ID="Astro.Xiao.Tai.Yang.HD.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/387_144.png" group-title="MY-AR",Astro Xiao Tai Yang
+http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u
+
+#EXTINF:0 tvg-name="Astro Hua Hee Dai" tvg-ID="Astro.Hua.Hee.Dai.HD.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/162_144.png" group-title="MY-AR",Astro Hua Hee Dai
+http://198.16.106.62:8278/streams/d/Huahee/playlist.m3u8
+
+#EXTINF:0 tvg-name="iQIYI HD" tvg-ID="iQIYI.HD.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png" group-title="MY-AR",iQIYI HD
+http://50.7.161.82:8278/streams/d/iqiyi_pye/playlist.m3u8
+
+#EXTINF:0 tvg-name="Makkah TV" tvg-logo="https://www.makkahtv.com/wp-content/uploads/2019/08/MakkahTV.png" group-title="MY-AR",Makkah TV
+http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
+
+#EXTINF:0 tvg-name="Celestial Movies" tvg-ID="CCM.my" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/51228a21277171.562fe7a2cca71.jpg" group-title="MY-AR",Celestial Movies
+http://210.210.155.35/session/5b228b10-d3ef-11ea-be11-a39dabd864dd/qwr9ew/s/s33/01.m3u8
+#EXTINF:0 tvg-name="HBO Asia" tvg-ID="hbo.my" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHcAAABICAMAAAD7y5rAAAAAZlBMVEUAAAD///9KSkrExMTm5ua8vLzp6enKysqoqKi2trb4+Pitra3AwMD8/Pzz8/OGhoaioqLg4OBfX19AQEA1NTXZ2dmAgIAODg4tLS1tbW3T09NVVVUmJiZPT08fHx9zc3OWlpYXFxcQ5Lv0AAAEHElEQVRoge2Z29qqIBCGIU3M3CBuUttI93+TC9SSQcH+ZJ31nfQEg6/oMDMgChT5ER6VgtYER36wphQbleTnjBVPdClZFlYR7ExTjEqkyJs6qNqIfHxCq7ocsm6VWtUNMHy2ntJLQpKjg9pPpp5Q4x7XuVIlWVC9Yu0ew2Tq9itKq91chNoEUKu7we5xGg2CKjx1DrioCRQstxheR4foOi9wwUWXt4NFpslqAOyEi4qXo942DNHJKRdl45vbMhM6O+Ui+YqTzdlKeU65tRjFPsHKyznkokgLNmaVX3JpXlVV52XwaiT9EIsQ/477cskUxEK+eMq3/kzEUuXXBTjYxcWd2tpc4LWfx3cYC2qNW+/jYov/DgsrCvJ8iGWBFrHTfVwwFkiu0q4d7qvgIpol8C3QfVwjNhRzbee/R32RHQzc80dc48JphdM91Abx1CNgoeUF7sVSHnQEjXucsOZFneKkhC0Uw9ohRuZ3ZOLWJyluHihml+ltOU7UZce/4H5gv4whPbyX3g330Ct/nqtvPsVEHeCE22DFeaVXrWR/DzyEmwPug8NVkq0GFKotu/1cli64j6UVd86Vc1G5tWG+6gp28ZyFuOpXbLUC6HCl/Ls7WkfgwerxblAEAoejdQRFcLJoy+BD0OJGm42CqVqvN3xRb1SEG7mtnliQXL6g2NTiZPeXvBBpMXhWhcGCRkPCUV1Azwt/y4O5iSvL+Ks2pIMGu/KvccI9yJJlLvIiKIP4/6o3ZDmdhkys46KXFw1gJPF3cWEqhxq3flE67thirXNfXQc8hemxkb92p0mnp4nuK2482vjQZUOOdN35MY7DvtHbGf6KW97v1+tVK5fFUL3FKP877roCkNdtotgh94DtRwyzGHbJHXa17aaZWFeJS+500LDcgul6TEchjrj5NHBrxsXrBMYNdw5h3GrH3ntEJ1yKZ9m8OpzNXHBjrCpa7BUmterx2n4uC7Amv18zq4ANPI99cfXzWCO3qXOdKpWeYWV3oPrNIeLNil+9vqe2RjiIvTWRINGJM5rQ/t40xbWmZOWcGhkH/l/9uD/uj/vj/rgfcMNFutCV0j6rbAYJDa39Ii9TquQHya3GfZRF444ztlhEoJpY01kthwauPAW1jzmgG3+giznrSe7Zfo1yLLJn7rCtO5kHYHmkWWPCueV77yZ3OM2ZiwQki5oHfX9pW5coT/vVwuJzbo/6VnmdSD6AOh/OJCxXlTtJFtksNripeKRneZr05nayrCq3PKsSU77v4IpKMU2V14nk7pm1YtNscZo0yzw50rLatrgFejJ2mW8dvU9nLZ4lbEpZnH7PfZ/mvLwEiYceEo9Mn+0MGr83MIvFBle8JY+Q0xwoUM1a+UsZ8y3jwgI13NIvPO9qCSsRY8OHrJ5dp5Z/4xo5EtvK9YcAAAAASUVORK5CYII=" group-title="MY-AR",HBO Asia
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+#EXTINF:0 tvg-name="Arirang" tvg-ID="ArirangWorld.kr" tvg-logo="https://i.imgur.com/GVGesVr.png" group-title="MY-AR",Arirang
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:0 tvg-name="tvN Movies" tvg-ID="tvN.Movies.HD.my" tvg-logo="https://pbs.twimg.com/profile_images/1259700716265811971/hvJGvmej_400x400.jpg" group-title="MY-AR",tvN Movies
+http://210.210.155.35/dr9445/h/h21/01.m3u8
+#EXTINF:0 tvg-name="tvN" tvg-ID="tvN.HD.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/190_144.png" group-title="MY-AR",tvN
+http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
+#EXTINF:0 tvg-name="KBS World" tvg-ID="kbsworld.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/161_144.png" group-title="MY-AR",KBS World
+http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
+#EXTINF:0 tvg-name="ONE HD" tvg-ID="one.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/133_144.png" group-title="MY-AR",ONE HD
+http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
+#EXTINF:0 tvg-name="Kplus" tvg-ID="K쇼핑.kr" tvg-logo="https://i.imgur.com/QVj6I9k.png" group-title="MY-AR",Kplus
+http://rr.dens.tv/h/h08/index.m3u8
+#EXTINF:0 tvg-name="SBS" tvg-ID="SBS.kr" tvg-logo="https://i.imgur.com/Wb4hKP0.png" group-title="MY-AR",SBS
+https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/playlist.m3u8
+#EXTINF:0 tvg-name="Star Movies HD" tvg-ID="starmovies.in" tvg-logo="https://brandslogo.net/wp-content/uploads/2015/09/star-movies-logo-vector-download.jpg" group-title="MY-AR",Star Movies HD
+http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-name="Star Movies Select HD" tvg-ID="starmoviesselecthd.in" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-movies-select-hd-logo-300x300.jpg" group-title="MY-AR",Star Movies Select HD
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/221
+#EXTINF:0 tvg-name="&Flix HD" tvg-ID="andFlix.in" tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/ANDFLIX-HD.jpg" group-title="MY-AR",&Flix HD
+https://f8e7y4c6.ssl.hwcdn.net/andflixhd/index.m3u8
+#EXTINF:0 tvg-name="&Prive HD" tvg-ID="Andprive.in" tvg-logo="https://pbs.twimg.com/profile_images/927804583014887425/PUT8Ilj9_400x400.jpg" group-title="MY-AR",&Prive HD
+https://f8e7y4c6.ssl.hwcdn.net/andprivehd/index.m3u8
+#EXTINF:0 tvg-name="Hits Movies" tvg-ID="HITS.Movies.HD.my" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/hitsmovies.jpg" group-title="MY-AR",Hits Movies
+http://93.190.139.35:8278/streams/d/Hitsmovie/playlist.m3u8
+#EXTINF:0 tvg-name="Sony Pix HD" tvg-ID="SonyPix.in" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/fc/Sony_Pix_HD.jpg" group-title="MY-AR",Sony Pix HD
+https://feed.play.mv/live/10005200/jmW41EycvT/1.m3u8
+#EXTINF:0 tvg-name="Movies NOW" tvg-ID="MoviesNow.in" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/movies-now.jpg" group-title="MY-AR",Movies NOW
+http://103.153.39.34:8000/play/a050/index.m3u8
+#EXTINF:0 tvg-name="Tring Action Movie 1" tvg-ID="TringAction.al" tvg-logo="https://tvshqipon.com/wp-content/uploads/2019/12/Tring-Action-Live.png" group-title="MY-AR",Tring Action Movie 1
+http://93.157.62.180/TringAction/index.m3u8
+#EXTINF:0 tvg-name="NETFLIX MOVIES" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/newnetflixlogo.jpg" group-title="MY-AR",NETFLIX MOVIES
+http://51.77.118.216:4780/nginxlive/dexena2020/index.m3u8
+#EXTINF:0 tvg-name="MIX HOLLYWOOD" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/movie_logo_design_text_reel_filmstrip_icons_decoration_6829232.jpg" group-title="MY-AR",MIX HOLLYWOOD
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:0 tvg-name="MY Cinema" tvg-logo="https://logopond.com/logos/98c5138295891c84a5306b4375f5abb6.png" group-title="MY-AR",MY Cinema
+http://210.210.155.35/uq2663/h/h90/S4/mnf.m3u8
+#EXTINF:0 tvg-name="24hr Movies" tvg-logo="https://a.jsrdn.com/hls/22907/24-hour-free-movies/thumbv_20200922_191828.jpg" group-title="MY-AR",24hr Movies
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:0 tvg-name="Cinema Movies" tvg-logo="https://previews.123rf.com/images/pazhyna/pazhyna1709/pazhyna170900030/85934183-cinema-movie-time-banner-.jpg" group-title="MY-AR",Cinema Movies
+http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K_4000p.xs
+#EXTINF:0 tvg-name="Movie Sphere" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/download.png" group-title="MY-AR",Movie Sphere
+https://moviesphere-plex.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-name="Astrosports 1" tvg-ID="Astro.SuperSport.HD.my" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Astrosports1.jpg" group-title="MY-AR",Astrosports 1
+http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/4989
+#EXTINF:0 tvg-name="Astrosports 2" tvg-ID="Astro.SuperSport.2.HD.my" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Astrosports2.jpg" group-title="MY-AR",Astrosports 2
+http://iptv.tvmalaysia.cc/jalan8/jalan8/6710
+#EXTINF:0 tvg-name="Astrosports 3" tvg-ID="Astro.SuperSport.3.HD.my" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Astrosports3.jpg" group-title="MY-AR",Astrosports 3
+http://iptv.tvmalaysia.cc/jalan8/jalan8/6711
+#EXTINF:0 tvg-name="Astrosports 4" tvg-ID="Astro.SuperSport.4.HD.my" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Astrosports4.jpg" group-title="MY-AR",Astrosports 4
+https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/355563148
+#EXTINF:0 tvg-name="Astro Arena" tvg-ID="astroarena.my" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/Ct3sncQXg6.png" group-title="MY-AR",Astro Arena
+http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
+#EXTINF:0 tvg-name="BT Sport HD 1" tvg-ID="2889" tvg-logo="https://www.logolynx.com/images/logolynx/6a/6a66ddccb7a5d1b4a98018e543d160ee.jpeg" group-title="MY-AR",BT Sport HD 1
+http://stream.tvtap.live:8081/live/bt1.stream/playlist.m3u8
+#EXTINF:0 tvg-name="BT Sport HD 2" tvg-ID="BT Sport 2 UK" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/BT-Sport-2.png" group-title="MY-AR",BT Sport HD 2
+http://iptv.tvmalaysia.cc/jalan8/jalan8/6611
+#EXTINF:0 tvg-name="BT Sport HD 3" tvg-ID="BT Sport 3 UK" tvg-logo="https://tbivision.com/files/2019/02/BT-Sport.jpg" group-title="MY-AR",BT Sport HD 3
+http://iptv.tvmalaysia.cc/jalan8/jalan8/6612
+#EXTINF:0 tvg-name="True Premier HD2" tvg-ID="TrueSport2.th" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-true-premier-football-2-1819.png" group-title="MY-AR",True Premier HD2
+https://r2-sn-w5nuxa-o536.googlevideocdn.com/skycore/thd3/playlist.m3u8
+#EXTINF:0 tvg-name="True Premier HD4" tvg-ID="truesporthd4.th" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-true-premier-football-4-1821.png" group-title="MY-AR",True Premier HD4
+https://r2-sn-w5nuxa-o536.googlevideocdn.com/skycore/tpf4/playlist.m3u8
+#EXTINF:0 tvg-name="Bein Sports HD 1" tvg-ID="beinsports1.th" tvg-logo="https://i2.wp.com/www.stream7hd.com/wp-content/uploads/2021/03/bein1.png" group-title="MY-AR",Bein Sports HD 1
+http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/5012
+#EXTINF:0 tvg-name="Bein Sports HD 2" tvg-ID="beinsports2.th" tvg-logo="https://i0.wp.com/www.stream7hd.com/wp-content/uploads/2021/03/bein2.png" group-title="MY-AR",Bein Sports HD 2
+https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
+#EXTINF:0 tvg-name="Champions TV 1" tvg-logo="https://i.imgur.com/GdIXusA.png" group-title="MY-AR",Champions TV 1
+http://dituduhmaling.xyz/V11710/championstv1.m3u8
+#EXTINF:0 tvg-name="Champions TV 2" tvg-logo="https://i.imgur.com/sizF3bc.png" group-title="MY-AR",Champions TV 2
+http://dituduhmaling.xyz/V11710/championstv2.m3u8
+#EXTINF:0 tvg-name="Champions TV 3" tvg-logo="https://i.postimg.cc/K8kx7J1V/CHAMPION-TV-3.png" group-title="MY-AR",Champions TV 3
+http://dituduhmaling.xyz/V11710/championstv3.m3u8
+#EXTINF:0 tvg-name="S Football" tvg-logo="https://lh6.googleusercontent.com/-WXfxVJe3w9o/TOaPi5eovkI/AAAAAAAAAQY/088BxWzjFiA/s1600/SuperSport+logo+2010+asteroid+3D.jpg" group-title="MY-AR",S Football
+http://iptv.tvmalaysia.cc/live/932633/932633/6575.ts
+#EXTINF:0 tvg-name="MUTV" tvg-ID="MUTV.uk" tvg-logo="https://apprecs.org/ios/images/app-icons/256/ed/1169885165.jpg" group-title="MY-AR",MUTV
+http://protv-nordic.club:8080/julia/julia123/28660
+#EXTINF:0 tvg-name="LFCTV" tvg-ID="LFCTV.uk" tvg-logo="https://e0.365dm.com/18/05/512x512/skysports-lfctv-ass_4298877.jpg" group-title="MY-AR",LFCTV
+http://178.175.132.170:8888/02_lfctv_720p/chunklist.m3u8
+#EXTINF:0 tvg-name="Red Bull TV" tvg-ID="Aberdeen.spfl.uk" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41PJEF5JKLL.jpg" group-title="MY-AR",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:0 tvg-name="WWE Network" tvg-ID="WWE.Network.HD.my" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/WWE_Network_logo.jpeg" group-title="MY-AR",WWE Network
+http://iptv.tvmalaysia.cc/jalan8/jalan8/6849
+#EXTINF:0 tvg-name="Sky 1 Racing" tvg-ID="UK Sky Sport Racing" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/93/Sky_au_racing.png" group-title="MY-AR",Sky 1 Racing
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8
+#EXTINF:0 tvg-name="Sky 2 Racing" tvg-ID="SkySportsRacing.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/93/Sky_au_racing.png" group-title="MY-AR",Sky 2 Racing
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
+#EXTINF:0 tvg-name="Rugby World TV" tvg-logo="https://resources.world.rugby/worldrugby/photo/2020/05/05/721c7185-6499-4733-97e6-4839045722dd/WorldRugby_SEO_metaimage_branded-1-.png" group-title="MY-AR",Rugby World TV
+https://esmhls3-i.akamaihd.net/hls/live/510582/hls3/playlist.m3u8
+#EXTINF:0 tvg-name="THR GEGAR" tvg-ID="THR.GEGAR.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/22_144.png" group-title="Radio-AR",THR GEGAR
+http://astro3.rastream.com/gegar?type=.flv&_=0.25499305268749595
+#EXTINF:0 tvg-name="Sinar FM" tvg-ID="SINAR.FM.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/26_144.png" group-title="Radio-AR",Sinar FM
+http://astro2.rastream.com/sinar?type=.flv&_=0.36323276814073324
+#EXTINF:0 tvg-name="Klasik Nasional FM" tvg-ID="classic.rock.my" tvg-logo="https://liveonlineradio.net/wp-content/uploads/2011/06/Klasik-Nasional-FM-1.jpg" group-title="Radio-AR",Klasik Nasional FM
+https://radioklasik.secureswiftcontent.com/memorystreams/HLS/rtm-ch016/rtm-ch016.m3u8
+#EXTINF:0 tvg-name="Era FM" tvg-ID="ERA.FM.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/14_144.png" group-title="Radio-AR",Era FM
+http://astro2.rastream.com/era?type=.flv&_=0.6250803847797215
+#EXTINF:0 tvg-name="Hitz FM" tvg-ID="HITZ.FM.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/17_144.png" group-title="Radio-AR",Hitz FM
+http://astro1.rastream.com/hitz?type=.flv&_=0.6058576568029821
+#EXTINF:0 tvg-name="Hot FM" tvg-ID="ASYIK.FM.my" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/s9WDrbaf5Z.png" group-title="Radio-AR",Hot FM
+http://mediaprima.rastream.com/mediaprima-hotfm.android
+#EXTINF:0 tvg-name="Sabah Vfm" tvg-ID="V.FM.my" tvg-logo="https://liveonlineradio.net/wp-content/uploads/2011/06/sabah-fm-220x108.jpeg" group-title="Radio-AR",Sabah Vfm
+https://sabahvfmmobile.secureswiftcontent.com/rtm-ch024/rtm-ch024/chunklist.m3u8
+#EXTINF:0 tvg-name="AI FM" tvg-ID="AI.FM.my" tvg-logo="https://vectorise.net/logo/wp-content/uploads/2016/03/AI-FM-Logo-01.png" group-title="Radio-AR",AI FM
+https://klfmmobile.secureswiftcontent.com/rtm-ch020/rtm-ch020/chunklist.m3u8
+#EXTINF:0 tvg-name="ASYIK FM" tvg-ID="ASYIK.FM.my" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/asyik-kuala-lumpur.png" group-title="Radio-AR",ASYIK FM
+https://salamfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch022/rtm-ch022-96000.m3u8
+#EXTINF:0 tvg-name="BAYU" tvg-ID="BAYU.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/31_144.png" group-title="Radio-AR",BAYU
+http://ingest2.astro4.rastream.com/bayu
+#EXTINF:0 tvg-name="MY FM" tvg-ID="MY.FM.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/15_144.png" group-title="Radio-AR",MY FM
+http://astro1.rastream.com/myfm?type=.flv&_=0.1656162654981017
+#EXTINF:0 tvg-name="Radio ARENA" tvg-ID="astroarena.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/304_144.png" group-title="Radio-AR",Radio ARENA
+http://astro1.rastream.com/amp-arena?type=.flv
+#EXTINF:0 tvg-name="V FM" tvg-ID="V.FM.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/29_144.png" group-title="Radio-AR",V FM
+https://sabahvfmmobile.secureswiftcontent.com/rtm-ch024/rtm-ch024/chunklist.m3u8
+#EXTINF:0 tvg-name="THR RAAGA" tvg-ID="THR.RAAGA.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/30_144.png" group-title="Radio-AR",THR RAAGA
+http://astro3.rastream.com/raaga?type=.flv&_=0.2362835700623691
+#EXTINF:0 tvg-name="AMBOI FM" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/amboi.png" group-title="Radio-AR",AMBOI FM
+http://node-02.zeno.fm/555kr7upam0uv.aac?rj-ttl=5&rj-tok=AAABeT8e5HIA8EFX1cMpkIyLsw
+#EXTINF:0 tvg-name="ONE FM" tvg-logo="https://seekvectorlogo.net/wp-content/uploads/2018/07/one-fm-vector-logo.png" group-title="Radio-AR",ONE FM
+https://mediaprima.rastream.com/mediaprima-onefm
+#EXTINF:0 tvg-name="[001] Surah Alfatihah (Pembukaan)" group-title="Al-Quran",[001] Surah Alfatihah (Pembukaan)
+https://archive.org/download/MurotalMR/001.mp3
+#EXTINF:0 tvg-name="[002] Surah Al-Baqarah (Lembu Betina)" group-title="Al-Quran",[002] Surah Al-Baqarah (Lembu Betina)
+https://archive.org/download/MurotalMR/002.mp3
+#EXTINF:0 tvg-name="[003] Surah Ali 'Imran (Keluarga Imran)" group-title="Al-Quran",[003] Surah Ali 'Imran (Keluarga Imran)
+https://archive.org/download/MurotalMR/003.mp3
+#EXTINF:0 tvg-name="[004] Surah An-Nisaa' (Wanita)" group-title="Al-Quran",[004] Surah An-Nisaa' (Wanita)
+https://archive.org/download/MurotalMR/004.mp3
+#EXTINF:0 tvg-name="[005] Surah Al-Maa'idah (Hidangan)" group-title="Al-Quran",[005] Surah Al-Maa'idah (Hidangan)
+https://archive.org/download/MurotalMR/005.mp3
+#EXTINF:0 tvg-name="[006] Surah Al-An'aam (Binatang Ternakan)" group-title="Al-Quran",[006] Surah Al-An'aam (Binatang Ternakan)
+https://archive.org/download/MurotalMR/006.mp3
+#EXTINF:0 tvg-name="[007] Surah Al-A'raaf (Tempat Tertinggi)" group-title="Al-Quran",[007] Surah Al-A'raaf (Tempat Tertinggi)
+https://archive.org/download/MurotalMR/007.mp3
+#EXTINF:0 tvg-name="[008] Surah Al-Anfaal (Rampasan Perang)" group-title="Al-Quran",[008] Surah Al-Anfaal (Rampasan Perang)
+https://archive.org/download/MurotalMR/008.mp3
+#EXTINF:0 tvg-name="[009] Surah At-Taubah (Pengampunan)" group-title="Al-Quran",[009] Surah At-Taubah (Pengampunan)
+https://archive.org/download/MurotalMR/009.mp3
+#EXTINF:0 tvg-name="[010] Surah Yunus (Nabi Yunus a.s.)" group-title="Al-Quran",[010] Surah Yunus (Nabi Yunus a.s.)
+https://archive.org/download/MurotalMR/010.mp3
+#EXTINF:0 tvg-name="[011] Surah Hud (Nabi Hud a.s.)" group-title="Al-Quran",[011] Surah Hud (Nabi Hud a.s.)
+https://archive.org/download/MurotalMR/011.mp3
+#EXTINF:0 tvg-name="[012] Surah Yusuf (Nabi Yusuf a.s.)" group-title="Al-Quran",[012] Surah Yusuf (Nabi Yusuf a.s.)
+https://archive.org/download/MurotalMR/012.mp3
+#EXTINF:0 tvg-name="[013] Surah Ar-Ra'd (Guruh)" group-title="Al-Quran",[013] Surah Ar-Ra'd (Guruh)
+https://archive.org/download/MurotalMR/013.mp3
+#EXTINF:0 tvg-name="[014] Surah Ibrahim (Nabi Ibrahim a.s.)" group-title="Al-Quran",[014] Surah Ibrahim (Nabi Ibrahim a.s.)
+https://archive.org/download/MurotalMR/014.mp3
+#EXTINF:0 tvg-name="[015] Surah Al-Hijr (Kawasan Berbatu)" group-title="Al-Quran",[015] Surah Al-Hijr (Kawasan Berbatu)
+https://archive.org/download/MurotalMR/015.mp3
+#EXTINF:0 tvg-name="[016] Surah An-Nahl (Lebah)" group-title="Al-Quran",[016] Surah An-Nahl (Lebah)
+https://archive.org/download/MurotalMR/016.mp3
+#EXTINF:0 tvg-name="[017] Surah Al-Israa' (Perjalanan Malam)" group-title="Al-Quran",[017] Surah Al-Israa' (Perjalanan Malam)
+https://archive.org/download/MurotalMR/017.mp3
+#EXTINF:0 tvg-name="[018] Surah Al-Kahfi (Gua)" group-title="Al-Quran",[018] Surah Al-Kahfi (Gua)
+https://archive.org/download/MurotalMR/018.mp3
+#EXTINF:0 tvg-name="[019] Surah Maryam (Siti Maryam)" group-title="Al-Quran",[019] Surah Maryam (Siti Maryam)
+https://archive.org/download/MurotalMR/019.mp3
+#EXTINF:0 tvg-name="[020] Surah Taahaa" group-title="Al-Quran",[020] Surah Taahaa
+https://archive.org/download/MurotalMR/020.mp3
+#EXTINF:0 tvg-name="[021] Surah Al-Anbiyaa' (Para Nabi)" group-title="Al-Quran",[021] Surah Al-Anbiyaa' (Para Nabi)
+https://archive.org/download/MurotalMR/021.mp3
+#EXTINF:0 tvg-name="[022] Surah Al-Hajj (Haji)" group-title="Al-Quran",[022] Surah Al-Hajj (Haji)
+https://archive.org/download/MurotalMR/022.mp3
+#EXTINF:0 tvg-name="[023] Surah Al-Mu'minun (Golongan yang Beriman)" group-title="Al-Quran",[023] Surah Al-Mu'minun (Golongan yang Beriman)
+https://archive.org/download/MurotalMR/023.mp3
+#EXTINF:0 tvg-name="[024] Surah An-Nuur (Cahaya)" group-title="Al-Quran",[024] Surah An-Nuur (Cahaya)
+https://archive.org/download/MurotalMR/024.mp3
+#EXTINF:0 tvg-name="[025] Surah Al-Furqaan (Pembeza Kebenaran dan Kebatilan)" group-title="Al-Quran",[025] Surah Al-Furqaan (Pembeza Kebenaran dan Kebatilan)
+https://archive.org/download/MurotalMR/025.mp3
+#EXTINF:0 tvg-name="[026] Surah Asy-Syu'araa (Para Penyair)" group-title="Al-Quran",[026] Surah Asy-Syu'araa (Para Penyair)
+https://archive.org/download/MurotalMR/026.mp3
+#EXTINF:0 tvg-name="[027] Surah An-Naml (Semut)" group-title="Al-Quran",[027] Surah An-Naml (Semut)
+https://archive.org/download/MurotalMR/027.mp3
+#EXTINF:0 tvg-name="[028] Surah Al-Qasas (Cerita-cerita)" group-title="Al-Quran",[028] Surah Al-Qasas (Cerita-cerita)
+https://archive.org/download/MurotalMR/028.mp3
+#EXTINF:0 tvg-name="[029] Surah Al-'Ankabut (Labah-labah)" group-title="Al-Quran",[029] Surah Al-'Ankabut (Labah-labah)
+https://archive.org/download/MurotalMR/029.mp3
+#EXTINF:0 tvg-name="[030] Surah Ar-Rum (Bangsa Rom)" group-title="Al-Quran",[030] Surah Ar-Rum (Bangsa Rom)
+https://archive.org/download/MurotalMR/030.mp3
+#EXTINF:0 tvg-name="[031] Surah Luqman (Luqman)" group-title="Al-Quran",[031] Surah Luqman (Luqman)
+https://archive.org/download/MurotalMR/031.mp3
+#EXTINF:0 tvg-name="[032] Surah As-Sajdah (Sujud)" group-title="Al-Quran",[032] Surah As-Sajdah (Sujud)
+https://archive.org/download/MurotalMR/032.mp3
+#EXTINF:0 tvg-name="[033] Surah Al-Ahzab (Golongan yang Bersekutu)" group-title="Al-Quran",[033] Surah Al-Ahzab (Golongan yang Bersekutu)
+https://archive.org/download/MurotalMR/033.mp3
+#EXTINF:0 tvg-name="[034] Surah Saba' (Kaum Saba')" group-title="Al-Quran",[034] Surah Saba' (Kaum Saba')
+https://archive.org/download/MurotalMR/034.mp3
+#EXTINF:0 tvg-name="[035] Surah Faatir (Pencipta)" group-title="Al-Quran",[035] Surah Faatir (Pencipta)
+https://archive.org/download/MurotalMR/035.mp3
+#EXTINF:0 tvg-name="[036] Surah Yaasin" group-title="Al-Quran",[036] Surah Yaasin
+https://archive.org/download/MurotalMR/036.mp3
+#EXTINF:0 tvg-name="[037] Surah As-Saaffat (Yang Teratur Berbaris)" group-title="Al-Quran",[037] Surah As-Saaffat (Yang Teratur Berbaris)
+https://archive.org/download/MurotalMR/037.mp3
+#EXTINF:0 tvg-name="[038] Surah Saad" group-title="Al-Quran",[038] Surah Saad
+https://archive.org/download/MurotalMR/038.mp3
+#EXTINF:0 tvg-name="[039] Surah Az-Zumar (Rombongan)" group-title="Al-Quran",[039] Surah Az-Zumar (Rombongan)
+https://archive.org/download/MurotalMR/039.mp3
+#EXTINF:0 tvg-name="[040] Surah Al-Ghafir / Al-Mu'min (Orang yang Beriman)" group-title="Al-Quran",[040] Surah Al-Ghafir / Al-Mu'min (Orang yang Beriman)
+https://archive.org/download/MurotalMR/040.mp3
+#EXTINF:0 tvg-name="[041] Surah Fussilat (Dijelaskan)" group-title="Al-Quran",[041] Surah Fussilat (Dijelaskan)
+https://archive.org/download/MurotalMR/041.mp3
+#EXTINF:0 tvg-name="[042] Surah Asy-Syuraa (Permesyuaratan)" group-title="Al-Quran",[042] Surah Asy-Syuraa (Permesyuaratan)
+https://archive.org/download/MurotalMR/042.mp3
+#EXTINF:0 tvg-name="[043] Surah Az-Zukhruf (Perhiasan Emas)" group-title="Al-Quran",[043] Surah Az-Zukhruf (Perhiasan Emas)
+https://archive.org/download/MurotalMR/043.mp3
+#EXTINF:0 tvg-name="[044] Surah Ad-Dukhaan (Kabut / Asap)" group-title="Al-Quran",[044] Surah Ad-Dukhaan (Kabut / Asap)
+https://archive.org/download/MurotalMR/044.mp3
+#EXTINF:0 tvg-name="[045] Surah Al-Jatsiyah (Yang Berlutut)" group-title="Al-Quran",[045] Surah Al-Jatsiyah (Yang Berlutut)
+https://archive.org/download/MurotalMR/045.mp3
+#EXTINF:0 tvg-name="[046] Surah Al-Ahqaaf (Bukit-bukit Pasir)" group-title="Al-Quran",[046] Surah Al-Ahqaaf (Bukit-bukit Pasir)
+https://archive.org/download/MurotalMR/046.mp3
+#EXTINF:0 tvg-name="[047] Surah Muhammad (Nabi Muhammad SAW)" group-title="Al-Quran",[047] Surah Muhammad (Nabi Muhammad SAW)
+https://archive.org/download/MurotalMR/047.mp3
+#EXTINF:0 tvg-name="[048] Surah Al-Fath (Kemenangan)" group-title="Al-Quran",[048] Surah Al-Fath (Kemenangan)
+https://archive.org/download/MurotalMR/048.mp3
+#EXTINF:0 tvg-name="[049] Surah Al-Hujurat (Bilik-bilik)" group-title="Al-Quran",[049] Surah Al-Hujurat (Bilik-bilik)
+https://archive.org/download/MurotalMR/049.mp3
+#EXTINF:0 tvg-name="[050] Surah Qaaf" group-title="Al-Quran",[050] Surah Qaaf
+https://archive.org/download/MurotalMR/050.mp3
+#EXTINF:0 tvg-name="[051] Surah Adz-Dzariyaat (Angin yang Menerbangkan)" group-title="Al-Quran",[051] Surah Adz-Dzariyaat (Angin yang Menerbangkan)
+https://archive.org/download/MurotalMR/051.mp3
+#EXTINF:0 tvg-name="[052] Surah At-Tur (Bukit)" group-title="Al-Quran",[052] Surah At-Tur (Bukit)
+https://archive.org/download/MurotalMR/052.mp3
+#EXTINF:0 tvg-name="[053] Surah An-Najm (Bintang)" group-title="Al-Quran",[053] Surah An-Najm (Bintang)
+https://archive.org/download/MurotalMR/053.mp3
+#EXTINF:0 tvg-name="[054] Surah Al-Qamar (Bulan)" group-title="Al-Quran",[054] Surah Al-Qamar (Bulan)
+https://archive.org/download/MurotalMR/054.mp3
+#EXTINF:0 tvg-name="[055] Surah Ar-Rahman (Yang Maha Pemurah)" group-title="Al-Quran",[055] Surah Ar-Rahman (Yang Maha Pemurah)
+https://archive.org/download/MurotalMR/055.mp3
+#EXTINF:0 tvg-name="[056] Surah Al-Waqi'ah (Peristiwa yang Tidak Dapat Dielakkan)" group-title="Al-Quran",[056] Surah Al-Waqi'ah (Peristiwa yang Tidak Dapat Dielakkan)
+https://archive.org/download/MurotalMR/056.mp3
+#EXTINF:0 tvg-name="[057] Surah Al-Hadid (Besi)" group-title="Al-Quran",[057] Surah Al-Hadid (Besi)
+https://archive.org/download/MurotalMR/057.mp3
+#EXTINF:0 tvg-name="[058] Surah Al-Mujadilah (Perempuan yang Merayu)" group-title="Al-Quran",[058] Surah Al-Mujadilah (Perempuan yang Merayu)
+https://archive.org/download/MurotalMR/058.mp3
+#EXTINF:0 tvg-name="[059] Surah Al-Hasyr (Pengusiran)" group-title="Al-Quran",[059] Surah Al-Hasyr (Pengusiran)
+https://archive.org/download/MurotalMR/059.mp3
+#EXTINF:0 tvg-name="[060] Surah Al-Mumtahanah (Perempuan yang Diuji)" group-title="Al-Quran",[060] Surah Al-Mumtahanah (Perempuan yang Diuji)
+https://archive.org/download/MurotalMR/060.mp3
+#EXTINF:0 tvg-name="[061] Surah As-Saf (Barisan)" group-title="Al-Quran",[061] Surah As-Saf (Barisan)
+https://archive.org/download/MurotalMR/061.mp3
+#EXTINF:0 tvg-name="[062] Surah Al-Jumu'ah (Hari Jumaat)" group-title="Al-Quran",[062] Surah Al-Jumu'ah (Hari Jumaat)
+https://archive.org/download/MurotalMR/062.mp3
+#EXTINF:0 tvg-name="[063] Surah Al-Munafiquun (Golongan Munafik)" group-title="Al-Quran",[063] Surah Al-Munafiquun (Golongan Munafik)
+https://archive.org/download/MurotalMR/063.mp3
+#EXTINF:0 tvg-name="[064] Surah At-Taghabun (Dinampakkan Kesalahan)" group-title="Al-Quran",[064] Surah At-Taghabun (Dinampakkan Kesalahan)
+https://archive.org/download/MurotalMR/064.mp3
+#EXTINF:0 tvg-name="[065] Surah At-Talaq (Cerai / Talak)" group-title="Al-Quran",[065] Surah At-Talaq (Cerai / Talak)
+https://archive.org/download/MurotalMR/065.mp3
+#EXTINF:0 tvg-name="[066] Surah At-Tahrim (Mengharamkan)" group-title="Al-Quran",[066] Surah At-Tahrim (Mengharamkan)
+https://archive.org/download/MurotalMR/066.mp3
+#EXTINF:0 tvg-name="[067] Surah Al-Mulk (Kerajaan)" group-title="Al-Quran",[067] Surah Al-Mulk (Kerajaan)
+https://archive.org/download/MurotalMR/067.mp3
+#EXTINF:0 tvg-name="[068] Surah Al-Qalam (Pena / Kalam)" group-title="Al-Quran",[068] Surah Al-Qalam (Pena / Kalam)
+https://archive.org/download/MurotalMR/068.mp3
+#EXTINF:0 tvg-name="[069] Surah Al-Haaqqah (Keadaan Sebenar / Hari Kiamat)" group-title="Al-Quran",[069] Surah Al-Haaqqah (Keadaan Sebenar / Hari Kiamat)
+https://archive.org/download/MurotalMR/069.mp3
+#EXTINF:0 tvg-name="[070] Surah Al-Ma'arij (Tempat-tempat Naik)" group-title="Al-Quran",[070] Surah Al-Ma'arij (Tempat-tempat Naik)
+https://archive.org/download/MurotalMR/070.mp3
+#EXTINF:0 tvg-name="[071] Surah Nuh (Nabi Nuh a.s.)" group-title="Al-Quran",[071] Surah Nuh (Nabi Nuh a.s.)
+https://archive.org/download/MurotalMR/071.mp3
+#EXTINF:0 tvg-name="[072] Surah A-Jin (Jin)" group-title="Al-Quran",[072] Surah A-Jin (Jin)
+https://archive.org/download/MurotalMR/072.mp3
+#EXTINF:0 tvg-name="[073] Surah Al-Muzammil (Yang Berselimut)" group-title="Al-Quran",[073] Surah Al-Muzammil (Yang Berselimut)
+https://archive.org/download/MurotalMR/073.mp3
+#EXTINF:0 tvg-name="[074] Surah Al-Muddathir (Yang Berselubung)" group-title="Al-Quran",[074] Surah Al-Muddathir (Yang Berselubung)
+https://archive.org/download/MurotalMR/074.mp3
+#EXTINF:0 tvg-name="[075] Surah Al-Qiyaamah (Hari Kebangkitan / Kiamat)" group-title="Al-Quran",[075] Surah Al-Qiyaamah (Hari Kebangkitan / Kiamat)
+https://archive.org/download/MurotalMR/075.mp3
+#EXTINF:0 tvg-name="[076] Surah Al-Insaan (Manusia)" group-title="Al-Quran",[076] Surah Al-Insaan (Manusia)
+https://archive.org/download/MurotalMR/076.mp3
+#EXTINF:0 tvg-name="[077] Surah Al-Mursalat (Malaikat Yang Diutus)" group-title="Al-Quran",[077] Surah Al-Mursalat (Malaikat Yang Diutus)
+https://archive.org/download/MurotalMR/077.mp3
+#EXTINF:0 tvg-name="[078] Surah An-Naba' (Berita Besar)" group-title="Al-Quran",[078] Surah An-Naba' (Berita Besar)
+https://archive.org/download/MurotalMR/078.mp3
+#EXTINF:0 tvg-name="[079] Surah An-Naazi'aat (Malaikat Yang Mencabut)" group-title="Al-Quran",[079] Surah An-Naazi'aat (Malaikat Yang Mencabut)
+https://archive.org/download/MurotalMR/079.mp3
+#EXTINF:0 tvg-name="[080] Surah 'Abasa (Dia Bermasam Muka)" group-title="Al-Quran",[080] Surah 'Abasa (Dia Bermasam Muka)
+https://archive.org/download/MurotalMR/080.mp3
+#EXTINF:0 tvg-name="[081] Surah At-Takwiir (Menggulung)" group-title="Al-Quran",[081] Surah At-Takwiir (Menggulung)
+https://archive.org/download/MurotalMR/081.mp3
+#EXTINF:0 tvg-name="[082] Surah Al-Infitar (Terpecah & Terbelah)" group-title="Al-Quran",[082] Surah Al-Infitar (Terpecah & Terbelah)
+https://archive.org/download/MurotalMR/082.mp3
+#EXTINF:0 tvg-name="[083] Surah Al-Mutaffifiin (Golongan yang Curang)" group-title="Al-Quran",[083] Surah Al-Mutaffifiin (Golongan yang Curang)
+https://archive.org/download/MurotalMR/083.mp3
+#EXTINF:0 tvg-name="[084] Surah Al-Insyiqaaq (Terbelah)" group-title="Al-Quran",[084] Surah Al-Insyiqaaq (Terbelah)
+https://archive.org/download/MurotalMR/084.mp3
+#EXTINF:0 tvg-name="[085] Surah Al-Buruj (Gugusan Bintang)" group-title="Al-Quran",[085] Surah Al-Buruj (Gugusan Bintang)
+https://archive.org/download/MurotalMR/085.mp3
+#EXTINF:0 tvg-name="[086] Surah At-Taariq (Pengunjung Malam)" group-title="Al-Quran",[086] Surah At-Taariq (Pengunjung Malam)
+https://archive.org/download/MurotalMR/086.mp3
+#EXTINF:0 tvg-name="[087] Surah Al-A'laa (Yang Tertinggi)" group-title="Al-Quran",[087] Surah Al-A'laa (Yang Tertinggi)
+https://archive.org/download/MurotalMR/087.mp3
+#EXTINF:0 tvg-name="[088] Surah Al-Ghaasyiah (Peristiwa Menggelisahkan/Hari Pembalasan)" group-title="Al-Quran",[088] Surah Al-Ghaasyiah (Peristiwa Menggelisahkan/Hari Pembalasan)
+https://archive.org/download/MurotalMR/088.mp3
+#EXTINF:0 tvg-name="[089] Surah Al-Fajr (Fajar / Sinar Mentari)" group-title="Al-Quran",[089] Surah Al-Fajr (Fajar / Sinar Mentari)
+https://archive.org/download/MurotalMR/089.mp3
+#EXTINF:0 tvg-name="[090] Surah Al-Balad (Negeri)" group-title="Al-Quran",[090] Surah Al-Balad (Negeri)
+https://archive.org/download/MurotalMR/090.mp3
+#EXTINF:0 tvg-name="[091] Surah Asy-Syams (Matahari)" group-title="Al-Quran",[091] Surah Asy-Syams (Matahari)
+https://archive.org/download/MurotalMR/091.mp3
+#EXTINF:0 tvg-name="[092] Surah Al-Lail (Malam)" group-title="Al-Quran",[092] Surah Al-Lail (Malam)
+https://archive.org/download/MurotalMR/092.mp3
+#EXTINF:0 tvg-name="[093] Surah Adh-Dhuha (Pagi yang Cemerlang / Matahari Meninggi)" group-title="Al-Quran",[093] Surah Adh-Dhuha (Pagi yang Cemerlang / Matahari Meninggi)
+https://archive.org/download/MurotalMR/093.mp3
+#EXTINF:0 tvg-name="[094] Surah Al-Insyirah/An-Nasyrah (Melapangkan)" group-title="Al-Quran",[094] Surah Al-Insyirah/An-Nasyrah (Melapangkan)
+https://archive.org/download/MurotalMR/094.mp3
+#EXTINF:0 tvg-name="[095] Surah At-Tin (Buah Tin / Buah Ara)" group-title="Al-Quran",[095] Surah At-Tin (Buah Tin / Buah Ara)
+https://archive.org/download/MurotalMR/095.mp3
+#EXTINF:0 tvg-name="[096] Surah Al-'Alaq (Segumpal Darah)" group-title="Al-Quran",[096] Surah Al-'Alaq (Segumpal Darah)
+https://archive.org/download/MurotalMR/096.mp3
+#EXTINF:0 tvg-name="[097] Surah Al-Qadr (Kemuliaan)" group-title="Al-Quran",[097] Surah Al-Qadr (Kemuliaan)
+https://archive.org/download/MurotalMR/097.mp3
+#EXTINF:0 tvg-name="[098] Surah Al-Baiyinah (Bukti yang Nyata)" group-title="Al-Quran",[098] Surah Al-Baiyinah (Bukti yang Nyata)
+https://archive.org/download/MurotalMR/098.mp3
+#EXTINF:0 tvg-name="[099] Surah Al-Zalzalah (Kegoncangan)" group-title="Al-Quran",[099] Surah Al-Zalzalah (Kegoncangan)
+https://archive.org/download/MurotalMR/099.mp3
+#EXTINF:0 tvg-name="[100] Surah Al-'Aadiyaat (Yang Berlari Kencang)" group-title="Al-Quran",[100] Surah Al-'Aadiyaat (Yang Berlari Kencang)
+https://archive.org/download/MurotalMR/100.mp3
+#EXTINF:0 tvg-name="[101] Surah Al-Qari'ah (Hari Yang Hingar Bingar/kiamat)" group-title="Al-Quran",[101] Surah Al-Qari'ah (Hari Yang Hingar Bingar/kiamat)
+https://archive.org/download/MurotalMR/101.mp3
+#EXTINF:0 tvg-name="[102] Surah At-Takathur (Bermegah-Megah)" group-title="Al-Quran",[102] Surah At-Takathur (Bermegah-Megah)
+https://archive.org/download/MurotalMR/102.mp3
+#EXTINF:0 tvg-name="[103] Surah Al-'Asr (Masa)" group-title="Al-Quran",[103] Surah Al-'Asr (Masa)
+https://archive.org/download/MurotalMR/103.mp3
+#EXTINF:0 tvg-name="[104] Surah Al-Humazah (Pengumpat)" group-title="Al-Quran",[104] Surah Al-Humazah (Pengumpat)
+https://archive.org/download/MurotalMR/104.mp3
+#EXTINF:0 tvg-name="[105] Surah Al-Fiil (Gajah)" group-title="Al-Quran",[105] Surah Al-Fiil (Gajah)
+https://archive.org/download/MurotalMR/105.mp3
+#EXTINF:0 tvg-name="[106] Surah Quraisy (Kaum Quraisy)" group-title="Al-Quran",[106] Surah Quraisy (Kaum Quraisy)
+https://archive.org/download/MurotalMR/106.mp3
+#EXTINF:0 tvg-name="[107] Surah Al-Ma'un (Barangan Berguna)" group-title="Al-Quran",[107] Surah Al-Ma'un (Barangan Berguna)
+https://archive.org/download/MurotalMR/107.mp3
+#EXTINF:0 tvg-name="[108] Surah Al-Kauthar (Sungai Di Syurga)" group-title="Al-Quran",[108] Surah Al-Kauthar (Sungai Di Syurga)
+https://archive.org/download/MurotalMR/108.mp3
+#EXTINF:0 tvg-name="[109] Surah Al-Kafirun (Golongan Kafir)" group-title="Al-Quran",[109] Surah Al-Kafirun (Golongan Kafir)
+https://archive.org/download/MurotalMR/109.mp3
+#EXTINF:0 tvg-name="[110] Surah An-Nasr (Pertolongan)" group-title="Al-Quran",[110] Surah An-Nasr (Pertolongan)
+https://archive.org/download/MurotalMR/110.mp3
+#EXTINF:0 tvg-name="[111] Surah Al-Masad / Al-Lahab (Nyalaan Api)" group-title="Al-Quran",[111] Surah Al-Masad / Al-Lahab (Nyalaan Api)
+https://archive.org/download/MurotalMR/111.mp3
+#EXTINF:0 tvg-name="[112] Surah Al-Ikhlas (Tulus Ikhlas / Memurnikan Keesaan Allah)" group-title="Al-Quran",[112] Surah Al-Ikhlas (Tulus Ikhlas / Memurnikan Keesaan Allah)
+https://archive.org/download/MurotalMR/112.mp3
+#EXTINF:0 tvg-name="[113] Surah Al-Falaq (Waktu Subuh / Dinihari)" group-title="Al-Quran",[113] Surah Al-Falaq (Waktu Subuh / Dinihari)
+https://archive.org/download/MurotalMR/113.mp3
+#EXTINF:0 tvg-name="[114] Surah An-Naas (Manusia)" group-title="Al-Quran",[114] Surah An-Naas (Manusia)
+https://archive.org/download/MurotalMR/114.mp3
+#EXTINF:0 tvg-name="Lagu - Alhamdulillah" tvg-logo="https://i.ibb.co/TW57CJK/omar.jpg" group-title="OMAR HANA",Lagu - Alhamdulillah
+http://www.supercartube.com/media/videos/h264/388_720p.mp4
+#EXTINF:0 tvg-name="Lagu - Terima Kasih Cikgu" tvg-logo="https://i.ibb.co/TW57CJK/omar.jpg" group-title="OMAR HANA",Lagu - Terima Kasih Cikgu
+http://www.supercartube.com/media/videos/h264/389_720p.mp4
+#EXTINF:0 tvg-name="Lagu - Main Sama-Sama" tvg-logo="https://i.ibb.co/TW57CJK/omar.jpg" group-title="OMAR HANA",Lagu - Main Sama-Sama
+http://www.supercartube.com/media/videos/h264/390_720p.mp4
+#EXTINF:0 tvg-name="Lagu - Sayang Mama Papa" tvg-logo="https://i.ibb.co/TW57CJK/omar.jpg" group-title="OMAR HANA",Lagu - Sayang Mama Papa
+http://www.supercartube.com/media/videos/h264/391_720p.mp4
+#EXTINF:0 tvg-name="Lagu - Bismillahirrahmanirrahim" tvg-logo="https://i.ibb.co/TW57CJK/omar.jpg" group-title="OMAR HANA",Lagu - Bismillahirrahmanirrahim
+http://www.supercartube.com/media/videos/h264/392_720p.mp4
+#EXTINF:0 tvg-name="Lagu - Sayang Allah dan Nabi" tvg-logo="https://i.ibb.co/TW57CJK/omar.jpg" group-title="OMAR HANA",Lagu - Sayang Allah dan Nabi
+http://www.supercartube.com/media/videos/h264/393_720p.mp4
+#EXTINF:0 tvg-name="Lagu - Tolong Mama Papa" tvg-logo="https://i.ibb.co/TW57CJK/omar.jpg" group-title="OMAR HANA",Lagu - Tolong Mama Papa
+http://www.supercartube.com/media/videos/h264/394_720p.mp4
+#EXTINF:0 tvg-name="Lagu - Kami Suka Kucing" tvg-logo="https://i.ibb.co/TW57CJK/omar.jpg" group-title="OMAR HANA",Lagu - Kami Suka Kucing
+http://www.supercartube.com/media/videos/h264/395_720p.mp4
+#EXTINF:0 tvg-name="Lagu - Jangan Membazir" tvg-logo="https://i.ibb.co/TW57CJK/omar.jpg" group-title="OMAR HANA",Lagu - Jangan Membazir
+http://www.supercartube.com/media/videos/h264/396_720p.mp4
+#EXTINF:0 tvg-name="Lagu - Hormati Yang Tua" tvg-logo="https://i.ibb.co/TW57CJK/omar.jpg" group-title="OMAR HANA",Lagu - Hormati Yang Tua
+http://www.supercartube.com/media/videos/h264/397_720p.mp4
+#EXTINF:0 tvg-name="Lagu - Mari Berkebun" tvg-logo="https://i.ibb.co/TW57CJK/omar.jpg" group-title="OMAR HANA",Lagu - Mari Berkebun
+http://www.supercartube.com/media/videos/h264/398_1080p.mp4
+#EXTINF:0 tvg-name="Lagu - Mari Ke Masjid" tvg-logo="https://i.ibb.co/TW57CJK/omar.jpg" group-title="OMAR HANA",Lagu - Mari Ke Masjid
+http://www.supercartube.com/media/videos/h264/399_720p.mp4
+#EXTINF:0 tvg-name="Lagu - Seronoknya Puasa" tvg-logo="https://i.ibb.co/TW57CJK/omar.jpg" group-title="OMAR HANA",Lagu - Seronoknya Puasa
+http://www.supercartube.com/media/videos/h264/400_720p.mp4
+#EXTINF:0 tvg-name="Lagu - Assalamualaikum" tvg-logo="https://i.ibb.co/TW57CJK/omar.jpg" group-title="OMAR HANA",Lagu - Assalamualaikum
+http://www.supercartube.com/media/videos/h264/401_720p.mp4
+#EXTINF:0 tvg-name="Lagu - Mari Berusaha" tvg-logo="https://i.ibb.co/TW57CJK/omar.jpg" group-title="OMAR HANA",Lagu - Mari Berusaha
+http://www.supercartube.com/media/videos/h264/403_720p.mp4
+#EXTINF:0 tvg-name="Lagu - Berbaik Dengan Jiran" tvg-logo="https://i.ibb.co/TW57CJK/omar.jpg" group-title="OMAR HANA",Lagu - Berbaik Dengan Jiran
+http://www.supercartube.com/media/videos/h264/404_720p.mp4
+#EXTINF:0 tvg-name="Lagu - Insya-Allah" tvg-logo="https://i.ibb.co/TW57CJK/omar.jpg" group-title="OMAR HANA",Lagu - Insya-Allah
+http://www.supercartube.com/media/videos/h264/405_720p.mp4
+#EXTINF:0 tvg-name="Lagu - Sayangi Anak Yatim" tvg-logo="https://i.ibb.co/TW57CJK/omar.jpg" group-title="OMAR HANA",Lagu - Sayangi Anak Yatim
+http://www.supercartube.com/media/videos/h264/406_720p.mp4
+#EXTINF:0 tvg-name="Lagu - Tolong Menolong" tvg-logo="https://i.ibb.co/TW57CJK/omar.jpg" group-title="OMAR HANA",Lagu - Tolong Menolong
+http://www.supercartube.com/media/videos/h264/407_720p.mp4
+#EXTINF:0 tvg-name="Lagu - Jaga Kebersihan" tvg-logo="https://i.ibb.co/TW57CJK/omar.jpg" group-title="OMAR HANA",Lagu - Jaga Kebersihan
+http://www.supercartube.com/media/videos/h264/408_720p.mp4
+#EXTINF:0 tvg-name="Lagu - Zikir Tidur" tvg-logo="https://i.ibb.co/TW57CJK/omar.jpg" group-title="OMAR HANA",Lagu - Zikir Tidur
+http://www.supercartube.com/media/videos/h264/409_720p.mp4
+#EXTINF:0 tvg-name="Lagu - Seronoknya Berkunjung" tvg-logo="https://i.ibb.co/TW57CJK/omar.jpg" group-title="OMAR HANA",Lagu - Seronoknya Berkunjung
+http://www.supercartube.com/media/videos/h264/410_720p.mp4
+#EXTINF:0 tvg-name="Lagu - Tema Omar dan Hana" tvg-logo="https://i.ibb.co/TW57CJK/omar.jpg" group-title="OMAR HANA",Lagu - Tema Omar dan Hana
+http://www.supercartube.com/media/videos/h264/411_720p.mp4
+#EXTINF:0 tvg-name="Lagu - Orang Solat Hebat" tvg-logo="https://i.ibb.co/TW57CJK/omar.jpg" group-title="OMAR HANA",Lagu - Orang Solat Hebat
+http://www.supercartube.com/media/videos/h264/412_720p.mp4
+#EXTINF:0 tvg-name="Lagu - Kejutan Untuk Papa (Istimewa)" tvg-logo="https://i.ibb.co/TW57CJK/omar.jpg" group-title="OMAR HANA",Lagu - Kejutan Untuk Papa (Istimewa)
+http://www.supercartube.com/media/videos/h264/413_720p.mp4
+#EXTINF:0 tvg-name="Lagu - Oh Meriahnya Raya (ft Siti Nordiana)" tvg-logo="https://i.ibb.co/TW57CJK/omar.jpg" group-title="OMAR HANA",Lagu - Oh Meriahnya Raya (ft Siti Nordiana)
+http://www.supercartube.com/media/videos/h264/414_720p.mp4
+#EXTINF:0 tvg-name="Lagu - Misi Sedekah" tvg-logo="https://i.ibb.co/TW57CJK/omar.jpg" group-title="OMAR HANA",Lagu - Misi Sedekah
+http://www.supercartube.com/media/videos/h264/415_720p.mp4
+#EXTINF:0 tvg-name="Lagu - Lukis Sama-Sama (Istimewa)" tvg-logo="https://i.ibb.co/TW57CJK/omar.jpg" group-title="OMAR HANA",Lagu - Lukis Sama-Sama (Istimewa)
+http://www.supercartube.com/media/videos/h264/416_720p.mp4
+#EXTINF:0 tvg-name="Lagu - Jom Jujur" tvg-logo="https://i.ibb.co/TW57CJK/omar.jpg" group-title="OMAR HANA",Lagu - Jom Jujur
+http://www.supercartube.com/media/videos/h264/417_720p.mp4
+#EXTINF:0 tvg-name="Lagu - Terima Kasih" tvg-logo="https://i.ibb.co/TW57CJK/omar.jpg" group-title="OMAR HANA",Lagu - Terima Kasih
+http://www.supercartube.com/media/videos/h264/418_720p.mp4
+#EXTINF:0 tvg-name="Lagu - Haiwan Hebat" tvg-logo="https://i.ibb.co/TW57CJK/omar.jpg" group-title="OMAR HANA",Lagu - Haiwan Hebat
+http://www.supercartube.com/media/videos/h264/419_1080p.mp4
+#EXTINF:0 tvg-name="Lagu - Kutip Dan Buang" tvg-logo="https://i.ibb.co/TW57CJK/omar.jpg" group-title="OMAR HANA",Lagu - Kutip Dan Buang
+http://www.supercartube.com/media/videos/h264/420_720p.mp4
+#EXTINF:0 tvg-name="Lagu - Kongsi" tvg-logo="https://i.ibb.co/TW57CJK/omar.jpg" group-title="OMAR HANA",Lagu - Kongsi
+http://www.supercartube.com/media/videos/h264/421_720p.mp4
+#EXTINF:0 tvg-name="Lagu - Oh Meriahnya Raya (ft Siti Nordiana)" tvg-logo="https://i.ibb.co/TW57CJK/omar.jpg" group-title="OMAR HANA",Lagu - Oh Meriahnya Raya (ft Siti Nordiana)
+http://www.supercartube.com/media/videos/h264/422_720p.mp4
+#EXTINF:0 tvg-name="Lagu - Doa Naik Kenderaan" tvg-logo="https://i.ibb.co/TW57CJK/omar.jpg" group-title="OMAR HANA",Lagu - Doa Naik Kenderaan
+http://www.supercartube.com/media/videos/h264/423_720p.mp4
+#EXTINF:0 tvg-name="Lagu - Masa Dengan Keluarga" tvg-logo="https://i.ibb.co/TW57CJK/omar.jpg" group-title="OMAR HANA",Lagu - Masa Dengan Keluarga
+http://www.supercartube.com/media/videos/h264/424_720p.mp4
+#EXTINF:0 tvg-name="Lagu - Cari Sama-Sama" tvg-logo="https://i.ibb.co/TW57CJK/omar.jpg" group-title="OMAR HANA",Lagu - Cari Sama-Sama
+http://www.supercartube.com/media/videos/h264/425_720p.mp4
+#EXTINF:0 tvg-name="Lagu - Amanah" tvg-logo="https://i.ibb.co/TW57CJK/omar.jpg" group-title="OMAR HANA",Lagu - Amanah
+http://www.supercartube.com/media/videos/h264/426_720p.mp4
+#EXTINF:0 tvg-name="Lagu - Kawan Istimewa" tvg-logo="https://i.ibb.co/TW57CJK/omar.jpg" group-title="OMAR HANA",Lagu - Kawan Istimewa
+http://www.supercartube.com/media/videos/h264/427_720p.mp4
+#EXTINF:0 tvg-name="Lagu - Contohi Nabi Kita" tvg-logo="https://i.ibb.co/TW57CJK/omar.jpg" group-title="OMAR HANA",Lagu - Contohi Nabi Kita
+http://www.supercartube.com/media/videos/h264/428_720p.mp4
+#EXTINF:0 tvg-name="Lagu - Minta Izin" tvg-logo="https://i.ibb.co/TW57CJK/omar.jpg" group-title="OMAR HANA",Lagu - Minta Izin
+http://www.supercartube.com/media/videos/h264/429_720p.mp4
+#EXTINF:0 tvg-name="Lagu - Sabar Bila Marah" tvg-logo="https://i.ibb.co/TW57CJK/omar.jpg" group-title="OMAR HANA",Lagu - Sabar Bila Marah
+http://www.supercartube.com/media/videos/h264/430_720p.mp4
+#EXTINF:0 tvg-name="Lagu - Ya Mama Ya Papa" tvg-logo="https://i.ibb.co/TW57CJK/omar.jpg" group-title="OMAR HANA",Lagu - Ya Mama Ya Papa
+http://www.supercartube.com/media/videos/h264/431_720p.mp4
