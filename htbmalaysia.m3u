@@ -611,7 +611,7 @@ https://agplayback03.aotg-video.astro.com.my/CH2/master_GOSHOP2.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=31ff25ad46df61d3352a03de5f085f10&key=2daee966c9736498a05505174b266bde
-#EXTINF:-1 tvg-id="ABO Movies Thangathirai HD" tvg-name="Astro Tayangan Hebat 1" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/176_144.png" tvg-chno="60" channel-id="60" group-title="MYSG",ABO Movies Thangathirai HD
+#EXTINF:-1 tvg-id="BoxOfficeThangathirai" tvg-name="Astro Tayangan Hebat 1" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/176_144.png" tvg-chno="60" channel-id="60" group-title="MYSG",ABO Movies Thangathirai HD
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
