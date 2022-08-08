@@ -544,10 +544,10 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b4596000_slENG.m3u8
 #EXTINF:-1 tvg-id="Androidrepublica" tvg-name="Androidrepublica" tvg-logo="https://raw.githubusercontent.com/androidrepublica/icons/master/ARMC-logo.png" tvg-chno="0" channel-id="0" group-title="MYSG",Androidrepublica
 https://bit.ly/seOnlyla
 
-#EXTINF:-1 tvg-id="TV1 HD" tvg-name="TV1" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/95_144.png" tvg-chno="1" channel-id="1" group-title="MYSG",TV1
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV1" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/95_144.png" tvg-chno="1" channel-id="1" group-title="MYSG",TV1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b4596000_slENG.m3u8
 
-#EXTINF:-1 tvg-id="TV2 HD" tvg-name="TV2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/103_144.png" tvg-chno="2" channel-id="2" group-title="MYSG",TV2
+#EXTINF:-1 tvg-id="TV2" tvg-name="TV2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/103_144.png" tvg-chno="2" channel-id="2" group-title="MYSG",TV2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b4596000_slENG.m3u8
 
 #EXTINF:-1 tvg-id="TV3" tvg-name="TV3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" tvg-chno="3" channel-id="3" group-title="MYSG",TV3
@@ -562,44 +562,48 @@ https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=8tv|Refer
 #EXTINF:-1 tvg-id="TV9" tvg-name="TV9" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png" tvg-chno="6" channel-id="6" group-title="MYSG",TV9
 https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=tv9|Referer=https://www.dailymotion.com
 
-#EXTINF:-1 tvg-id="DramaSangat.my" tvg-name="Drama Sangat" tvg-logo="https://baseimages.tonton.com.my/1546920448175_drama_sangat_logo.png" tvg-chno="7" channel-id="7" group-title="MYSG",Drama Sangat
+#EXTINF:-1 tvg-id="DramaSangat" tvg-name="Drama Sangat" tvg-logo="https://baseimages.tonton.com.my/1546920448175_drama_sangat_logo.png" tvg-chno="7" channel-id="7" group-title="MYSG",Drama Sangat
 https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=dramasangat|Referer=https://www.dailymotion.com
 
-#EXTINF:-1 tvg-id="Al-Hijrah" tvg-name="AL Hijrah" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/149_144.png" tvg-chno="8" channel-id="8" group-title="MYSG",AL Hijrah
+#EXTINF:-1 tvg-id="TVAlhijrah" tvg-name="AL Hijrah" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/149_144.png" tvg-chno="8" channel-id="8" group-title="MYSG",AL Hijrah
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live07.mpd
 
-#EXTINF:-1 tvg-id="TV Okey" tvg-name="OKEY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/97_144.png" tvg-chno="9" channel-id="9" group-title="MYSG",OKEY
+#EXTINF:-1 tvg-id="OKEY" tvg-name="OKEY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/97_144.png" tvg-chno="9" channel-id="9" group-title="MYSG",OKEY
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b4596000_slENG.m3u8
 
-#EXTINF:-1 tvg-id="Astro Awani" tvg-name="Astro Awani" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/84_144.png" tvg-chno="59" channel-id="59" group-title="MYSG",Astro Awani
+#EXTINF:-1 tvg-id="AstroAwani" tvg-name="Astro Awani" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/84_144.png" tvg-chno="59" channel-id="59" group-title="MYSG",Astro Awani
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 
-#EXTINF:-1 tvg-id="Naura.my" tvg-name="Naura" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/299_144.png" tvg-chno="10" channel-id="10" group-title="MYSG",Naura
-https://agplayback03.aotg-video.astro.com.my/CH2/master_NAURAGOSHOP4.m3u8
+#EXTINF:-1 tvg-id="AstroRania" tvg-name="Naura" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/299_144.png" tvg-chno="10" channel-id="10" group-title="MYSG",Naura
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=8a4b24805e598acd00fae76918b3f610&key=1807230578255fcd79e1279b13ae69d8
+#http://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
+#https://links.aqfadtv.xyz/rania.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
 
-#EXTINF:-1 tvg-id="TVi.my" tvg-name="TVIKIM" tvg-logo="https://static.epg.best/my/TVi.my.png" tvg-chno="11" channel-id="11" group-title="MYSG",TVIKIM
+#EXTINF:-1 tvg-id="OKEY" tvg-name="TVIKIM" tvg-logo="https://static.epg.best/my/TVi.my.png" tvg-chno="11" channel-id="11" group-title="MYSG",TVIKIM
 http://edge.vediostream.com/abr/tvikim/live/tvikim_source/chunks.m3u8?fbclid=IwAR0gHbmTms16QysOYsKELXivRa47GYg-q4SDT8_hCWKO3kisY36mLxBSmL4
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=452aca9691995f5ae62629035888e110&key=35d62e585c052018e1c190eda89fafa3
-#EXTINF:-1 tvg-id="Astro Prima HD" tvg-name="Astro Prima" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/3_144.png" tvg-chno="12" channel-id="12" tvg-group="MY/SG" group-title="MYSG",Astro Prima
+#EXTINF:-1 tvg-id="AstroPrima" tvg-name="AstroPrima" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/3_144.png" tvg-chno="12" channel-id="12" tvg-group="MY/SG" group-title="MYSG",Astro Prima
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
 
-#EXTINF:-1 tvg-id="Astro Ria HD" tvg-name="Astro Ria" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/73_144.png" tvg-chno="13" channel-id="13" tvg-group="MY/SG" group-title="MYSG",Astro Ria
+#EXTINF:-1 tvg-id="AstroRia" tvg-name="AstroRia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/73_144.png" tvg-chno="13" channel-id="13" tvg-group="MY/SG" group-title="MYSG",Astro Ria
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5f437ad29765f253325a84298d9f0d10&key=d8e36aeb7416a20a124c2d132c8f74f9
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http://app.iptv8k.org/mobile//GetLiveAdv.aspx?version=android&area=&type=%E7%9B%B4%E6%92%AD&name=RIA%28B%29+Astro&stream=true
 https://aqfadtv.xyz/ria.mpd
 
-#EXTINF:-1 tvg-id="Astro Warna HD" tvg-name="Astro Warna" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/53_144.png" tvg-chno="14" channel-id="14" tvg-group="MY/SG" group-title="MYSG",Astro Warna
+#EXTINF:-1 tvg-id="AstroWarna" tvg-name="AstroWarna" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/53_144.png" tvg-chno="14" channel-id="14" tvg-group="MY/SG" group-title="MYSG",Astro Warna
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40bb94cdb1c90f6cc15073d9a500c810&key=264de3f18e64770e92a2d29f2b177701
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #https://links.aqfadtv.xyz/warna.mpd
 https://linears-playback.astro.com.my/vsgN/41iHxFdzNWPpdT5cA7TKBm9Evt3ntK8RNs1XiwLwwKIIE=LjF6/dash-wv/jitp-linearwm/2402/default_ott.mpd?7
 
-#EXTINF:-1 tvg-id="Astro Citra HD" tvg-name="Astro Citra" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png" tvg-chno="15" channel-id="15" tvg-group="MY/SG" group-title="MYSG",Astro Citra
+#EXTINF:-1 tvg-id="AstroCitra" tvg-name="AstroCitra" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png" tvg-chno="15" channel-id="15" tvg-group="MY/SG" group-title="MYSG",Astro Citra
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=73e84f91bd9ae20412e370f98fd3a110&key=d5b52aabca5afe002eb495804f8ec944
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
@@ -608,30 +612,38 @@ https://linears-playback.astro.com.my/vsgN/41iHxFdzNWPpdT5cA7TKBm9DDyanZY_5gWvdb
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=39b114b7ebecd9d4a7f1c797dd885b10&key=8d2be29307bb382c8c6c286cc9cd07c6
-#EXTINF:-1 tvg-id="Astro Ceria HD" tvg-name="Astro Ceria" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png" tvg-chno="16" channel-id="16" tvg-group="MY/SG" group-title="MYSG",Astro Ceria
+#EXTINF:-1 tvg-id="AstroCeria" tvg-name="AstroCeria" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png" tvg-chno="16" channel-id="16" tvg-group="MY/SG" group-title="MYSG",Astro Ceria
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=7b65e3d6ee807842a109821fba96b510&key=7827b9cf05fda4c3b77f48dea0acfa48
-#EXTINF:-1 tvg-id="Astro Oasis HD" tvg-name="Astro Oasis" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/70_144.png" tvg-chno="47" channel-id="47" group-title="MYSG",Astro Oasis
+#EXTINF:-1 tvg-id="AstroOasis" tvg-name="AstroOasis" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/70_144.png" tvg-chno="47" channel-id="47" group-title="MYSG",Astro Oasis
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=fb764610dca2eaf4a4ea4fa216af8110&key=6a9fca876b7b999b1a7b414a0bd44b4e
-#EXTINF:-1 tvg-id="Astro AEC HD" tvg-name="Astro AEC" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/80_144.png" tvg-chno="17" channel-id="17" tvg-group="MY/SG" group-title="MYSG",Astro AEC
+#EXTINF:-1 tvg-id="AstroAEC" tvg-name="AstroAEC" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/80_144.png" tvg-chno="17" channel-id="17" tvg-group="MY/SG" group-title="MYSG",Astro AEC
 http://linears-playback.astro.com.my/vsg/211BweEEIFlXWPeAxqrqRs0EJW1WmSHiyCfopOW3k2qto=l0Om/dash-wv/jitp-linearwm/2400/default_ott.mpd
 
-#EXTINF:-1 tvg-id="Colors.in" tvg-name="Astro Colours Hindi" tvg-logo="https://static.epg.best/in/Colors.in.png" tvg-chno="18" channel-id="18" tvg-group="MY/SG" group-title="MYSG",Astro Colours Hindi
-http://fr-c.movply.stream/hls/Colors.m3u8
+#EXTINF:-1 tvg-id="ColorsHD" tvg-name="Astro Colours Hindi" tvg-logo="https://static.epg.best/in/Colors.in.png" tvg-chno="18" channel-id="18" tvg-group="MY/SG" group-title="MYSG",Astro Colours Hindi
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=18fe29fdda1b4ca306b4d8f08786fd10&key=47f6fa3ca0462021aa1c0c09253ece58
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default_ott.mpd
 
-#EXTINF:-1 tvg-id="Naura.my" tvg-name="Astro Naura" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/299_144.png" tvg-chno="19" channel-id="19" tvg-group="MY/SG" group-title="MYSG",Astro Naura
-https://agplayback03.aotg-video.astro.com.my/CH2/master_NAURAGOSHOP4.m3u8
+#EXTINF:-1 tvg-id="AstroAura" tvg-name="Astro Naura" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/299_144.png" tvg-chno="19" channel-id="19" tvg-group="MY/SG" group-title="MYSG",Astro Naura
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=217e77e40cf4ec1269ea1e278eb2c610&key=b2a2333955933b7dc3d71e7685971f71
+https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_ott.mpd
 
-#EXTINF:-1 tvg-id="Go Shop 118" tvg-name="Astro Go" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/192_144.png" tvg-chno="20" channel-id="20" tvg-group="MY/SG" group-title="MYSG",Go Shop RUUMA
-http://agplayback03.aotg-video.astro.com.my/CH3/master_GOSHOP3_04.m3u8
+#EXTINF:-1 tvg-id="GoShopRUUMA" tvg-name="Astro Go" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/192_144.png" tvg-chno="20" channel-id="20" tvg-group="MY/SG" group-title="MYSG",Go Shop RUUMA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=66a233a633db6f5137a7b4b1e27bed10&key=f2e7dbef2f0baf924d93f3e0c1a598fa
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2501/default_ott.mpd
 
-#EXTINF:-1 tvg-id="Go Shop GAAYA" tvg-name="Astro Go 2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/192_144.png" tvg-chno="21" channel-id="21" tvg-group="MY/SG" group-title="MYSG",Go Shop GAAYA
-https://agplayback03.aotg-video.astro.com.my/CH2/master_GOSHOP2.m3u8
+#EXTINF:-1 tvg-id="GoShopGAAYA" tvg-name="Astro Go 2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/192_144.png" tvg-chno="21" channel-id="21" tvg-group="MY/SG" group-title="MYSG",Go Shop GAAYA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=6458dac9edfe282465c7b0cd1ca0e010&key=9181b8041ae036047abde8a674d31b90
+https://linearjitp-playback.astro.com.my/dash-wv/linear/507/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=31ff25ad46df61d3352a03de5f085f10&key=2daee966c9736498a05505174b266bde
