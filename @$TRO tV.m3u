@@ -20,7 +20,11 @@ https://aqfadtv.xyz/ria.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
 
 #EXTINF:-1 tvg-id="107" tvg-name="ASTRO WARNA HD" tvg-logo="https://telegra.ph/file/f5b89c7905945e0ae354c.png" group-title="ASTRO",ASTRO WARNA HD
-http://axcestv.vip:8080/freeview/axcestv/456
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40bb94cdb1c90f6cc15073d9a500c810&key=264de3f18e64770e92a2d29f2b177701
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#https://links.aqfadtv.xyz/warna.mpd
+https://linears-playback.astro.com.my/vsgN/41iHxFdzNWPpdT5cA7TKBm9Evt3ntK8RNs1XiwLwwKIIE=LjF6/dash-wv/jitp-linearwm/2402/default_ott.mpd?7
 
 #EXTINF:-1 tvg-id="501" tvg-name="ASTRO AWANI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Astro_Awani.png" group-title="ASTRO",ASTRO AWANI
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
@@ -31,7 +35,11 @@ https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_ott.mpd
 
 #EXTINF:-1 tvg-id="108" tvg-name="ASTRO CITRA HD" tvg-logo="https://telegra.ph/file/889b8e80857bf36e0ab10.jpg" group-title="ASTRO",ASTRO CITRA HD
-http://axcestv.vip:8080/freeview/axcestv/459
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=73e84f91bd9ae20412e370f98fd3a110&key=d5b52aabca5afe002eb495804f8ec944
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#https://links.aqfadtv.xyz/citra.mpd
+https://linears-playback.astro.com.my/vsgN/41iHxFdzNWPpdT5cA7TKBm9DDyanZY_5gWvdb6XNyxRJE=6nZu/dash-wv/jitp-linearwm/2700/default_ott.mpd
 
 #EXTINF:-1 tvg-id="720" tvg-name="HELLO HD" group-title="ASTRO" tvg-logo="https://telegra.ph/file/0298983a305b6db40e04e.jpg",Hello
 https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6.m3u8
