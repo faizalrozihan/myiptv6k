@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://bit.ly/kodiEPG" x-tvg-url="http://bit.ly/kodiEPG"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml"
 
 #EXTINF:0 tvg-chno="Androidrepublica" tvg-name="Androidrepublica" tvg-ID="Astro.Warna.HD.my" tvg-logo="https://raw.githubusercontent.com/androidrepublica/icons/master/ARMC-logo.png" group-title="KLGTV",Androidrepublica
 https://bit.ly/seOnlyla
