@@ -550,8 +550,11 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b4596000_slENG.m3u8
 #EXTINF:-1 tvg-id="TV2" tvg-name="TV2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/103_144.png" tvg-chno="2" channel-id="2" group-title="MYSG",TV2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b4596000_slENG.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3afe30ee4ea24a67fe5a2ef06e83db0b&key=27a2f71d87bf5eb105af096fb6605d97
 #EXTINF:-1 tvg-id="TV3" tvg-name="TV3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" tvg-chno="3" channel-id="3" group-title="MYSG",TV3
-https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=tv3|Referer=https://www.dailymotion.com
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
+#https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8
 
 #EXTINF:-1 tvg-id="DidikTV KPM" tvg-name="NTV7" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/93_144.png" tvg-chno="4" channel-id="4" group-title="MYSG",NTV7
 https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=didiktv|Referer=https://www.dailymotion.com
@@ -565,8 +568,10 @@ https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=tv9|Refer
 #EXTINF:-1 tvg-id="DramaSangat" tvg-name="Drama Sangat" tvg-logo="https://baseimages.tonton.com.my/1546920448175_drama_sangat_logo.png" tvg-chno="7" channel-id="7" group-title="MYSG",Drama Sangat
 https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=dramasangat|Referer=https://www.dailymotion.com
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3939ff52ae5e4d0e244414bb10682510&key=c24f329834fb054fd9e1a5d51d5a5306
 #EXTINF:-1 tvg-id="TVAlhijrah" tvg-name="AL Hijrah" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/149_144.png" tvg-chno="8" channel-id="8" group-title="MYSG",AL Hijrah
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live07.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
 
 #EXTINF:-1 tvg-id="OKEY" tvg-name="OKEY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/97_144.png" tvg-chno="9" channel-id="9" group-title="MYSG",OKEY
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b4596000_slENG.m3u8
