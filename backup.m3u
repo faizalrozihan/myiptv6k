@@ -4,22 +4,22 @@
 https://bit.ly/seOnlyla
 
 #EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/95_144.png" tvg-chno="101" channel-id="101" group-title="Malaysia",TV1
-https://v-t-e-r.github.io/Umbrella/Playlist/Ch/101.m3u8|Referer=https://rtmklik.rtm.gov.my
+https://v-t-e-r.github.io/Umbrella/Playlist/Ch/101.m3u8
 
 #EXTINF:-1 tvg-id="TV2.my" tvg-name="TV2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/103_144.png" tvg-chno="102" channel-id="102" group-title="Malaysia",TV2
-https://v-t-e-r.github.io/Umbrella/Playlist/Ch/102.m3u8|Referer=https://rtmklik.rtm.gov.my
+https://v-t-e-r.github.io/Umbrella/Playlist/Ch/102.m3u8
 
 #EXTINF:-1 tvg-id="RTMSportsHD.my" tvg-name="RTM Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" tvg-chno="42" channel-id="42" group-title="Malaysia",RTM Sports HD
-https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Sukanrtm.m3u8|Referer=https://rtmklik.rtm.gov.my
+https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Sukanrtm.m3u8
 
 #EXTINF:-1 tvg-id="TV6.my" tvg-name="TV6" tvg-logo="https://i.ibb.co/vHcWdsP/image.png" tvg-chno="113" channel-id="113" group-title="Malaysia",TV6
-https://v-t-e-r.github.io/Umbrella/Playlist/Ch/TV6rtm.m3u8|Referer=https://rtmklik.rtm.gov.my
+https://v-t-e-r.github.io/Umbrella/Playlist/Ch/TV6rtm.m3u8
 
-#EXTINF:-1 tvg-id="TVS.my" tvg-name="TV6" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/122.png" tvg-chno="122" channel-id="122" group-title="Malaysia",TVS
+#EXTINF:-1 tvg-id="TVS.my" tvg-name="TVS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/122.png" tvg-chno="122" channel-id="122" group-title="Malaysia",TVS
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/TVSwak.m3u8
 
 #EXTINF:-1 tvg-id="Okey.my" tvg-name="OKEY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/97_144.png" tvg-chno="146" channel-id="146" group-title="Malaysia",OKEY
-https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Okey.m3u8|Referer=https://rtmklik.rtm.gov.my
+https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Okey.m3u8
 
 #EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" tvg-chno="103" channel-id="103" group-title="Malaysia",TV3
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/103.m3u8|Referer=https://www.dailymotion.com
