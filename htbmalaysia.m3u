@@ -19,7 +19,7 @@ https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=didiktv|R
 https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=8tv|Referer=https://www.dailymotion.com
 
 #EXTINF:-1 tvg-id="TV9" group-title="Malaysia" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/149.png",TV9
-https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=tv9|Referer=https://www.dailymotion.com
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="https://baseimages.tonton.com.my/1580295767086_drama_sangat_new.jpg",Drama Sangat
 https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=dramasangat|Referer=https://www.dailymotion.com
@@ -225,7 +225,7 @@ https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=8tv|Refer
 
 --------------------------TV9---------------------------
 #EXTINF:-1 tvg-id="TV9" group-title="Malaysia" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/149.png",TV9
-https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=tv9|Referer=https://www.dailymotion.com
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
 --------------------------------------------------------
 
 -----------------------DRAMA SANGAT---------------------
@@ -575,7 +575,7 @@ https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=didiktv|R
 https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=8tv|Referer=https://www.dailymotion.com
 
 #EXTINF:-1 tvg-id="TV9" tvg-name="TV9" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png" tvg-chno="6" channel-id="6" group-title="MYSG",TV9
-https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=tv9|Referer=https://www.dailymotion.com
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
 
 #EXTINF:-1 tvg-id="DramaSangat" tvg-name="Drama Sangat" tvg-logo="https://baseimages.tonton.com.my/1546920448175_drama_sangat_logo.png" tvg-chno="7" channel-id="7" group-title="MYSG",Drama Sangat
 https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=dramasangat|Referer=https://www.dailymotion.com
