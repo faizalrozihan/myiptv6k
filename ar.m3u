@@ -238,3 +238,35 @@ http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8?
 
 
 ## Test ##
+
+
+#EXTINF:-1 tvg-ID=".MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/salam.png" group-title="Malaysia",YUPP THIRAI HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=ODRjYzg4NTgtOTM0OS0zY2VkLWJjMTYtYWI1OTU4MzRiNmY3
+http://1.9.62.158/PLTV/88888888/224/3221227762/3221227762.mpd
+
+#EXTINF:-1 tvg-ID=".MY" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/unifi-sports-1.png" group-title="Malaysia",UNIFI SPORTS 1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=ODRjYzg4NTgtOTM0OS0zY2VkLWJjMTYtYWI1OTU4MzRiNmY3
+http://1.9.62.158/PLTV/88888888/224/3221227675/3221227675.mpd
+
+#EXTINF:-1 tvg-ID=".MY" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/unifi-sports-2.png" group-title="Malaysia",UNIFI SPORTS 2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=ODRjYzg4NTgtOTM0OS0zY2VkLWJjMTYtYWI1OTU4MzRiNmY3
+http://1.9.62.158/PLTV/88888888/224/3221227722/3221227722.mpd
+
+#EXTINF:-1 tvg-ID=".MY" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/unifi-sports-3.png" group-title="Malaysia",UNIFI SPORTS 3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=ODRjYzg4NTgtOTM0OS0zY2VkLWJjMTYtYWI1OTU4MzRiNmY3
+http://1.9.62.158/PLTV/88888888/224/3221227682/3221227682.mpd
+
+#EXTINF:-1 tvg-ID=".MY" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/unifi-sports-4.png" group-title="Malaysia",UNIFI SPORTS 4
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=ODRjYzg4NTgtOTM0OS0zY2VkLWJjMTYtYWI1OTU4MzRiNmY3
+http://1.9.62.158/PLTV/88888888/224/3221227685/3221227685.mpd
+
+
+#EXTINF:-1 tvg-ID=".MY" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/unifi-sports-5.png" group-title="Malaysia",UNIFI SPORTS 5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=ODRjYzg4NTgtOTM0OS0zY2VkLWJjMTYtYWI1OTU4MzRiNmY3
+http://1.9.62.158/PLTV/88888888/224/3221227705/3221227705.mpd
