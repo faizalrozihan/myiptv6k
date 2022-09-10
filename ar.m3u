@@ -196,7 +196,7 @@ https://rt-usa.secure.footprint.net/1105_2500Kb.m3u8
 https://tv-trtworld.live.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-id="NasaTV.ba" tvg-name="NASA TV" tvg-logo="https://static.epg.best/ba/NasaTV.ba.png" tvg-chno="39" channel-id="39" tvg-group="MYSG" group-title="MYSG",NASA TV
-https://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master_2000.m3u8|Referer=https://www.nasa.gov/multimedia/nasatv/index.html
+https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Nasa.m3u8
 
 #EXTINF:-1 tvg-id="EcoTV.pa" tvg-name="CONtv" tvg-logo="https://static.epg.best/pa/EcoTV.pa.png" tvg-chno="40" channel-id="40" tvg-group="MYSG" group-title="MYSG",CONtv
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/640x360_756000/chunklist.m3u8
