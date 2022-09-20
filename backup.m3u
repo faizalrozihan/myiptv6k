@@ -98,7 +98,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 #EXTINF:-1 tvg-id="AstroAEC" tvg-name="AstroAEC" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/80_144.png" tvg-chno="17" channel-id="17" tvg-group="MY/SG" group-title="Malaysia",Astro AEC
 http://linears-playback.astro.com.my/vsg/211BweEEIFlXWPeAxqrqRs0EJW1WmSHiyCfopOW3k2qto=l0Om/dash-wv/jitp-linearwm/2400/default_ott.mpd
 
-#EXTINF:-1 tvg-id="ColorsHD" tvg-name="Astro Colours Hindi" tvg-logo="https://static.epg.best/in/Colors.in.png" tvg-chno="18" channel-id="18" tvg-group="MY/SG" group-title="MYSG",Astro Colours Hindi
+#EXTINF:-1 tvg-id="ColorsHD" tvg-name="Astro Colours Hindi" tvg-logo="https://static.epg.best/in/Colors.in.png" tvg-chno="18" channel-id="18" tvg-group="MY/SG" group-title="Malaysia",Astro Colours Hindi
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=18fe29fdda1b4ca306b4d8f08786fd10&key=47f6fa3ca0462021aa1c0c09253ece58
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default_ott.mpd
