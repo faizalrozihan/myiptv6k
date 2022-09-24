@@ -1015,13 +1015,13 @@ http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20414
 #EXTINF: -1 tvg-id="AstroSuperSport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSZbiQAAjiVaqQvljUKT7MT8C6b-8DDxJDaA&usqp=CAU" group-title="Sports Pack", Astro SuperSport HD
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142712.m3u8
 
-#EXTINF:-1 tvg-id="AstroSupersport2" group-title="Sports Pack" ch-number="812" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/10_144.png",Astro SuperSport 2 
+#EXTINF:-1 tvg-id="AstroSupersport2" group-title="Sports Pack" ch-number="812" tvg-logo="https://logos.fandom.com/wiki/Astro_Supersport_2",Astro SuperSport 2 
 https://aqfadtv.xyz/supersport2.m3u8
 
-#EXTINF: -1 tvg-id="AstroSuperSport2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC3N8F_hJKmX9Ct16ir5opC6x30NVo_3exrw&usqp=CAU" group-title="Sports Pack", Astro SuperSport 2 HD
+#EXTINF: -1 tvg-id="AstroSuperSport2" tvg-logo="https://logos.fandom.com/wiki/Astro_Supersport_2" group-title="Sports Pack", Astro SuperSport 2 HD
 http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/115616
 
-#EXTINF: -1 tvg-id="AstroSuperSport2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC3N8F_hJKmX9Ct16ir5opC6x30NVo_3exrw&usqp=CAU" group-title="Sports Pack", Astro SuperSport 2 HD
+#EXTINF: -1 tvg-id="AstroSuperSport2" tvg-logo="https://logos.fandom.com/wiki/Astro_Supersport_2" group-title="Sports Pack", Astro SuperSport 2 HD
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142713.m3u8
 
 #EXTINF:-1 tvg-id="AstroSupersport3" group-title="Sports Pack" ch-number="813" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/69_144.png",Astro SuperSport 3 HD 
