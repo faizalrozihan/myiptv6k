@@ -1015,13 +1015,13 @@ http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20414
 #EXTINF: -1 tvg-id="AstroSuperSport" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0a/Astro_Supersport_new.png/revision/latest?cb=20180622074357" group-title="Sports Pack", Astro SuperSport HD
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142712.m3u8
 
-#EXTINF:-1 tvg-id="AstroSupersport2" group-title="Sports Pack" ch-number="812" tvg-logo="https://logos.fandom.com/wiki/Astro_Supersport_2",Astro SuperSport 2 
+#EXTINF:-1 tvg-id="AstroSupersport2" group-title="Sports Pack" ch-number="812" tvg-logo="https://logos.fandom.com/wiki/Astro_Supersport_2?file=Astro_Supersport_2.png",Astro SuperSport 2 
 https://aqfadtv.xyz/supersport2.m3u8
 
-#EXTINF: -1 tvg-id="AstroSuperSport2" tvg-logo="https://logos.fandom.com/wiki/Astro_Supersport_2" group-title="Sports Pack", Astro SuperSport 2 HD
+#EXTINF: -1 tvg-id="AstroSuperSport2" tvg-logo="https://logos.fandom.com/wiki/Astro_Supersport_2?file=Astro_Supersport_2.png" group-title="Sports Pack", Astro SuperSport 2 HD
 http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/115616
 
-#EXTINF: -1 tvg-id="AstroSuperSport2" tvg-logo="https://logos.fandom.com/wiki/Astro_Supersport_2" group-title="Sports Pack", Astro SuperSport 2 HD
+#EXTINF: -1 tvg-id="AstroSuperSport2" tvg-logo="https://logos.fandom.com/wiki/Astro_Supersport_2?file=Astro_Supersport_2.png" group-title="Sports Pack", Astro SuperSport 2 HD
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142713.m3u8
 
 #EXTINF:-1 tvg-id="AstroSupersport3" group-title="Sports Pack" ch-number="813" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/69_144.png",Astro SuperSport 3 HD 
