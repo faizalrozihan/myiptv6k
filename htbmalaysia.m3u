@@ -362,17 +362,17 @@ http://1.9.62.158/PLTV/88888888/224/3221227498/3221227498.mpd
 ------------------------------------------------------------------
 
 -------------------FOX MOVIES------------------------------------
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ODk2ZmI5ZjctOWE3MS0zZmQ5LTlmNzktZGE1NzgzM2E2NGFk
-#EXTINF:-1 group-title="Movies" tvg-id="FOX Movies HD" tvg-chno="401" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/TZOsc0lY",401 FOX Movies HD
-http://1.9.62.158/PLTV/88888888/224/3221227572/3221227572.mpd
+#EXTINF:-1 group-title="Movies" tvg-id="ShowcaseMovies" tvg-chno="401" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/TZOsc0lY",401 FOX Movies HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=e95c72a41b5ea9957b07facd95542410&key=a5e0de041ca2766754a37952b3468eb2
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_ott.mpd
 ------------------------------------------------------------------
 
 -------------------FOX Life------------------------------------
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ODk2ZmI5ZjctOWE3MS0zZmQ5LTlmNzktZGE1NzgzM2E2NGFk
-#EXTINF:-1 group-title="International Variety" tvg-id="FOXlife HD" tvg-chno="455" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073811029jld.png",455 FOX Life
-http://1.9.62.158/PLTV/88888888/224/3221227525/3221227525.mpd
+#EXTINF:-1 group-title="International Variety" tvg-id="Lifetime" tvg-chno="455" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073811029jld.png",455 FOX Life
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=8762b5ff9680955e720e5ecb5ce78a10&key=187d7e7cb322853a0b485c47a7a12135
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5052/default_ott.mpd
 ------------------------------------------------------------------
 
 -------------------HBO------------------------------------
