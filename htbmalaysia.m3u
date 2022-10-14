@@ -988,6 +988,9 @@ http://astro3.rastream.com/gegar?type=.flv&_=0.25499305268749595
 #EXTINF:-1 tvg-id="" tvg-name="Sinar FM" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/26_144.png" tvg-chno="47" channel-id="47" radio="true" group-title="Radio",Sinar FM
 http://astro2.rastream.com/sinar?type=.flv&_=0.36323276814073324
 
+#EXTINF:-1, group-title="Chinese" tvg-logo="https://telegra.ph/file/baa5a46acbd1f2a395ce4.png",Astro AEC CH306
+Http://51.79.82.208:16021/AEC.m3u8
+
 #EXTINF:-1 tvg-id="eGGNetwork" ch-number="800" group-title="Sports" tvg-logo="https://aqfadtv.astradamy.com/logos/eGGNetworkWhite.png",800 eGG Network HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=e2a4758854ddf83f1e8f465a3d3d8910&key=a464e1f2f904d40f3235a57304e72d78
