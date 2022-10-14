@@ -27,11 +27,17 @@ https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/D
 #EXTINF:-1 tvg-id="OKEY" group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",OKEY
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b4596000_slENG.m3u8
 
-#EXTINF:-1 tvg-id="Naura HD" group-title="Malaysia" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/109.png",Naura
-https://agsplayback01.astro.com.my/CH2/master_NAURAGOSHOP4_03.m3u8
+#EXTINF:-1 tvg-id="AstroRania" group-title="Malaysia" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/109.png",Naura
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=8a4b24805e598acd00fae76918b3f610&key=1807230578255fcd79e1279b13ae69d8
+#http://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
+#https://links.aqfadtv.xyz/rania.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
 
-#EXTINF:-1 tvg-id="Hello HD" group-title="Malaysia" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/110.png",Hello
-https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
+#EXTINF:-1 tvg-id="AstroAura" group-title="Malaysia" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/110.png",Hello
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=217e77e40cf4ec1269ea1e278eb2c610&key=b2a2333955933b7dc3d71e7685971f71
+https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_ott.mpd
 
 #EXTINF:-1 tvg-id="TVS" group-title="Malaysia" tvg-logo="https://tvstv.my/wp-content/uploads/2020/09/cropped-TVS-Logo-Square2.jpg",TVS
 https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS_04.m3u8
@@ -624,7 +630,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_ott.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 
 #EXTINF:-1 tvg-id="AstroAEC" tvg-name="AstroAEC" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/80_144.png" tvg-chno="17" channel-id="17" tvg-group="MY/SG" group-title="MYSG",Astro AEC
-https://aqfadtv.xyz/aec.m3u8
+http://198.16.64.10:8278/AEC/playlist.m3u8?tid=MEFE2766119727661197&ct=19225&tsum=463d13f46eb7fbc9a5566be797c3d48f
 
 #EXTINF:-1 tvg-id="ColorsHD" tvg-name="Astro Colours Hindi" tvg-logo="https://static.epg.best/in/Colors.in.png" tvg-chno="18" channel-id="18" tvg-group="MY/SG" group-title="MYSG",Astro Colours Hindi
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -896,7 +902,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_ott.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 
 #EXTINF:-1 tvg-id="AstroAEC" tvg-name="AstroAEC" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/80_144.png" tvg-chno="17" channel-id="17" tvg-group="MY/SG" group-title="Malaysia",Astro AEC
-https://aqfadtv.xyz/aec.m3u8
+http://198.16.64.10:8278/AEC/playlist.m3u8?tid=MEFE2766119727661197&ct=19225&tsum=463d13f46eb7fbc9a5566be797c3d48f
 
 #EXTINF:-1 tvg-id="ColorsHD" tvg-name="Astro Colours Hindi" tvg-logo="https://static.epg.best/in/Colors.in.png" tvg-chno="18" channel-id="18" tvg-group="MY/SG" group-title="Malaysia",Astro Colours Hindi
 #KODIPROP:inputstream.adaptive.license_type=clearkey
