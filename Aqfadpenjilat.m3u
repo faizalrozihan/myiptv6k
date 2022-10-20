@@ -23,12 +23,12 @@ https://asrazunifi.ddns.net:8443/aqfadlive.m3u8
 
 #EXTINF:-1 tvg-id="TV1" group-title="myFreeview" ch-number="101" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",101 TV1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/711
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=389baefb18db84b8f62b1bddfda5c810&key=db6410d5d69b60fb66208f61cd4bef44
 https://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_primary.mpd
 
 #EXTINF:-1 tvg-id="TV2" group-title="myFreeview" ch-number="102" tvg-logo="https://aqfadtv.astradamy.com/logos/TV2.png",102 TV2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/5027
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=9fec54024f42224cb2fd9836d5317510&key=1e2fec607ad9f3bf36fbca04fcfacc81
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_primary.mpd
 
 #EXTINF:-1 tvg-id="TV3" group-title="myFreeview" ch-number="103" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",103 TV3
@@ -39,28 +39,16 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
 
 #EXTINF:-1 group-title="Astro" tvg-id="AstroRia" ch-number="104" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroRia.png",104 Astro Ria
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/1004
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_ott.mpd
-
-#EXTINF:-1 group-title="Astro" tvg-id="AstroRia" ch-number="104" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroRia.png",104 Astro Ria
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/1004
-https://linears-playback.astro.com.my/vsg/41G_-Gitcfb71SZqS2-oc-k2bOzWqP4UCMUZJjvjAIHcM=bMDL/dash-wv/jitp-linearwm/1004/default_primary.mpd
-
-#EXTINF:-1 group-title="Astro" tvg-id="AstroRia" ch-number="104" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroRia.png",104 Astro Ria
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/1004
-https://hbogo.skyforever.tk/go2go/ria/index.mpd
-
-#EXTINF:-1 group-title="Astro" tvg-id="AstroRia" ch-number="104" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroRia.png",104 Astro Ria (Backup)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/1004
-https://linears-playback.astro.com.my/vsg/41G_-Gitcfb71SZqS2-oc-k2bOzWqP4UCMUZJjvjAIHcM=bMDL/dash-wv/jitp-linearwm/1004/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5f437ad29765f253325a84298d9f0d10&key=d8e36aeb7416a20a124c2d132c8f74f9
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTVLCOPT:http://app.iptv8k.org/mobile//GetLiveAdv.aspx?version=android&area=&type=%E7%9B%B4%E6%92%AD&name=RIA%28B%29+Astro&stream=true
+https://aqfadtv.xyz/live/ria/index.mpd
 
 #EXTINF:-1 tvg-id="AstroPrima" group-title="Astro" ch-number="105" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/Astro_Prima_2019.png/revision/latest?cb=20190111152445",105 Astro Prima
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/1000
-http://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=452aca9691995f5ae62629035888e110&key=35d62e585c052018e1c190eda89fafa3
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
 
 #EXTINF:-1 tvg-id="DramaSangat" group-title="Online TV" ch-number="105" tvg-logo="https://aqfadtv.xyz/logos/DramaSangatWhite.png",Drama Sangat
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
@@ -70,53 +58,25 @@ https://aqfadtv.astradamy.com/stream/DramaSangat.php
 
 #EXTINF:-1 tvg-id="AstroOasis" group-title="Astro" ch-number="106" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Astro_Oasis_2019.png/revision/latest?cb=20190111152636",106 Astro Oasis
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2505
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=7b65e3d6ee807842a109821fba96b510&key=7827b9cf05fda4c3b77f48dea0acfa48
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#https://links.aqfadtv.xyz/oasis.mpd
+#https://tv.kpsvpn.com/astroblasis.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 
 #EXTINF:-1 tvg-id="AstroWarna" group-title="Astro" ch-number="107" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Warna.png/revision/latest?cb=20200823172850",107 Astro Warna
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2402
-https://linears-playback.astro.com.my/vsg/41gzZ3wN0jQicqe_wa7f46hkV0ecJglj7prHHcNy5RN8I=jDPY/dash-wv/jitp-linearwm/2402/default_primary.mpd
-
-#EXTINF:-1 tvg-id="AstroWarna" group-title="Astro" ch-number="107" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Warna.png/revision/latest?cb=20200823172850",107 Astro Warna
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2402
-https://live.astradamy.com/astro/warna/index.mpd
-
-#EXTINF:-1 tvg-id="AstroWarna" group-title="Astro" ch-number="107" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Warna.png/revision/latest?cb=20200823172850",107 Astro Warna
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2402
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2402/default_ott.mpd
-
-#EXTINF:-1 tvg-id="AstroWarna" group-title="Astro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Warna.png/revision/latest?cb=20200823172850",107 Astro Warna (Backup)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2402
-https://linears-playback.astro.com.my/vsg/41gzZ3wN0jQicqe_wa7f46hkV0ecJglj7prHHcNy5RN8I=jDPY/dash-wv/jitp-linearwm/2402/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40bb94cdb1c90f6cc15073d9a500c810&key=264de3f18e64770e92a2d29f2b177701
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#https://links.aqfadtv.xyz/warna.mpd
+https://aqfadtv.xyz/live/warna/index.mpd
 
 #EXTINF:-1 tvg-id="AstroCitra" group-title="Movies" ch-number="108" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Astro_Citra_Logo_2018.png/revision/latest?cb=20200917121355",108 Astro Citra
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2700
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2700/default_ott.mpd
-
-#EXTINF:-1 tvg-id="AstroCitra" group-title="Movies" ch-number="108" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Astro_Citra_Logo_2018.png/revision/latest?cb=20200917121355",108 Astro Citra
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2700
-https://linears-playback.astro.com.my/vsg/41gzZ3wN0jQicqe_wa7f46hhhUSAskLpFL6RFORhAC_Ik=GnsT/dash-wv/jitp-linearwm/2700/default_primary.mpd
-
-#EXTINF:-1 tvg-id="AstroCitra" group-title="Movies" ch-number="108" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Astro_Citra_Logo_2018.png/revision/latest?cb=20200917121355",108 Astro Citra
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2700
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2700/default_ott.mpd
-
-#EXTINF:-1 tvg-id="AstroCitra" group-title="Movies" ch-number="108" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Astro_Citra_Logo_2018.png/revision/latest?cb=20200917121355",108 Astro Citra
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2700
-https://live.astradamy.com/astro/citra/index.mpd
-
-#EXTINF:-1 tvg-id="AstroCitra" group-title="Movies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Astro_Citra_Logo_2018.png/revision/latest?cb=20200917121355",108 Astro Citra (Backup)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2700
-https://linears-playback.astro.com.my/vsg/41gzZ3wN0jQicqe_wa7f46hhhUSAskLpFL6RFORhAC_Ik=GnsT/dash-wv/jitp-linearwm/2700/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=73e84f91bd9ae20412e370f98fd3a110&key=d5b52aabca5afe002eb495804f8ec944
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#https://links.aqfadtv.xyz/citra.mpd
+https://aqfadtv.xyz/live/citra/index.mpd
 
 #EXTINF:-1 tvg-id="TVSUKAN" group-title="Sports" ch-number="111" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/Sukan_RTM_1_April.png/revision/latest/scale-to-width-down/300?cb=20210408125347",111 Sukan RTM
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
@@ -130,13 +90,13 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2508/default_ott.mpd
 
 #EXTINF:-1 tvg-id="AstroRania" group-title="Indonesian Favorites" ch-number="112" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_Rania_NEW.png",112 Astro Rania
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/608
-http://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=8a4b24805e598acd00fae76918b3f610&key=1807230578255fcd79e1279b13ae69d8
+https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
 
 #EXTINF:-1 tvg-id="AstroAura" group-title="Indonesian Favorites" ch-number="113" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png",113 Astro Aura
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/609
-http://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=217e77e40cf4ec1269ea1e278eb2c610&key=b2a2333955933b7dc3d71e7685971f71
+https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_ott.mpd
 
 #EXTINF:-1 tvg-id="TV6" group-title="myFreeview" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest/scale-to-width-down/200?cb=20210327202814",113 TV6
 # https://rtm6.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
