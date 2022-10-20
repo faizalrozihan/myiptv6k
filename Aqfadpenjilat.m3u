@@ -79,9 +79,7 @@ https://aqfadtv.xyz/live/warna/index.mpd
 https://aqfadtv.xyz/live/citra/index.mpd
 
 #EXTINF:-1 tvg-id="TVSUKAN" group-title="Sports" ch-number="111" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/Sukan_RTM_1_April.png/revision/latest/scale-to-width-down/300?cb=20210408125347",111 Sukan RTM
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
-# https://rtmsportshd.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
-https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
+https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Sukanrtm.m3u8
 
 #EXTINF:-1 tvg-id="GoShopBAARU" group-title="Shopping" tvg-logo="https://aqfadtv.astradamy.com/logos/GoShopBAARU.png",111 Go Shop BAARU
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -99,8 +97,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_ott.mpd
 
 #EXTINF:-1 tvg-id="TV6" group-title="myFreeview" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest/scale-to-width-down/200?cb=20210327202814",113 TV6
-# https://rtm6.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
-https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
+https://v-t-e-r.github.io/Umbrella/Playlist/Ch/TV6rtm.m3u8
 
 #EXTINF:-1 group-title="Wireguard Needed" ch-number="113" tvg-id="113" tvg-logo="https://playtv.unifi.com.my:7044/CPS/images/universal/film/logo/201907/20190716/20190716062504007e6f.png",113 Salam HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -152,9 +149,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_primary.mpd
 https://onedrive.aqfadtv.xyz/api/raw/?path=/awesome.mp4&raw=true
 
 #EXTINF:-1 tvg-id="BERITARTM" group-title="News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Berita_RTM_v2.png/revision/latest?cb=20210504031757",123 Berita RTM
-# https://rtmbeshbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
-# https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8|Referer=https://rtmklik.rtm.gov.my
-https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
+https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Beritartm.m3u8
 
 #EXTINF:-1 group-title="Wireguard Needed" ch-number="128" tvg-id="128" tvg-chno="128" tvg-logo="https://playtv.unifi.com.my:7044/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png",128 Dunia Sinema HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -167,9 +162,7 @@ https://live.astradamy.com/unifitv/duniasinema/index.mpd
 https://live.astradamy.com/unifitv/pesona/index.mpd
 
 #EXTINF:-1 tvg-id="OKEY" ch-number="146" group-title="myFreeview" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",146 OKEY
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
-# https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
-https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
+https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Okey.m3u8
 
 #EXTINF:-1 tvg-id="DidikTVKPM" ch-number="147" group-title="myFreeview" tvg-logo="https://didik.tv/images/logotv2.png",147 DidikTV KPM
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8
