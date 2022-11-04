@@ -714,7 +714,7 @@ https://live.cgtn.com/1000/prog_index.m3u8
 https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=937206e3d14cbb00611532f69f92c10&key=8f1b9168c854238f668acf898be6f7b0
+#KODIPROP:inputstream.adaptive.license_key=b937206e3d14cbb00611532f69f92c10&key=8f1b9168c854238f668acf898be6f7b0
 #EXTINF:-1 tvg-id="France24" tvg-name="France24" tvg-logo="https://static.epg.best/fr/France24.fr.png" tvg-chno="35" channel-id="35" tvg-group="MYSG" group-title="MYSG",France24
 http://linearjitp-playback.astro.com.my/dash-wv/linear/9985/default_ott.mpd
 
