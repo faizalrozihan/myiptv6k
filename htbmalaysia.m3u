@@ -1098,8 +1098,12 @@ https://stream.zeehanzgadget.com/aec
 http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
 #EXTINF:-1, group-title="LIVE TV" tvg-logo="https://telegra.ph/file/51271889e52b820f079a3.png",TVB Xing He 星河 CH319
 http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5886987a4cd069a764fb582186383810:8bf71b113d30e7edc53e2b55864fe039
 #EXTINF:-1, group-title="ASTRO" tvg-logo="https://telegra.ph/file/b46b917ba32a0abb9f227.png",Astro Quan Jia 全佳 CH308
-http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2507/default_ott.mpd
+
 #EXTINF:-1, group-title="MOVIES" tvg-logo="https://telegra.ph/file/a33a3bb6e02a1ba7a110c.png",Celestial Movies 天映频道 CH309
 http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
 #EXTINF:-1, group-title="MOVIES" tvg-logo="https://telegra.ph/file/a33a3bb6e02a1ba7a110c.png",Celestial Movies Indo Sub [Guna VPN]
@@ -1120,8 +1124,12 @@ http://iptv.tvmalaysia.cc:80/penang172/penang172/6842
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6843
 #EXTINF:-1, group-title="MOVIES" tvg-logo="https://telegra.ph/file/365a626b25d56ee7337ec.jpg",CCM 天映经典 CH321
 http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=50f975bfac7d0c485fa36d54d2bba610:db4f4d75ac6d065e0fa1c0b6400251ab
 #EXTINF:-1, group-title="ASTRO" tvg-logo="https://telegra.ph/file/870793532bc0a89fdb389.jpg",Astro Hua Hee Dai 欢喜台 CH333
-http://50.7.161.82:8278/streams/d/Huahee/playlist.m3u8
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2308/default_ott.mpd
+
 #EXTINF:-1, group-title="ASTRO" tvg-logo="https://telegra.ph/file/cbe6901e74eb701ccfa16.jpg",CCTV4 HD CH335
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6759
 #EXTINF:-1, group-title="ASTRO" tvg-logo="https://telegra.ph/file/7b8552216f731395d5165.png",Astro AOD CH351
