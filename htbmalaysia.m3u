@@ -1478,16 +1478,10 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_primary.mpd
 https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/601/default_primary.mpd
 
 #EXTINF: -1 tvg-id="AstroSuperSport" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/826_300.png" group-title="Sports", Astro SuperSport HD
-http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20414
-
-#EXTINF: -1 tvg-id="AstroSuperSport" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/826_300.png" group-title="Sports", Astro SuperSport HD
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142712.m3u8
 
 #EXTINF:-1 tvg-id="AstroSupersport2" group-title="Sports" ch-number="812" tvg-logo="https://raw.githubusercontent.com/faizalrozihan/AqFadTVLogo/main/Faizalrozihan/Astro_Supersport_2.png",Astro SuperSport 2 
-https://aqfadtv.xyz/supersport2.m3u8
-
-#EXTINF: -1 tvg-id="AstroSuperSport2" tvg-logo="https://raw.githubusercontent.com/faizalrozihan/AqFadTVLogo/main/Faizalrozihan/Astro_Supersport_2.png" group-title="Sports", Astro SuperSport 2 HD
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/115616
+https://aqfadtv.xyz/live/supersport2/index.mpd
 
 #EXTINF: -1 tvg-id="AstroSuperSport2" tvg-logo="https://raw.githubusercontent.com/faizalrozihan/AqFadTVLogo/main/Faizalrozihan/Astro_Supersport_2.png" group-title="Sports", Astro SuperSport 2 HD
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142713.m3u8
@@ -1495,10 +1489,7 @@ https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142713.m3u8
 #EXTINF:-1 tvg-id="AstroSupersport3" group-title="Sports" ch-number="813" tvg-logo="https://raw.githubusercontent.com/faizalrozihan/AqFadTVLogo/main/Faizalrozihan/Astro_Supersport_3.png",Astro SuperSport 3 HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2701
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2701/manifest.mpd
-
-#EXTINF: -1 tvg-id="AstroSuperSport3" tvg-logo="https://raw.githubusercontent.com/faizalrozihan/AqFadTVLogo/main/Faizalrozihan/Astro_Supersport_3.png" group-title="Sports", Astro Supersport 3 HD
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/115617
+https://aqfadtv.xyz/live/supersport3/index.mpd
 
 #EXTINF: -1 tvg-id="AstroSuperSport3BACKUP" tvg-logo="https://raw.githubusercontent.com/faizalrozihan/AqFadTVLogo/main/Faizalrozihan/Astro_Supersport_3.png" group-title="Sports", Astro Supersport 3 HD
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142714.m3u8
@@ -1506,11 +1497,7 @@ https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142714.m3u8
 #EXTINF:-1 tvg-id="AstroSupersport4" group-title="Sports" ch-number="814" tvg-logo="https://raw.githubusercontent.com/faizalrozihan/AqFadTVLogo/main/Faizalrozihan/Astro_Supersport_4.png",Astro SuperSport 4 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2506
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/manifest.mpd
-https://aqfadtv.xyz/supersport4.m3u8
-
-#EXTINF: -1 tvg-id="AstroSuperSport4" tvg-logo="https://raw.githubusercontent.com/faizalrozihan/AqFadTVLogo/main/Faizalrozihan/Astro_Supersport_4.png" group-title="Sports", Astro Supersport 4 HD
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/115618
+https://aqfadtv.xyz/live/supersport4/index.mpd
 
 #EXTINF: -1 tvg-id="AstroSuperSport4BACKUP" tvg-logo="https://raw.githubusercontent.com/faizalrozihan/AqFadTVLogo/main/Faizalrozihan/Astro_Supersport_4.png" group-title="Sports", Astro Supersport 4 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
