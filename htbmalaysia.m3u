@@ -1103,7 +1103,10 @@ http://iptv.tvmalaysia.cc:80/penang172/penang172/6839
 https://aqfadtv.xyz/live/aec/index.mpd
 
 #EXTINF:-1, group-title="ASTRO" tvg-logo="https://telegra.ph/file/fbbe10b7738a25d749976.png",Astro Shuang Xing 双星台 CH307
-http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2403
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2403/default_ott.mpd
+
 #EXTINF:-1, group-title="LIVE TV" tvg-logo="https://telegra.ph/file/51271889e52b820f079a3.png",TVB Xing He 星河 CH319
 http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 
