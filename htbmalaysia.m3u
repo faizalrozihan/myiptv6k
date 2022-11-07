@@ -314,9 +314,9 @@ https://aqfadtv.xyz/live/citra/index.mpd
 
 -------------------DUNIA CINEMA------------------------------------
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ODk2ZmI5ZjctOWE3MS0zZmQ5LTlmNzktZGE1NzgzM2E2NGFk
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/duniasinema/
 #EXTINF:-1 group-title="Movies" tvg-id="" tvg-chno="128" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png",128 Dunia Sinema HD
-http://1.9.62.158/PLTV/88888888/224/3221227631/3221227631.mpd
+https://aqfadtv.xyz/live/unifitv/duniasinema/index.mpd
 ------------------------------------------------------------------
 
 -------------------WARNER TV------------------------------------
