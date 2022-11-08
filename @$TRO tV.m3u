@@ -2,70 +2,64 @@
 
 #EXTINF:-1 tvg-id="104" tvg-name="ASTRO RIA" group-title="ASTRO" tvg-logo="https://telegra.ph/file/b768111e267bfaa490f29.png",ASTRO RIA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5f437ad29765f253325a84298d9f0d10&key=d8e36aeb7416a20a124c2d132c8f74f9
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTVLCOPT:http://app.iptv8k.org/mobile//GetLiveAdv.aspx?version=android&area=&type=%E7%9B%B4%E6%92%AD&name=RIA%28B%29+Astro&stream=true
-https://aqfadtv.xyz/ria.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1004/
+https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd
 
 #EXTINF:-1 tvg-id="104" tvg-name="ASTRO RIA" group-title="ASTRO" tvg-logo="https://telegra.ph/file/b768111e267bfaa490f29.png",ASTRO RIA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5f437ad29765f253325a84298d9f0d10&key=d8e36aeb7416a20a124c2d132c8f74f9
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTVLCOPT:http://app.iptv8k.org/mobile//GetLiveAdv.aspx?version=android&area=&type=%E7%9B%B4%E6%92%AD&name=RIA%28B%29+Astro&stream=true
-https://aqfadtv.xyz/ria.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1004/
+https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=452aca9691995f5ae62629035888e110&key=35d62e585c052018e1c190eda89fafa3
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1000/
 #EXTINF:-1 tvg-id="105" tvg-name="ASTRO PRIMA HD" tvg-logo="https://telegra.ph/file/f5b251914a160518dd5f0.jpg" group-title="ASTRO",ASTRO PRIMA
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
 
 #EXTINF:-1 tvg-id="107" tvg-name="ASTRO WARNA HD" tvg-logo="https://telegra.ph/file/f5b89c7905945e0ae354c.png" group-title="ASTRO",ASTRO WARNA HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40bb94cdb1c90f6cc15073d9a500c810&key=264de3f18e64770e92a2d29f2b177701
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#https://links.aqfadtv.xyz/warna.mpd
-https://linears-playback.astro.com.my/vsgN/41iHxFdzNWPpdT5cA7TKBm9CaxDkPSAu0QVCyguix2yYs=MU9r/dash-wv/jitp-linearwm/2402/default_ott.mpd?7
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2402
+https://aqfadtv.xyz/live/warna/index.mpd
 
 #EXTINF:-1 tvg-id="501" tvg-name="ASTRO AWANI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Astro_Awani.png" group-title="ASTRO",ASTRO AWANI
-https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_3.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=09e9d9037bbc6d4eac45bdee4b718b10&key=05db97174848670a152d0b15f3dab994
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2407
 #EXTINF:-1 tvg-id="404" tvg-name="BOO" tvg-logo="https://telegra.ph/file/92cec2d7aec1e554f572b.jpg" group-title="ASTRO",BOO
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_ott.mpd
 
 #EXTINF:-1 tvg-id="108" tvg-name="ASTRO CITRA HD" tvg-logo="https://telegra.ph/file/889b8e80857bf36e0ab10.jpg" group-title="ASTRO",ASTRO CITRA HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=73e84f91bd9ae20412e370f98fd3a110&key=d5b52aabca5afe002eb495804f8ec944
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#https://links.aqfadtv.xyz/citra.mpd
-https://linears-playback.astro.com.my/vsgN/41iHxFdzNWPpdT5cA7TKBm9IeMc6mil5vyfxJFEjGN-hQ=LioE/dash-wv/jitp-linearwm/2700/default_ott.mpd?11
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2700
+https://aqfadtv.xyz/live/citra/index.mpd
 
-#EXTINF:-1 tvg-id="720" tvg-name="HELLO HD" group-title="ASTRO" tvg-logo="https://telegra.ph/file/0298983a305b6db40e04e.jpg",Hello
-https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6.m3u8
+#EXTINF:-1 tvg-id="113" tvg-name="HELLO HD" group-title="ASTRO" tvg-logo="https://telegra.ph/file/0298983a305b6db40e04e.jpg",Hello
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=217e77e40cf4ec1269ea1e278eb2c610&key=b2a2333955933b7dc3d71e7685971f71
+https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=897aa91ee5958140b5ebd8076cced310&key=453b01beb73c78bd6f8ad380f8a06a8e
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2304
 #EXTINF:-1 tvg-id="411" tvg-logo="https://telegra.ph/file/986a3024fb6dfaefde2ae.png" tvg-name="HBO" group-title="ASTRO",HBO
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default_ott.mpd
+https://aqfadtv.xyz/live/hbo/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=897aa91ee5958140b5ebd8076cced310&key=453b01beb73c78bd6f8ad380f8a06a8e
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2304
 #EXTINF:-1 tvg-id="411" tvg-logo="https://telegra.ph/file/986a3024fb6dfaefde2ae.png" tvg-name="HBO" group-title="ASTRO",HBO
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default_ott.mpd
+https://aqfadtv.xyz/live/hbo/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=1b0fbb95b8d4ab19d3ea816be9683310&key=560e1ef299aa9a4352e70ed14f8839b9
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/603
 #EXTINF:-1 tvg-id="412" tvg-logo="https://telegra.ph/file/893f87a1b9d521a35221f.png" tvg-name="CINEMAX" group-title="ASTRO",CINEMAX
 http://linearjitp-playback.astro.com.my/dash-wv/linear/603/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=8cfb499a75630eca1d50e584f58e9310&key=0a11d637ad2eaa1f7a75f42b7fc72b30
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5053
 #EXTINF:-1 tvg-id="414" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" tvg-name="HBO FAMILY" group-title="ASTRO",HBO FAMILY
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=2d8d9b7ed94fad6e56f1642504605b10&key=cf881ed230797c106f8e6ac843d797f3
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5055
 #EXTINF:-1 tvg-id="415" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" tvg-name="HBO HITS" group-title="ASTRO",HBO HITS
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default_ott.mpd
 
