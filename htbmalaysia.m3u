@@ -313,7 +313,7 @@ https://aqfadtv.xyz/live/citra/index.mpd
 ------------------------------------------------------------------
 
 -------------------DUNIA CINEMA------------------------------------
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/duniasinema/
 #EXTINF:-1 group-title="Movies" tvg-id="" tvg-chno="128" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png",128 Dunia Sinema HD
 https://aqfadtv.xyz/live/unifitv/duniasinema/index.mpd
