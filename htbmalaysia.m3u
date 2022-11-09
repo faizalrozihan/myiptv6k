@@ -1174,8 +1174,12 @@ http://210.210.155.35/qwr9ew/s/s33/01.m3u8
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6841
 #EXTINF:-1, group-title="ASTRO" tvg-logo="https://telegra.ph/file/92525a08e0280d4791558.jpg",Astro 华丽台 [TVB Jade]
 http://50.7.161.82:8278/streams/d/Wlt/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2706
 #EXTINF:-1, group-title="ASTRO" tvg-logo="https://telegra.ph/file/7b8552216f731395d5165.png",Astro AOD CH311
-http://185.180.221.194:8278/streams/d/AodHD/playlist.m3u8
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2706/default_primary.mpd
+
 #EXTINF:-1, group-title="ASTRO" tvg-logo="https://telegra.ph/file/0ef6c2b902832a905d3dc.png",CTI Asia CH316
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6771
 #EXTINF:-1, group-title="ASTRO" tvg-logo="https://telegra.ph/file/4b330adb1e719b7a8720c.jpg",TVB News CH318
@@ -1194,16 +1198,32 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2308/default_ott.mpd
 
 #EXTINF:-1, group-title="ASTRO" tvg-logo="https://telegra.ph/file/cbe6901e74eb701ccfa16.jpg",CCTV4 HD CH335
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6759
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2706
 #EXTINF:-1, group-title="ASTRO" tvg-logo="https://telegra.ph/file/7b8552216f731395d5165.png",Astro AOD CH351
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6702
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2706/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/700
 #EXTINF:-1, group-title="ASTRO" tvg-logo="https://telegra.ph/file/7b8552216f731395d5165.png",Astro AOD CH352
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6703
+http://linearjitp-playback.astro.com.my/dash-wv/linear/700/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/700
 #EXTINF:-1, group-title="ASTRO" tvg-logo="https://telegra.ph/file/7b8552216f731395d5165.png",Astro AOD CH353
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6704
+http://linearjitp-playback.astro.com.my/dash-wv/linear/700/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/212
 #EXTINF:-1, group-title="ASTRO" tvg-logo="https://telegra.ph/file/7b8552216f731395d5165.png",Astro AOD CH354
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6705
+http://linearjitp-playback.astro.com.my/dash-wv/linear/212/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/212
 #EXTINF:-1, group-title="ASTRO" tvg-logo="https://telegra.ph/file/7b8552216f731395d5165.png",Astro AOD CH355
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6706
+http://linearjitp-playback.astro.com.my/dash-wv/linear/212/default_primary.mpd
+
 #EXTINF:-1, group-title="ASTRO" tvg-logo="https://telegra.ph/file/f0c78541d975e72aa461d.png",KBS World HD CH392
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6803
 #EXTINF:-1, group-title="ASTRO" tvg-logo="https://telegra.ph/file/f0c78541d975e72aa461d.png",KBS World HD [Backup]
