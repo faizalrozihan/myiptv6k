@@ -1070,8 +1070,10 @@ http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
 #EXTINF:-1, group-title="ASTRO" tvg-logo="https://telegra.ph/file/889b8e80857bf36e0ab10.jpg",Astro Citra CH108
 http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
+
 #EXTINF:-1, group-title="ASTRO" tvg-logo="https://telegra.ph/file/dc4eabf8a8726a1f657da.png",Naura HD CH109
-http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
+https://aqfadtv.xyz/videos/error/index.m3u8
+
 #EXTINF:-1, group-title="LIVE TV" tvg-logo="https://telegra.ph/file/c5cb30b6d28d540a3aaa9.png",Suria CH110
 http://50.7.161.82:8278/streams/d/Suria/playlist.m3u8
 #EXTINF:-1, group-title="ASTRO" tvg-logo="https://telegra.ph/file/b910978ea89d38d0b179e.png",Astro Rania CH112
