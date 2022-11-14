@@ -1122,7 +1122,8 @@ https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5_04.m3u8
 https://aqfadtv.xyz/live/vinmeen/index.mpd
 
 #EXTINF:-1, group-title="ASTRO" tvg-logo="https://telegra.ph/file/1ac3f6072dc96481dc6d8.png",Makkal TV CH204
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6806
+https://aqfadtv.xyz/videos/error/index.mpd
+
 #EXTINF:-1, group-title="ASTRO" tvg-logo="https://telegra.ph/file/fda662b3de9bdd84bf978.png",Sun TV HD CH211
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6733
 #EXTINF:-1, group-title="ASTRO" tvg-logo="https://telegra.ph/file/00b8b26476ecbcfc7e7d7.png",Chutti TV CH213
