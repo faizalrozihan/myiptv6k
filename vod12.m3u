@@ -248,3 +248,377 @@ https://lh3.googleusercontent.com/JbOTHuFXyXkuBa9JBm_xsc3xJgujsoiPlr3fuxpXSHTvp2
 
 #EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/2QVE7JU.jpg" group-title="VOD KIDS",Aladin (1993)
 https://lh3.googleusercontent.com/xN2hsc2kYYCcXqb2szP2k53DyBzjvReIUtk-NJ_qPCI6ieLWQPdBQWV1pmTwoUUGr8--AEaA6QZEMkKQwQ=m22
+
+================plato tv==================
+#EXTINF:0 tvg-id="fear-factor" tvg-logo="http://images.pluto.tv/channels/588128d17d64bc0d0f385c34/colorLogoPNG.png" group-title="PLUTOTV", Fear Factor
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/588128d17d64bc0d0f385c34/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c7e10390-77f8-11ec-8df7-e1b1a799e6b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=850dbb9a-c0a2-4802-b5ef-751b92aa3648&userId=&serverSideAds=true
+#EXTINF:0 tvg-id="pluto-tv-cult-films" tvg-logo="http://images.pluto.tv/channels/5c665db3e6c01b72c4977bc2/colorLogoPNG.png" group-title="PLUTOTV", Pluto TV Cult Films
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c665db3e6c01b72c4977bc2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c7e2ff6a-77f8-11ec-8df7-e1b1a799e6b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2faa7b27-6dbe-4f4d-b0ad-80253d8e4427&userId=&serverSideAds=true
+#EXTINF:0 tvg-id="pluto-tv-terror" tvg-logo="http://images.pluto.tv/channels/5c6dc88fcd232425a6e0f06e/colorLogoPNG.png" group-title="PLUTOTV", Pluto TV Terror
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c6dc88fcd232425a6e0f06e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c7e2ff6b-77f8-11ec-8df7-e1b1a799e6b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=486d6307-4566-4735-a31c-6e568b6d923c&userId=&serverSideAds=true
+#EXTINF:0 tvg-id="naruto" tvg-logo="http://images.pluto.tv/channels/5da0c85bd2c9c10009370984/colorLogoPNG.png" group-title="PLUTOTV", Naruto
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0c85bd2c9c10009370984/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c7e374a3-77f8-11ec-8df7-e1b1a799e6b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6dc122c4-9939-4ecc-8331-975968992978&userId=&serverSideAds=true
+#EXTINF:0 tvg-id="deal-or-no-deal" tvg-logo="http://images.pluto.tv/channels/5e9debf8c881310007d7bde1/colorLogoPNG.png" group-title="PLUTOTV", Deal or No Deal
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e9debf8c881310007d7bde1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c7e3c2c3-77f8-11ec-8df7-e1b1a799e6b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a3eabfb3-5536-4cb8-9b03-86a3ed0e5898&userId=&serverSideAds=true
+#EXTINF:0 tvg-id="yu-gi-oh-ptv1" tvg-logo="http://images.pluto.tv/channels/5f4ec10ed9636f00089b8c89/colorLogoPNG.png" group-title="PLUTOTV", Yu-Gi-Oh!
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4ec10ed9636f00089b8c89/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c7e437e9-77f8-11ec-8df7-e1b1a799e6b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c5586854-b1c4-4cba-b6b8-cc6da50fe9c2&userId=&serverSideAds=true
+#EXTINF:0 tvg-id="one-piece" tvg-logo="http://images.pluto.tv/channels/5f7790b3ed0c88000720b241/colorLogoPNG.png" group-title="PLUTOTV", One Piece
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f7790b3ed0c88000720b241/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c7e45efd-77f8-11ec-8df7-e1b1a799e6b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=296b9adb-5651-4954-b8d2-e4f799b2b272&userId=&serverSideAds=true
+#EXTINF:0 tvg-id="tokushoutsu" tvg-logo="http://images.pluto.tv/channels/5c3f8f12a93c2d61b9990a4e/colorLogoPNG.png" group-title="PLUTOTV", TokuSHOUTsu
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c3f8f12a93c2d61b9990a4e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c7e2ff68-77f8-11ec-8df7-e1b1a799e6b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=76da6dab-6ec1-433d-8d30-a0c34b5dd207&userId=&serverSideAds=true
+#EXTINF:0 tvg-id="cine-premiere" tvg-logo="http://images.pluto.tv/channels/5cf968040ab7d8f181e6a68b/colorLogoPNG.png" group-title="PLUTOTV", Cine Premiere
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c7e3267f-77f8-11ec-8df7-e1b1a799e6b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2cfe22c5-dd2b-443a-b28d-b9f7f4e6add5&userId=&serverSideAds=true
+#EXTINF:0 tvg-id="dora-tv" tvg-logo="http://images.pluto.tv/channels/5d14fb6c84dd37df3b4290c5/colorLogoPNG.png" group-title="PLUTOTV", Dora TV
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c7e34d86-77f8-11ec-8df7-e1b1a799e6b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=399ab18c-06b7-48d5-972f-f9024a9a70a7&userId=&serverSideAds=true
+#EXTINF:0 tvg-id="cine-terror" tvg-logo="http://images.pluto.tv/channels/5d8d180092e97a5e107638d3/colorLogoPNG.png" group-title="PLUTOTV", Cine terror
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c7e374a0-77f8-11ec-8df7-e1b1a799e6b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1e5fe1e9-c3d1-4778-b40b-6b004c9cf769&userId=&serverSideAds=true
+#EXTINF:0 tvg-id="vevo-2k" tvg-logo="http://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/colorLogoPNG.png" group-title="PLUTOTV", Vevo 2K
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c7e4860d-77f8-11ec-8df7-e1b1a799e6b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e6c139d9-a3ba-400f-87b9-1f5c8bd1d32a&userId=&serverSideAds=true
+#EXTINF:0 tvg-id="garfield-and-friends" tvg-logo="http://images.pluto.tv/channels/60faf9ddfcc1f200070a5932/colorLogoPNG.png" group-title="PLUTOTV", Garfield and Friends
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60faf9ddfcc1f200070a5932/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c7e4fb31-77f8-11ec-8df7-e1b1a799e6b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=637a7296-b203-42da-83fb-300e328143d5&userId=&serverSideAds=true
+#EXTINF:0 tvg-id="plutotv action" tvg-logo="https://images.pluto.tv/channels/561d7d484dc7c8770484914a/colorLogoPNG.png" group-title="PLUTOTV", plutotv Action
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 tvg-id="plutotv reaction" tvg-logo="https://images.pluto.tv/channels/617b37b361e0fd0008cfd8c5/colorLogoPNG.png" group-title="PLUTOTV", plutotv reaction
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/617b37b361e0fd0008cfd8c5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 tvg-id="flix of fury" tvg-logo="https://images.pluto.tv/channels/58e55b14ad8e9c364d55f717/colorLogoPNG.png" group-title="PLUTOTV", Flicks of Fury
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 tvg-id="The Asylum" tvg-logo="https://images.pluto.tv/channels/591105034c1806b47438342c/colorLogoPNG.png" group-title="PLUTOTV", The Asylum
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/591105034c1806b47438342c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 tvg-id="Pluto TV Staff Picks" tvg-logo="https://images.pluto.tv/channels/5f4d863b98b41000076cd061/colorLogoPNG.png" group-title="PLUTOTV", Pluto TV Staff Picks
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d863b98b41000076cd061/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+===========4K Channal==============
+#EXTINF:-1 group-title="CHANNEL 4K" ch-number="" tvg-id="" tvg-chno="" tvg-logo="https://play-lh.googleusercontent.com/RjM1R-ktRX0zRfdqLvCKrfMt9qFLSFXYP4Nt9ndfAFtbfeeyDeCijvbH-tT0T_UYM8s=s360",LOUPE
+https://d2dw21aq0j0l5c.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoupeArt-prod/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-chno="558" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Biznet_Home_Logo.svg/1200px-Biznet_Home_Logo.svg.png" group-title="CHANNEL 4K",ADVENTURE 4K
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/chunklist_w45338377_b5256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1pSllpd3ZzQWhLTGdZanRNY294VnAxR1pnMVhXX3dOY3J2Zy1sY05xNlZkeXZfbFdWRXIwY1NFT0JDa0l5ZlRT.m3u8
+#EXTINF:-1 group-title="CHANNEL 4K" ch-number="502" tvg-id="502" tvg-chno="502" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/logo/202107/20210724/20210724151935567nih.png",LOVE NATURE 4K
+https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
+
+===============VOD===============
+#EXTINF:-1 type="movie" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJfhflKv_ihBVYwMAtXJHbj8coS751gvmby8pMllbuys2CK99F3Enow3o220bKsqDVZy75zmxa03eWq2rOIzQr4b3xupUIiH4xnul617S3PDVLTYDQxWrHIiMgpV9oCilzPwbm5bzRrfpySfiNjseD1EcQjCCx_uVMUKmYOZqL2BNztgx4uRdDXfXu/s1080/Tiga%20Janda%20Melawan%20Dunia.jpg" group-title="VOD MALAY" tvg-id="" tvg-name="", TIGA JANDA MELAWAN DUNIA
+https://pqstd-my.sharepoint.com/:v:/g/personal/chewan_pqstd_onmicrosoft_com/ESCSfTmlnTxGrfQxJngq0_4BzEa1Eftgw5H0mXBJdthHjQ?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://bci.kinokuniya.com/my/jsp/images/book-img/97896/97896744/9789674463885.jpg" group-title="VOD MALAY" tvg-id="" tvg-name="", TOMBIRUO
+https://pqstd-my.sharepoint.com/:v:/g/personal/abamkodim_pqstd_onmicrosoft_com/ETdPiLXeWUpHszqL0L2T8MYBgYEAOreS1LQddiKciOF-Xg?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://photos.hancinema.net/photos/photo1489062.jpg" group-title="VOD KOREA" tvg-id="" tvg-name="", 2037
+https://pqstd-my.sharepoint.com/:v:/g/personal/abamkodim_pqstd_onmicrosoft_com/Eb8jOTyApHdPvAfx25tCGPoBmkr_VXfjpwsyMii_fNAnHA?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://www.cinema.com.my/images/news/2017/7f_balunpaparsenisilat00.jpg" group-title="VOD MALAY" tvg-id="" tvg-name="", BALUN
+https://pqstd-my.sharepoint.com/:v:/g/personal/abamkodim_pqstd_onmicrosoft_com/EaZ3KvILrJhPgucBRvYsf1QBPJOfyHWKN4dyIVGCi_DOng?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://popcornreviewss.com/wp-content/uploads/2022/03/Bheeshma-Parvam-2022-Thriller-Malayalam-Movie-Review.jpg" group-title="VOD INDIA" tvg-id="" tvg-name="", BHEESMA PARVAM
+https://pqstd-my.sharepoint.com/:v:/g/personal/abamkodim_pqstd_onmicrosoft_com/EUWxdYe6jT5AqhdHICDvS8YBapOgO4tJMqu7CNZmQLeWaQ?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/Broker_%282022_film%29.jpg" group-title="VOD KOREA" tvg-id="" tvg-name="", BROKER
+https://pqstd-my.sharepoint.com/:v:/g/personal/abamkodim_pqstd_onmicrosoft_com/EWRpTjeWhndNjD7Jg47azVwByzPLySY4ErlQaaFi7XM56Q?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjsXdKTlXahGuttT7HDOQmnPXO5E5A6lZ16FKxfJU33QaLWJDs6dgQHK2c9YH80e-PctMN9oxg0Wral6fFEm-yBFaJF0mRVW4xpOl_22hcVns5czzg9wOWm2X_wcECVNnEdWz1OtslUHxMhGGXA9Ah-U3-TB50UomGFDB_LByY-Sf1d9uZ3jrMJBooBw/s16000/Cangkul.jpg" group-title="VOD MALAY" tvg-id="" tvg-name="", CANGKUL
+https://pqstd-my.sharepoint.com/:v:/g/personal/abamkodim_pqstd_onmicrosoft_com/Ef9MJFTBThBNqb9qxWJY3MgBxnEYxfTjlwl1lhXlu25kSQ?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w1000_and_h563_face/sh5tXmCo3EixqPWwWfd3VOLQLUF.jpg" group-title="VOD MALAY" tvg-id="" tvg-name="", CICAKMAN
+https://pqstd-my.sharepoint.com/:v:/g/personal/abamkodim_pqstd_onmicrosoft_com/EZmkanoKF-hOl0hHhsmFSXABcR_metsnLV89bkYxVVvhsA?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://assets.whatsnewonnetflix.com/external_assets/sggkh+%5B%5Blxx*9*35*41_8_muochl_mvg%5Bwmn%5Bzkr%5Be3%5BC805vQhtDYWV7zJyzMwnXCTFK*B%5BZZZZYCDrmDiLY*LyZ6h4EfGQMd6ME0yOzGJrVNCRY2*ApSlJKEzfnRaeuPiZtQbPGmufFBJd5ZyseuFhyJBj4XJlfmVMSV5.jpg" group-title="VOD MALAY" tvg-id="" tvg-name="", CICAKMAN 2
+https://pqstd-my.sharepoint.com/:v:/g/personal/abamkodim_pqstd_onmicrosoft_com/EUOAExIO9thJt_5uPvZXs-oBc_2GzOMaw7-QuDY8-kGoLQ?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://assets.mycast.io/posters/cinderella-2022-fan-casting-poster-190567-large.jpg" group-title="VOD ENGLISH" tvg-id="" tvg-name="", CINDERELLA
+https://pqstd-my.sharepoint.com/:v:/g/personal/abamkodim_pqstd_onmicrosoft_com/EZXVIiW4lz5BuvdACsZRbqABL60XecQrKRbHooEyX-fWuw?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1b/Doctor_Strange_in_the_Multiverse_of_Madness_soundtrack_cover.jpg" group-title="VOD ENGLISH" tvg-id="" tvg-name="", MULTIVERSE OF MADNESS
+https://pqstd-my.sharepoint.com/:v:/g/personal/abamkodim_pqstd_onmicrosoft_com/EaJY0iIsZmVNlyRX54QMnHUB6st_cXbi-uiIwFVFwgfR_w?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://tamilpedia.net/movies/uploads/large/don.jpg" group-title="VOD INDIA" tvg-id="" tvg-name="", DON
+https://pqstd-my.sharepoint.com/:v:/g/personal/abamkodim_pqstd_onmicrosoft_com/EVgcPz48GVBOqsrPgYLnG4UBPTbhKSv7OozjUFRA0cCc8w?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://4kwallpapers.com/images/walls/thumbs_3t/7765.jpg" group-title="VOD ENGLISH" tvg-id="" tvg-name="", SECRET OF DUMBLEDORE
+https://pqstd-my.sharepoint.com/:v:/g/personal/abamkodim_pqstd_onmicrosoft_com/ETC7EuAuyfRLr4rtoatqcDIBHhP9wykvxULw7e7NPFAGsw?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://filmy.b-cdn.net/wp-content/uploads/2022/06/FAST-and-FEEL-LOVE-1.jpg" group-title="VOD OTHERS" tvg-id="" tvg-name="", FAST FEEL LOVE
+https://pqstd-my.sharepoint.com/:v:/g/personal/abamkodim_pqstd_onmicrosoft_com/EfJ1ZC-0ZTJFmangxx1DjvIBLA0t2xpdJOeQ2_ENasVbUw?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w300/hepwOZWJNUmLzB68gKYEdEJAaD3.jpg" group-title="VOD ENGLISH" tvg-id="" tvg-name="", FIREHEART
+https://pqstd-my.sharepoint.com/:v:/g/personal/abamkodim_pqstd_onmicrosoft_com/EYZ33WdWHzVDv8RvxSI065gBZycpY_Mk92ughjEwRyxgwg?download=1
+#EXTINF:-1 type="movie" type="movie" tvg-logo="https://kakimuvee.net/wp-content/uploads/2019/10/Geran-Cover.jpg" group-title="VOD MALAY" tvg-id="" tvg-name="", GERAN
+https://pqstd-my.sharepoint.com/:v:/g/personal/abamkodim_pqstd_onmicrosoft_com/ER_oBbPEzKZHo4XhxCsTWwAB1RCmjpxT5RrHA-vV4TNwRA?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://i0.wp.com/neplych.com/wp-content/uploads/2022/06/Godse-Movie-Poster.jpg" group-title="VOD INDIA" tvg-id="" tvg-name="", GERAN
+https://pqstd-my.sharepoint.com/:v:/g/personal/abamkodim_pqstd_onmicrosoft_com/EbKto3Bin8tCtJB_rcoYuD0Bc57_RM7qwd_Nrb8LZ0hCYA?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://i2.extraimage.info/pix/2022/07/28/bced8ea5eb919c7660835e2b02407b38.md.jpg" group-title="VOD INDIA" tvg-id="" tvg-name="", GOODLUCK JERRY
+https://pqstd-my.sharepoint.com/:v:/g/personal/abamkodim_pqstd_onmicrosoft_com/Ee7v3sCe6exLk3JU05ElUS8BCN1gdCIIY3T28VK3M5r0lA?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://www.heavenofhorror.com/wp-content/uploads/2022/04/hatching-2022-horror-review.jpg" group-title="VOD ENGLISH" tvg-id="" tvg-name="", HATCHING
+https://pqstd-my.sharepoint.com/:v:/g/personal/abamkodim_pqstd_onmicrosoft_com/EUxOuJZDjDJPoviGrFE82t8BFuakw9eRXoYylXTh2CCzOw?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/93/Hurdang_poster.jpg" group-title="VOD INDIA" tvg-id="" tvg-name="", HURDANG
+https://pqstd-my.sharepoint.com/:v:/g/personal/abamkodim_pqstd_onmicrosoft_com/Ee8Qapgx4dxKuMayoqZcvg0BrO86TS7iY80-gElou4elQw?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://aws-images-prod.sindonews.net/dyn/600/pena/sindo-article/original/2022/07/10/film%20inang%202_1.jpg" group-title="VOD MALAY" tvg-id="" tvg-name="", INANG
+https://pqstd-my.sharepoint.com/:v:/g/personal/abamkodim_pqstd_onmicrosoft_com/EaLYxJ_B-z9GuGU9d8VSceQBkPwm9wUqBKUBEVG1Bg6Mew?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/J_Revolusi.jpg" group-title="VOD MALAY" tvg-id="" tvg-name="", J REVOLUSI
+https://pqstd-my.sharepoint.com/:v:/g/personal/abamkodim_pqstd_onmicrosoft_com/EXD55F2tJi1EgYYn8I7pTxkB7Onlnc7V4pEkwCxuOqdY0w?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/77/Jaadugar_film.jpg" group-title="VOD INDIA" tvg-id="" tvg-name="", JAADUGAR
+https://pqstd-my.sharepoint.com/:v:/g/personal/abamkodim_pqstd_onmicrosoft_com/EQOd8A0jr0ZCh5wcGgWdH1MBjYXDk_SjkFKNiZenUJyc0Q?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://cdn.bollywoodmdb.com/fit-in/movies/largethumb/2021/janhit-mein-jaari/janhit-mein-jaari-poster-7.jpg" group-title="VOD INDIA" tvg-id="" tvg-name="", JANHIT MEIN JAARI
+https://pqstd-my.sharepoint.com/:v:/g/personal/abamkodim_pqstd_onmicrosoft_com/ERSmoQYFSw9Bss_SO74ymBcBx56R_2nZxYnTkMBH61grlA?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2a/Jersey_2022_poster.jpg" group-title="VOD INDIA" tvg-id="" tvg-name="", JERSEY
+https://pqstd-my.sharepoint.com/:v:/g/personal/abamkodim_pqstd_onmicrosoft_com/EVLtFFA5E7dGmbzXiFtBjSsBPpqUqPC62PuxZaI3xROSuQ?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://walter.trakt.tv/images/movies/000/499/764/posters/thumb/51745161b5.jpg" group-title="VOD INDIA" tvg-id="" tvg-name="", JHUND
+https://pqstd-my.sharepoint.com/:v:/g/personal/abamkodim_pqstd_onmicrosoft_com/Ea_vkRokxP1ChObox4LYGEABoLgPZo8DiO-QmlQ5pmnOFQ?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://i0.wp.com/neplych.com/wp-content/uploads/2022/04/Jug-Jugg-Jeeyo.jpg" group-title="VOD INDIA" tvg-id="" tvg-name="", JUGJUGG JEEYO
+https://pqstd-my.sharepoint.com/:v:/g/personal/abamkodim_pqstd_onmicrosoft_com/EU9WLT7c3IdEqn76Lb9p2dwBXiXp6YxNZ0kSlCxti_CyJA?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://static.wikia.nocookie.net/jpfanon/images/a/a3/JWD.jpg" group-title="VOD ENGLISH" tvg-id="" tvg-name="", JURASSIC WORLD DOMINION
+https://pqstd-my.sharepoint.com/:v:/g/personal/abamkodim_pqstd_onmicrosoft_com/EbnLHuwR1rZNrVPM33kx7-8B-FuSXA2CwfHhUR6fZ-LwsA?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://media.elcinema.com/uploads/_315x420_d5748d4c9b4f4c6959db0b8097846551f2948c85ba4d998eb7a8b919ee95abe9.jpg" group-title="VOD INDIA" tvg-id="" tvg-name="", KEEDAM
+https://pqstd-my.sharepoint.com/:v:/g/personal/abamkodim_pqstd_onmicrosoft_com/EcHTHRyNxytHl1xjpfAJS9sBt9ym5qA1OjiWpuCq9GVGzQ?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c4/KL_Special_Force.jpg" group-title="VOD MALAY" tvg-id="" tvg-name="", KL SPECIAL FORCE
+https://pqstd-my.sharepoint.com/:v:/g/personal/abamkodim_pqstd_onmicrosoft_com/ET4ugYtj5uVCsr3kRLJdl0QBIzZQYhh-iElqyzFZg4Qjew?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://bleedingcool.com/wp-content/uploads/2022/05/lightyear_ver5_xlg.jpg" group-title="VOD ENGLISH" tvg-id="" tvg-name="", LIGHTYEAR
+https://pqstd-my.sharepoint.com/:v:/g/personal/abamkodim_pqstd_onmicrosoft_com/EXV3oLp26rNHgNLcpeTe_YYBsY7cChrZXV4Js7GcCcen1Q?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://i0.wp.com/www.naijanowell.com/wp-content/uploads/2022/06/DpraRX1kKAo.jpg" group-title="VOD MALAY" tvg-id="" tvg-name="", LOVE AND GELATO
+https://pqstd-my.sharepoint.com/:v:/g/personal/abamkodim_pqstd_onmicrosoft_com/EfLcAMMJj85AuoAZi2va13kBf6oTYty4DzNxgAD1p0QUcA?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://tamilpedia.net/movies/uploads/large/maamanithan.jpg" group-title="VOD INDIA" tvg-id="" tvg-name="", MAAMANITHAN
+https://pqstd-my.sharepoint.com/:v:/g/personal/abamkodim_pqstd_onmicrosoft_com/EQ-SbgM5pD9ChEg4YszbErsBaYpNpB51Bp-yilrUyhI5QA?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://i0.wp.com/moviesandmania.com/wp-content/uploads/2021/10/Makmum-2-movie-film-horror-indonesia-religious-Muslim-fear-2021-poster.jpg" group-title="VOD MALAY" tvg-id="" tvg-name="", MAKMUM 2
+https://pqstd-my.sharepoint.com/:v:/g/personal/abamkodim_pqstd_onmicrosoft_com/EW09WpV6AOxOsWu9cIodgO8Bmnin2xfwMxN5fSWodDKJXg?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://colorsofindia.media/wp-content/uploads/2022/04/memory-movie-review--780x470.jpg" group-title="VOD ENGLISH" tvg-id="" tvg-name="", MEMORY
+https://pqstd-my.sharepoint.com/:v:/g/personal/abamkodim_pqstd_onmicrosoft_com/ER9k-N6Ple9EuLDlmTQ8WNkBRcnhY0fCxSTWgHFbXWwQ1A?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://cdn.flickeringmyth.com/wp-content/uploads/2022/06/men-a24-streaming-1037x1536.jpg" group-title="VOD ENGLISH" tvg-id="" tvg-name="", MEN
+https://pqstd-my.sharepoint.com/:v:/g/personal/abamkodim_pqstd_onmicrosoft_com/EQoljNukEwRBjv94FlhPF-8BVJlME9JXfURfdDpfyBxQtQ?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://i2.cinestaan.com/image-bank/640-360/202001-203000/202811.jpg" group-title="VOD INDIA" tvg-id="" tvg-name="", MERE DESH KI DHARTI
+https://pqstd-my.sharepoint.com/:v:/g/personal/abamkodim_pqstd_onmicrosoft_com/Ea3cMLDO0fJPnmKPsdsLMWIBX9MmMuzUB7K7Oz6XRCu-bw?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://assets.pikiran-rakyat.com/crop/0x5:720x588/x/photo/2022/01/15/2001008480.jpg" group-title="VOD MALAY" tvg-id="" tvg-name="", MERINDU CAHAYA DE AMSTEL
+https://pqstd-my.sharepoint.com/:v:/g/personal/abamkodim_pqstd_onmicrosoft_com/EeXH8KJtTuNBkXZSoX7gI6oBf9p-UJ3Qj_aYlzzEGpsUzw?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Pasal_Kau_movie_poster.jpg" group-title="VOD MALAY" tvg-id="" tvg-name="", PASAL KAU
+https://pqstd-my.sharepoint.com/:v:/g/personal/abamkodim_pqstd_onmicrosoft_com/EeOATUf5N4xKkaylZiuTQ4UBuQvA96veXCjfDsnH-tZ5Qg?download=1
+#EXTINF:-1 type="movie" tvg-logo="http://www.moviexclusive.com/Files/GV_Paskal_Final.jpg" group-title="VOD MALAY" tvg-id="" tvg-name="", PASKAL
+https://pqstd-my.sharepoint.com/:v:/g/personal/abamkodim_pqstd_onmicrosoft_com/ESb9y5TDFP1BoKSxD8gwAWQBUyuej7aQIoF1PodclxEqSQ?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://i2.cinestaan.com/image-bank/1500-1500/202001-203000/202952.jpg" group-title="VOD INDIA" tvg-id="" tvg-name="", PATHAAM VALAVU
+https://pqstd-my.sharepoint.com/:v:/g/personal/abamkodim_pqstd_onmicrosoft_com/EQOF2O5BwK9EgNDkUqqGi7wBEG-ZiXNRcM9DJchMVbVv3g?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://i.mydramalist.com/2VKZR_4c.jpg" group-title="VOD OTHERS" tvg-id="" tvg-name="", PEE NAK 3
+https://pqstd-my.sharepoint.com/:v:/g/personal/abamkodim_pqstd_onmicrosoft_com/EehSBlOgHQpKnNuaFY3wqdoBCtlONpGT1I2dEVlz44mZNQ?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://images.immediate.co.uk/remote/m.media-amazon.com/images/M/MV5BMGY2YWUxMzktOWQ3Mi00YjRkLWE1MmMtNWQwODJmYWUyZjhmXkEyXkFqcGdeQXVyMzY3MDU4NDk@._V1_.jpg" group-title="VOD MALAY" tvg-id="" tvg-name="", RAJAWALI
+https://pqstd-my.sharepoint.com/:v:/g/personal/abamkodim_pqstd_onmicrosoft_com/ER_wbQEU38VEmB6Vxk99dZUBXGt2bGIyaIOXbtPql1ENSw?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f5/Rise_%282022_film%29.jpg" group-title="VOD ENGLISH" tvg-id="" tvg-name="", RISE
+https://pqstd-my.sharepoint.com/:v:/g/personal/abamkodim_pqstd_onmicrosoft_com/EbN1KS3vkdxHqiCeQc_pwu0BpEkdTwA8EaRz6QYHx075pQ?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://i0.wp.com/babab.net/img/movie-rumah-2022.jpg" group-title="VOD MALAY" tvg-id="" tvg-name="", RUMAH
+https://pqstd-my.sharepoint.com/:v:/g/personal/abamkodim_pqstd_onmicrosoft_com/ERPj8VqksxxPq04YjA7lY4ABrT3P5BTiBOBeYmlwinUJKA?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://www.filmibeat.com/img/190x100x237/popcorn/movie_posters/sammathame-20210715195703-19799.jpg" group-title="VOD INDIA" tvg-id="" tvg-name="", SAMMATHAME
+https://pqstd-my.sharepoint.com/:v:/g/personal/abamkodim_pqstd_onmicrosoft_com/EXQPy6tryv5HgFMn27EeEjkBMl1cy6Bg7OO43HJs3Jr83A?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://www.cinematoday.net/data/upload/movies/2019/sangkar.jpg" group-title="VOD MALAY" tvg-id="" tvg-name="", SANGKAR
+https://pqstd-my.sharepoint.com/:v:/g/personal/abamkodim_pqstd_onmicrosoft_com/ERqWa6UUEstBgey8vwrj3YMBQh6yFVqJ7xjie8Z2xytzCQ?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://i0.wp.com/webserieszworld.com/wp-content/uploads/2022/05/sarkaru-vaari-paata.jpg" group-title="VOD INDIA" tvg-id="" tvg-name="", SARKARU VAARI PAATA
+https://pqstd-my.sharepoint.com/:v:/g/personal/abamkodim_pqstd_onmicrosoft_com/Eb9pZMZhexVKufqYI74rMZsBEjlU3VXsKMsKGInZlT_jyg?download=1
+#EXTINF:-1 type="movie"tvg-logo="https://flixchatter.files.wordpress.com/2022/03/lost-city-movie-poster.jpg" group-title="VOD ENGLISH" tvg-id="" tvg-name="", THE LOST CITY
+https://pqstd-my.sharepoint.com/:v:/g/personal/abamkodim_pqstd_onmicrosoft_com/EXn7wlGISWBKlRLOMofkWV0BkfYPU1aO22a7Gi4Aae1Vug?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://flixchatter.files.wordpress.com/2022/07/sea-beast-poster.jpg" group-title="VOD ENGLISH" tvg-id="" tvg-name="", THE SEA BEAST
+https://pqstd-my.sharepoint.com/:v:/g/personal/abamkodim_pqstd_onmicrosoft_com/EddfvEOhNCZCrysdLIHM03QB9E2WBxSIfH8KB0kVXDxssw?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://alternativemovieposters.com/wp-content/uploads/2022/06/Josh-Spicer_BlackPhone.jpg" group-title="VOD ENGLISH" tvg-id="" tvg-name="", THE BLACK PHONE
+https://pqstd-my.sharepoint.com/:v:/g/personal/abamkodim_pqstd_onmicrosoft_com/EWkjl2DjrlJEiombvlKXDBABb9ROLtDHm4dJdC_ITAKjuA?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/The_Girl_on_a_Bulldozer.jpg" group-title="VOD KOREA" tvg-id="" tvg-name="", THE GIRL ON THE BULLDOZER
+https://pqstd-my.sharepoint.com/:v:/g/personal/abamkodim_pqstd_onmicrosoft_com/EelTHmvJTfVJira9AD81yBIBUW_BP62CVGFccRBBsJAnHw?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/75/The_Man_from_Toronto_%282022_film%29.jpg" group-title="VOD ENGLISH" tvg-id="" tvg-name="", THE MAN FROM TORONTO
+https://pqstd-my.sharepoint.com/:v:/g/personal/abamkodim_pqstd_onmicrosoft_com/EcYeEkKUyg9Dq3q_bAHZ3YMBENI805k5npEs98RS-yihTg?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://i.mydramalist.com/jBqpy_3m.jpg" group-title="VOD KOREA" tvg-id="" tvg-name="", THE POLICEMANS LINEAGE
+https://pqstd-my.sharepoint.com/:v:/g/personal/abamkodim_pqstd_onmicrosoft_com/ERAs5gZVEVdDvAQV2XCN8x0BrfwynwRMCY0tgfjTdCAiuA?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://www.filmibeat.com/ph-big/2022/07/the-warrior-2022_16572483321.jpg" group-title="VOD INDIA" tvg-id="" tvg-name="", THE WORRIOR
+https://pqstd-my.sharepoint.com/:v:/g/personal/abamkodim_pqstd_onmicrosoft_com/ERlWFxUNM0FEgFJsPRkuhG8BLx_pk3DSmGrrEaQbV3u6wA?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://sportshub.cbsistatic.com/i/2022/04/27/4f2d6a8b-f9bf-4b79-b884-fc990f9b3181/bobs-burgers-movie-posters-007.jpg" group-title="VOD ENGLISH" tvg-id="" tvg-name="", THE BOBS BURGER MOVIE
+https://pqstd-my.sharepoint.com/:v:/g/personal/abamkodim_pqstd_onmicrosoft_com/Ef7Iau3hzLVKpIoolrpvmAMBQXTzbay2dahR50coGbk3JA?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://i.mydramalist.com/1rD7R_4c.jpg" group-title="VOD CHINESE" tvg-id="" tvg-name="", THE KING OF SNIPER IN NORTHEAST
+https://pqstd-my.sharepoint.com/:v:/g/personal/abamkodim_pqstd_onmicrosoft_com/Ea6EMr3B7dFDqmUpmVXwBqgBV2dqwPL_3kuTi4A6SI183A?download=1
+#EXTINF:-1 type="movie" type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b7/The_Roundup_%282022_film%29.jpg" group-title="VOD KOREA" tvg-id="" tvg-name="", THE ROUNDUP
+https://pqstd-my.sharepoint.com/:v:/g/personal/abamkodim_pqstd_onmicrosoft_com/EWtUUod2kdxEtNcXd1vXrJwBq9BirAGCTTNg3HnDPo3gwg?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://asianwiki.com/images/2/2c/The_Witch-_Part_2-p1.jpg" group-title="VOD KOREA" tvg-id="" tvg-name="", THE WITCH 2
+https://pqstd-my.sharepoint.com/:v:/g/personal/abamkodim_pqstd_onmicrosoft_com/EcE-JsBpJhJDgQIkoN0DRNgBoIgaFb4ErhHnBWBpv67yIw?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://sportshub.cbsistatic.com/i/2022/04/18/ccb71c63-2cf3-44dd-8078-0846f97a874c/thor-love-and-thunder-poster.jpg" group-title="VOD ENGLISH" tvg-id="" tvg-name="", THOR LOVE AND THUNDER
+https://pqstd-my.sharepoint.com/:v:/g/personal/abamkodim_pqstd_onmicrosoft_com/EUbWkxMtYhFNt7UOJxRCFbUBK-RYUudjYNLnq5gyvBtoqQ?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://magarila.com/wp-content/uploads/2022/06/Top-Gun-Maverick-Posters-1-600x900.jpg" group-title="VOD ENGLISH" tvg-id="" tvg-name="", TOP GUN MAVERICK
+https://pqstd-my.sharepoint.com/:v:/g/personal/najib_pqstd_onmicrosoft_com/EQylYmQ6R6BCn5nuJmMQ_LQBxg8s7d_MXfGWDIM6t1FTOA?download=1
+#EXTINF:-1 type="movie" type="movie" tvg-logo="https://i.mydramalist.com/EBrqO_4c.jpg" group-title="VOD KOREA" tvg-id="" tvg-name="", TOXIC
+https://pqstd-my.sharepoint.com/:v:/g/personal/abamkodim_pqstd_onmicrosoft_com/Ed21_ZSPAgtHmbZygD82xNMB5rxkNEraX-hkVg2DQGFIbQ?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/twenty-one-hours-et00328538-13-05-2022-05-18-30.jpg" group-title="VOD INDIA" tvg-id="" tvg-name="", TWENTY ONE HOURS
+https://pqstd-my.sharepoint.com/:v:/g/personal/abamkodim_pqstd_onmicrosoft_com/EaBnTISbepRHrwdHnldBQf4BmSvmVah6rIO0s5zc8sAGUg?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://popcornreviewss.com/wp-content/uploads/2022/04/The-Unbearable-Weight-of-Massive-Talent-2022-Action-Comedy-Crime-English-Movie-Review.jpg" group-title="VOD ENGLISH" tvg-id="" tvg-name="", UNBEARABLE WEIGHT MASSIVE TALENT
+https://pqstd-my.sharepoint.com/:v:/g/personal/abamkodim_pqstd_onmicrosoft_com/ETo6PaxFkdtJjVhr5s7hdSEB18R4SaSEV9E_szFJC-Dw1g?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/e/ed/UstazMuTungguAkuDatang.jpg/330px-UstazMuTungguAkuDatang.jpg" group-title="VOD MALAY" tvg-id="" tvg-name="", USTAZ MU TUNGGU AKU DATANG
+https://pqstd-my.sharepoint.com/:v:/g/personal/abamkodim_pqstd_onmicrosoft_com/Ed5AhtonVNpHn9vevqUCsjYBuN-ndiet82dRpOBrgjTpSw?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://afilmy4wap.lol/wp-content/uploads/2022/07/Vaashi.jpg" group-title="VOD INDIA" tvg-id="" tvg-name="", VAASHI
+https://pqstd-my.sharepoint.com/:v:/g/personal/abamkodim_pqstd_onmicrosoft_com/EYwgLn2ahgFNqc1coyvDLPsBh_0Qzsc06mTSDteYceOWow?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/93/Vikram_2022_poster.jpg" group-title="VOD INDIA" tvg-id="" tvg-name="", VIKRAM
+https://pqstd-my.sharepoint.com/:v:/g/personal/abamkodim_pqstd_onmicrosoft_com/EVz1ZSzxHAZDtjRwWJx1ufABl6e17EP59MWnFqjkVm0-gw?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://www.heavenofhorror.com/wp-content/uploads/2022/06/watcher-2022-review-horror-movie.jpg" group-title="VOD ENGLISH" tvg-id="" tvg-name="", WATCHER
+https://pqstd-my.sharepoint.com/:v:/g/personal/abamkodim_pqstd_onmicrosoft_com/Efq-coruBo9OtUhkgy-diyEBOgGqo-vcJlOQBZ_uSub-sA?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://cdn.shopify.com/s/files/1/1183/1920/files/wira-poster_large.jpg" group-title="VOD MALAY" tvg-id="" tvg-name="", WIRA
+https://pqstd-my.sharepoint.com/:v:/g/personal/abamkodim_pqstd_onmicrosoft_com/ERPI_BUmstpEhH6PP2xfBacBGvoJjHt6A2zpyUGknNv7VA?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://i0.wp.com/vimbuzz.com/wp-content/uploads/2022/07/PhotoGrid_1657827718207.jpg" group-title="VOD ENGLISH" tvg-id="" tvg-name="", WRONG PLACE
+https://pqstd-my.sharepoint.com/:v:/g/personal/abamkodim_pqstd_onmicrosoft_com/EamyTBpQSM5DqbM-1Ml4Kc0BuzjJV3gMPEzbpVcYrioc-g?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://i0.wp.com/spikytv.com/wp-content/uploads/2022/04/Yaksha-Ruthless-Operations-2022-Movie-Review-and-Ending-Explained.jpg" group-title="VOD KOREA" tvg-id="" tvg-name="", YAKSHA RUTHLESS OPERATION
+https://pqstd-my.sharepoint.com/:v:/g/personal/abamkodim_pqstd_onmicrosoft_com/EXL7G4dcFuxLkCriH0iVpqkBeCB8dt_w2a580I_99RF6uw?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://image.akurat.co/uploads/gallery/2022/06/gal_62ba805c7a8c73-55837273-43223009.jpg" group-title="VOD ENGLISH" tvg-id="" tvg-name="", THE RISE OF GRU
+https://pqstd-my.sharepoint.com/:v:/g/personal/abamkodim_pqstd_onmicrosoft_com/EUF7ly8Dm9ZCv_9wTjm7sm0BDGcKORWFvDCGWrN5HrgjHA?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/59/The_Gray_Man_poster.png/220px-The_Gray_Man_poster.png" group-title="VOD ENGLISH" tvg-id="" tvg-name="", GRAYMAN
+https://pqstd-my.sharepoint.com/:v:/g/personal/chewan_pqstd_onmicrosoft_com/Eba8QrNg2MhNgldD1RUgRzUB4RWDd_hygkmhtxHEYlnk0w?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2022/07/Prey-Poster-Weapons-Predator-Prequel.jpg" group-title="VOD ENGLISH" tvg-id="" tvg-name="", PREY
+https://pqstd-my.sharepoint.com/:v:/g/personal/abamkodim_pqstd_onmicrosoft_com/EQ0SBbjR0KRIquhx_5iFU5sBZPQiqb2Nm2XSwYZZMDbJrQ?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2022/05/26/darling.jpg" group-title="VOD INDIA" tvg-id="" tvg-name="", DARLING
+https://pqstd-my.sharepoint.com/:v:/g/personal/abamkodim_pqstd_onmicrosoft_com/EfxYvv75IM9JlPiIN0UJwocBOB4dXdFqhFSdAcCAfDkBAQ?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://www.designerwomen.co.uk/wp-content/uploads/2022/08/luck-2022-780x470.jpeg" group-title="VOD ENGLISH" tvg-id="" tvg-name="", LUCK
+https://pqstd-my.sharepoint.com/:v:/g/personal/najib_pqstd_onmicrosoft_com/ERPJ4EO9b1BFmrdE0U0qlAMBSKCzDuu4KIRLn5uQqDyqBA?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://www.tvguide.com/a/img/catalog/provider/1/2/1-5390509178.jpg" group-title="VOD MALAY" tvg-id="" tvg-name="", SUAMIKU BUKAN TUKANG MASAK
+https://pqstd-my.sharepoint.com/:v:/g/personal/abamkodim_pqstd_onmicrosoft_com/EWFhGfmTRohEntGJUU6v7C4BjoVIVu_FaIWQeVmrFJxqZw?download=1
+#EXTINF:-1 type="movie" tvg-logo=https://www.vitalthrills.com/wp-content/uploads/2022/06/thirteen-lives-735x473.jpg.webp" group-title="VOD ENGLISH" tvg-id="" tvg-name="", THIRTEEN LIVES
+https://pqstd-my.sharepoint.com/:v:/g/personal/najib_pqstd_onmicrosoft_com/EbTNEycL5MpPpEH89FdgYwkBacCuvLqEkazRC2-2Mo3YFw?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://decider.com/wp-content/uploads/2022/07/Carter.jpg" group-title="VOD KOREA" tvg-id="" tvg-name="", CARTER
+https://pqstd-my.sharepoint.com/:v:/g/personal/najib_pqstd_onmicrosoft_com/Ecn8_h3WphJHoNLVL9fSdfQBYkHewwS15AKt6xXJ4-vasA?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://horrorcultfilms.b-cdn.net/wp-content/uploads/2022/08/orphan-first-kill.jpg" group-title="VOD ENGLISH" tvg-id="" tvg-name="", ORPHAN FIRST KILL
+https://pqstd-my.sharepoint.com/:v:/g/personal/najib_pqstd_onmicrosoft_com/EcpwQFfUulNNhcittJc4EgwBXRY_Dtnuh-b0NrXZXO-cEA?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/original/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg" group-title="VOD ENGLISH" tvg-id="" tvg-name="", ELVIS
+https://pqstd-my.sharepoint.com/:v:/g/personal/najib_pqstd_onmicrosoft_com/EeK4qkynlsFIr_mba9weBcEBCIERVCGfWZF-EtFRGso6Pw?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://lsf.go.id/wp-content/uploads/2022/03/poster_cracked_page-0001-350x520.jpg" group-title="VOD OTHERS" tvg-id="" tvg-name="", CRACKED
+https://pqstd-my.sharepoint.com/:v:/g/personal/chewan_pqstd_onmicrosoft_com/EY8hWFUNMmBHn6yi-799MpcBR7v19-r_HHNh4GJBTYGP3Q?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWI2ZDRjYjEtOWJiOS00NWVjLWI1MjAtNWNiMzAwNGFmNjljXkEyXkFqcGdeQXVyODEwMTc2ODQ@._V1_FMjpg_UX1000_.jpg" group-title="VOD ENGLISH" tvg-id="" tvg-name="", DAY SHIFT
+https://pqstd-my.sharepoint.com/:v:/g/personal/chewan_pqstd_onmicrosoft_com/ERYs0A2wu5JFsJmToilmTFUBJP_tePAa1aT41_QZL-_ibQ?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2E5ZGU1NzktNzg3Ny00NDAzLTgxZjgtZjNiZjdhZjAxMWFmXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg" group-title="VOD INDIA" tvg-id="" tvg-name="", OM:THE BATTLE WITHIN
+https://pqstd-my.sharepoint.com/:v:/g/personal/chewan_pqstd_onmicrosoft_com/EWCvXGhLPJdOuoBjNnriS3QBcwM3-V5Es15W5yPZtXeZjQ?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGU2ZDBmZmItMDJkOC00ZTM3LWE1N2QtZjkyM2I2ZWI4NjZlXkEyXkFqcGdeQXVyMDU2NjAwNg@@._V1_.jpg" group-title="VOD MALAY" tvg-id="" tvg-name="", THE ASSISTANT
+https://pqstd-my.sharepoint.com/:v:/g/personal/abamkodim_pqstd_onmicrosoft_com/EdA11Xb2clxIpqlniyYoc5gBFBUSUQSbatgoJ5KRaZopHw?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://www.flickeringmyth.com/wp-content/uploads/2022/07/Samaritan_Poster-600x889.jpg" group-title="VOD ENGLISH" tvg-id="" tvg-name="", SAMARITAN
+https://pqstd-my.sharepoint.com/:v:/g/personal/najib_pqstd_onmicrosoft_com/Eb5Fzr63NVdHsBpLRmi36psBoXfT0VLuObXFF14cYJCBPQ?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BOThhYzRmMDYtNmU0Ny00ZjVjLWI0N2QtNTdiZmQ3YzY2ZjlhXkEyXkFqcGdeQXVyMTE2NTcwNQ@@._V1_FMjpg_UX1000_.jpg" group-title="VOD ENGLISH" tvg-id="" tvg-name="", HUNTING AVA BRAVO
+https://pqstd-my.sharepoint.com/:v:/g/personal/chewan_pqstd_onmicrosoft_com/EVZt9j-BGvtIoLKmzyJ9I6ABUV_swQgmLtFWNKItJ1en2Q?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjBjM2Y5YWEtNTgyMi00MzcwLThkYTctYzZmY2FkNjZjZTRjXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg" group-title="VOD MALAY" tvg-id="" tvg-name="", KKN DESA PENARI
+https://pqstd-my.sharepoint.com/:v:/g/personal/chewan_pqstd_onmicrosoft_com/ET7rbPJ7XXBEkEr28VFIc5wB-hqH4UE4SlPy8cl3R3BjSg?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDIyZTI4NmMtNTgxNi00ODNkLWI3ODItMThjMzJhNTJhMWUwXkEyXkFqcGdeQXVyNzU5NDkzNTg@._V1_FMjpg_UX1000_.jpg" group-title="VOD MALAY" tvg-id="" tvg-name="", CEROBOH
+https://pqstd-my.sharepoint.com/:v:/g/personal/chewan_pqstd_onmicrosoft_com/ERstpmlbXqhIhlq-sTjkjhYBFgdk_Hg0H0qqv227s91JFQ?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://media-cache.cinematerial.com/p/500x/sohgcznz/fall-movie-cover.jpg" group-title="VOD ENGLISH" tvg-id="" tvg-name="", FALL
+https://pqstd-my.sharepoint.com/:v:/g/personal/najib_pqstd_onmicrosoft_com/EWwZF8by-xhFiKUIgL6q4AgBxwzKYxVY24yg-8NN5Yj9-g?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/79/24_%282016_film%29_poster.jpg" group-title="VOD INDIA" tvg-id="" tvg-name="", 24
+https://pqstd-my.sharepoint.com/:v:/g/personal/chewan_pqstd_onmicrosoft_com/Edv51eucdXhLsk1Q4mhZ5qMBRviw7UIu4MUj3U3h_KqEgg?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAkTNU0ETngjVLjWYM95LdsaKG5mI8YAQJOw&usqp=CAU" group-title="VOD MALAY" tvg-id="" tvg-name="", 7 MINGGU SEBELUM KAHWIN
+https://pqstd-my.sharepoint.com/:v:/g/personal/chewan_pqstd_onmicrosoft_com/EW9efn8vLV1GpsAc58cGqxUB58HXkIr39wRNEueYhGK2xQ?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/large/vikrant-rona-et00128225-1657019014.jpg" group-title="VOD INDIA" tvg-id="" tvg-name="", VIKRAN RONA
+https://pqstd-my.sharepoint.com/:v:/g/personal/chewan_pqstd_onmicrosoft_com/EeYwkmvg2F1ClGl68SeYi-sBhN_qNzWkH795oCZFe1UHpA?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjIwMjA4ODAtN2U4My00NmRjLTllZjctMDZjNzUyZGEzYTc1XkEyXkFqcGdeQXVyMTUzMDA3Mjc2._V1_QL75_UY281_CR18,0,190,281_.jpg" group-title="VOD MALAY" tvg-id="" tvg-name="", KALUT NAK KAHWIN
+https://pqstd-my.sharepoint.com/:v:/g/personal/chewan_pqstd_onmicrosoft_com/Ecixp_xtnm1NkWFgAvMfSagBDHJO6TCWHkjEm5sNFwINGw?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWQ3N2NlNWYtNTg4My00OTg4LWJiNjUtNmYyNGQyZWE2OTE2XkEyXkFqcGdeQXVyMDU2NjAwNg@@._V1_FMjpg_UX1000_.jpg" group-title="VOD MALAY" tvg-id="" tvg-name="", KAN CHEONG
+https://pqstd-my.sharepoint.com/:v:/g/personal/chewan_pqstd_onmicrosoft_com/Ea6dlk1fVlRLkPslAJnYOr4BaE_IAejPpfMb8CROGNoQzA?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://d3avoj45mekucs.cloudfront.net/astrogempak/media/3gadismanis_images/kampung-latah-1.jpg?ext=.jpg" group-title="VOD MALAY" tvg-id="" tvg-name="", KAMPUNG LATAH THE MUMMY
+https://pqstd-my.sharepoint.com/:v:/g/personal/chewan_pqstd_onmicrosoft_com/EX--Z_E8-lZJpT4O0dG_8z0Bru43H5QhXbTpwofS0UfY4w?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_KBRAO_IVP_LAND_672x378_202288_114150.jpg" group-title="VOD MALAY" tvg-id="" tvg-name="", ROH 100 HARI
+https://pqstd-my.sharepoint.com/:v:/g/personal/chewan_pqstd_onmicrosoft_com/EcgPOSNPQQ9CrcJMOcyp14MB4cpjc8PQw_BOPCspnmfydA?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxf1KVnKVxupW_4pNzRZHrnT5CRfKJXgCHUvZXd-zCoqoc60fJEiQU71VWT9ozC9PBSS_l3p1fgOjs3sIiqi2xX_mCwSCIaVyyIuOURl4ThpJ3PNiEqRlgLm7x22HVma6Oclg4STRCbTk7X_GKYZ3EnYY4hDa5fmoufzXFKXkLjovT0Elh32gfRDnq/s938/Lockdown%20Love.jpg" group-title="VOD MALAY" tvg-id="" tvg-name="", LOCKDOWN LOVE
+https://pqstd-my.sharepoint.com/:v:/g/personal/chewan_pqstd_onmicrosoft_com/EWCvXGhLPJdOuoBjNnriS3QBcwM3-V5Es15W5yPZtXeZjQ?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDc3ODA5ZjgtMjU2Yi00YmE2LThiZWEtNjJmYjg3OTAzMWU0XkEyXkFqcGdeQXVyODU5MDcyNzk@._V1_.jpg" group-title="VOD OTHERS" tvg-id="" tvg-name="", MAHLUKAT
+https://pqstd-my.sharepoint.com/:v:/g/personal/chewan_pqstd_onmicrosoft_com/EUxnkjB6kONDuyP_ivZnyxABV-mjAAp5Hs6l9_TuCQjoRw?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDYwNjNhNmQtNzZlZC00YzVmLThhMzItNmJiYWJjMGFjODQwXkEyXkFqcGdeQXVyMjkyOTg5NjI@._V1_.jpg" group-title="VOD MALAY" tvg-id="" tvg-name="", MAT KILAU
+https://pqstd-my.sharepoint.com/:v:/g/personal/chewan_pqstd_onmicrosoft_com/ET6j9-PFVpVFkoIv8qCC-7cBMH_J45uoHxnKKIy99VIK0A?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KCTGP_p_IVP_PORT_258x387_2022830_173126.jpg" group-title="VOD MALAY" tvg-id="" tvg-name="", MUSYRIK
+https://pqstd-my.sharepoint.com/:v:/g/personal/chewan_pqstd_onmicrosoft_com/EbPjSLE45tNLti6XAQ15exIBee-47cB733W2idd5fVGYdg?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KAFVD_p_IVP_PORT_258x387_202297_154149.jpg" group-title="VOD MALAY" tvg-id="" tvg-name="", CIKGU VS HANTU
+https://pqstd-my.sharepoint.com/:v:/g/personal/chewan_pqstd_onmicrosoft_com/EV1hLlZMmyJMg6Opg-2AEtcBaGLimGZN6Mh3VqtJMtLRXQ?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzA4N2IyMDctMjgyNC00OGZhLTk0MjMtMjdlNjA0Yjk0NjY2XkEyXkFqcGdeQXVyNzU5NDkzNTg@._V1_.jpg" group-title="VOD MALAY" tvg-id="" tvg-name="", JERANGKUNG DALAM ALMARI
+https://pqstd-my.sharepoint.com/:v:/g/personal/chewan_pqstd_onmicrosoft_com/EYTDBsGYDvpCiRsGmCemXA8BYGHhPUk3XzrYIx9TcKRAiA?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KDEWL_p_IVP_PORT_258x387_202299_152112.jpg" group-title="VOD OTHERS" tvg-id="" tvg-name="", MOON LIGHT
+https://pqstd-my.sharepoint.com/:v:/g/personal/chewan_pqstd_onmicrosoft_com/EXiSNLB7DkZPgjjTTFltIcEBh5qxIgX6PlAEmw0ozHN85g?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KCTGO_p_IVP_PORT_390x585_202292_11390.jpg" group-title="VOD INDIA" tvg-id="" tvg-name="", MOONDRAM ATHIGHARAM
+https://pqstd-my.sharepoint.com/:v:/g/personal/chewan_pqstd_onmicrosoft_com/Ed-c6ZooSxtNjEvrc6VFAlUBUN1iK_Azlua1f4G2DIG5sw?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KDEWJ_p_IVP_PORT_390x585_2022912_173037.jpg" group-title="VOD MALAY" tvg-id="" tvg-name="", MISI
+https://pqstd-my.sharepoint.com/:v:/g/personal/chewan_pqstd_onmicrosoft_com/EQqxL0zOtJ1EtuRWBNwHXCcBUrORKYafwyFrJH-vkvJQJA?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzAxMTYzMzAtZDc2Mi00NGYxLTg3ZTctZWQ2ZWM0OWUwYmRjXkEyXkFqcGdeQXVyNTg2MDI2Njc@._V1_.jpg" group-title="VOD OTHERS" tvg-id="" tvg-name="", DOLL 3
+https://pqstd-my.sharepoint.com/:v:/g/personal/chewan_pqstd_onmicrosoft_com/EezAnVzcnthDun4D1okJ_AIByxBaLD24Cjuv1kLhUL-3VA?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/13/Bullet_Train_%28poster%29.jpeg" group-title="VOD ENGLISH" tvg-id="" tvg-name="", BULLET TRAIN
+https://pqstd-my.sharepoint.com/:v:/g/personal/chewan_pqstd_onmicrosoft_com/EU9qju3qnjBBtlyy-qtxzq8BPwyfstNTz2-xkw4HMVveMQ?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDJjOTk0ZDQtZmNlNi00YmUzLThlZTktNjI1ZjhlMjI4NTUwXkEyXkFqcGdeQXVyMjg4OTY0OQ@@._V1_.jpg" group-title="VOD ENGLISH" tvg-id="" tvg-name="", THEY CRAWL BENEATH
+https://pqstd-my.sharepoint.com/:v:/g/personal/chewan_pqstd_onmicrosoft_com/EZQseQK4M69FidcQQnZTDPcBHoJnkw1dJV9-whYLHlr_ww?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGU0N2YzNTYtYjNmZS00NjM3LWI5MDctYzVjZTA0ZTA5ZDhlXkEyXkFqcGdeQXVyMzQyMDgzOTU@._V1_.jpg" group-title="VOD ENGLISH" tvg-id="" tvg-name="", MARGAUX
+https://pqstd-my.sharepoint.com/:v:/g/personal/chewan_pqstd_onmicrosoft_com/ETLpqOFLCqdLliKKmMuSq8UB7w9_619Yegzft0ccVvuqtA?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Hocus_Pocus_2_Logo.jpg/220px-Hocus_Pocus_2_Logo.jpg" group-title="VOD ENGLISH" tvg-id="" tvg-name="", HOCUS POCUS 2
+https://pqstd-my.sharepoint.com/:v:/g/personal/najib_pqstd_onmicrosoft_com/EbT4pDRRr5RDsAjCf1IFePAB_VR6TQYYVDQRDEjH0r1-Yw?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHNs2RBKTfnsYvY3uO90-Wk-lm9Q0nqWsm70PdCxdh_3yWKGgGcsAOIGAXS9QS1W3LtzI&usqp=CAU" group-title="VOD ENGLISH" tvg-id="" tvg-name="", JEEPERS CREEPERS REBORN
+https://pqstd-my.sharepoint.com/:v:/g/personal/chewan_pqstd_onmicrosoft_com/EU7ScxOps0lDstg5rL1G9EkBufjSdhxv_Vruk1hxvFqaQQ?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaUTfGR0bAsZVogWvv4kGzNNuHeYyGpbCf6Ii8UDMMiZRULcpsOggpR-OUUYGIn6EIvKchWRilUOP7Xu9y3oSVfUNhivOpy23up5lkrBccHTdEyxXgMBCfBuLsUi55BT7DL8R2A5B05lGdxDo0cIhnq77WnEXxafcHIvQ0kONeBTzte9-rmx8oqLS7Fg/w0/Debunk.jpg" group-title="VOD MALAY" tvg-id="" tvg-name="", DEBUNK
+https://pqstd-my.sharepoint.com/:v:/g/personal/chewan_pqstd_onmicrosoft_com/EaJhH-Cj56xElW2qJWq1_3ABVnwqYTpaRTWkSE7SEorezQ?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtaUSo7dlcg6dSxWMkIodem3UffZ_SM4H-8AV_ZfJ6RH8poVIpSr2agsjryVljVICVL0I&usqp=CAU" group-title="VOD ENGLISH" tvg-id="" tvg-name="", HELLRAISER
+https://pqstd-my.sharepoint.com/:v:/g/personal/chewan_pqstd_onmicrosoft_com/Ec7_vh4I_uFOpnEBhFh1MW8BAEo9SHPf2UkmbDeeGjsJYQ?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYEbYXDqzJzas2AG3uHY7-HNDbKMtCRXbLffL5eSvFgPEUhf8BIhS3ekNiXQkewpftdqF7ivTdvWVUHB97Icy-zFzcP-bXLgeG0EJq3GokgvmE5uNQnefddBKtTYVj5LwkS1HfkpQlnejAWdMxqg16suc-x6DoFjxZAAVqJxGetr6Af9qXRNIiBCdXIA/w0/Mandi%20Mayat.jpg" group-title="VOD MALAY" tvg-id="" tvg-name="", MANDI MAYAT
+https://pqstd-my.sharepoint.com/:v:/g/personal/chewan_pqstd_onmicrosoft_com/ERNWv9e2NIpKkJWZSo1ha4sBYrQCmcsEAPywyEuz2ROLlA?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQHZt6q5vPsor2NlShX_ijNPMIe0Xc7Xr7KtL8EmvVpTyeNHyjm" group-title="VOD ENGLISH" tvg-id="" tvg-name="", OLD PEOPLE
+https://pqstd-my.sharepoint.com/:v:/g/personal/chewan_pqstd_onmicrosoft_com/EVHRaWwqm2lBmoJhxPmoh8ABZxgSuH0gUwHzVHNzQZbWQg?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjZmYTliYTctODcwNi00MTY3LWEzZjUtMTVlMWIyYTFkN2QzXkEyXkFqcGdeQXVyMDIyMDM0OQ@@._V1_FMjpg_UX1000_.jpg" group-title="VOD ENGLISH" tvg-id="" tvg-name="", INHABITANT
+https://pqstd-my.sharepoint.com/:v:/g/personal/chewan_pqstd_onmicrosoft_com/EUliO0MjYkhHlauyGKnzK2sBoNGz2GkQiZrmS6oHeXWTkQ?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWJiMGFmMzItMjdhZi00OWQ2LThiYTgtZjgxZTY5NDkyZjIzXkEyXkFqcGdeQXVyNzQ2OTEzMzY@._V1_FMjpg_UX1000_.jpg" group-title="VOD ENGLISH" tvg-id="" tvg-name="", GRIMCUTTY
+https://pqstd-my.sharepoint.com/:v:/g/personal/chewan_pqstd_onmicrosoft_com/Ebk_VrRMHzNIljluI3Lcu_EBxi6aTZ2w5c18yOi2e5u20w?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDVmYWRmYjgtMTZhMS00YWIwLWI3NDYtNWUyMzdkODVjMWE0XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg" group-title="VOD ENGLISH" tvg-id="" tvg-name="", HALLOWEEN ENDS
+https://pqstd-my.sharepoint.com/:v:/g/personal/chewan_pqstd_onmicrosoft_com/ESERcOUGFzhDgBAzSeYnjMQBwIZQAl97ygf5UUYHoD37DA?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2Y2YWU5ZWQtYTA3NS00YzFiLTk5MmUtMmIxZDE4OWY1YjYxXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_FMjpg_UX1000_.jpg" group-title="VOD MALAY" tvg-id="" tvg-name="", KUNTILANAK 3
+https://pqstd-my.sharepoint.com/:v:/g/personal/chewan_pqstd_onmicrosoft_com/ESXUKnB-cgxGuJ3u7RV7o2cBhkks7yp3OFducHmHDnrPIA?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU5MWY3YTEtYmYwNC00MGU1LTk2YWMtOTk0YjgxNDM3NjdjXkEyXkFqcGdeQXVyMjE4NzUxNDA@._V1_FMjpg_UX1000_.jpg" group-title="VOD ENGLISH" tvg-id="" tvg-name="", ACCIDENTAL MAN:HITS MAN HOLIDAY
+https://pqstd-my.sharepoint.com/:v:/g/personal/chewan_pqstd_onmicrosoft_com/EZorAJLMGYdItSDM-0lCCowBGQYljEQpQNdAhCvhb5R4vw?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://www.cinema.com.my/images/movies/2022/7menjelangmagrib00_450.jpg" group-title="VOD MALAY" tvg-id="" tvg-name="", MENJELANG MAGHRIB
+https://pqstd-my.sharepoint.com/:v:/g/personal/chewan_pqstd_onmicrosoft_com/EQiGpwdfk71FlI5U2If3k8UBrtjHz-dcdEkMxUp9gKH2fg?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWJiMmRkNTQtNjhjOC00NmJkLWJlODgtZGM4NTE4YzRkNGJjXkEyXkFqcGdeQXVyODc5Mjc4Nzg@._V1_FMjpg_UX1000_.jpg" group-title="VOD OTHERS" tvg-id="" tvg-name="", ALIENOID
+https://pqstd-my.sharepoint.com/:v:/g/personal/chewan_pqstd_onmicrosoft_com/EfiU4smMOLRFsaIrf2SeiOUBiF7wMsHiQyS-9JetuGf9zA?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/I/51ISCe9qbVL._AC_SY580_.jpg" group-title="VOD ENGLISH" tvg-id="" tvg-name="", INSIDE MAN
+https://pqstd-my.sharepoint.com/:v:/g/personal/chewan_pqstd_onmicrosoft_com/EfcNVPrghidNnIteXkmu1dIBV7w3kwt_Z4ntglbdwsYd-g?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-fXQ_5xnXn4wo-8OtJiChmCddL6EMlwOak4a0A42ZBVR4pdscAG8Ov-D3PcIV5yVeUi1kdcuJ1X2MGba344MidgWptpdVLE09eJpZLW4mPNkXUPh0QAmpR0fW7_uL3f00HKMJAZ_Ta19mdNhBrQSrAWLavRWxpwAjORN7Gu8lccJXAIyS915F2NU-/w1200-h630-p-k-no-nu/21313.jpg" group-title="VOD MALAY" tvg-id="" tvg-name="", BUSUNG KATAK
+https://pqstd-my.sharepoint.com/:v:/g/personal/chewan_pqstd_onmicrosoft_com/EbZLde8sfXNFnm-1iQeMt74Bqqgir09sQUaEDTO9X15QOA?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJGWLRRfCrKlWhdYPf75NNeKiZ3re0-dLlnP0UbI_wdMSfnIXPZ9hWsR9_T6gaeRCdlls&usqp=CAU" group-title="VOD MALAY" tvg-id="" tvg-name="", A NIGHT WITH AINA ABDUL
+https://pqstd-my.sharepoint.com/:v:/g/personal/chewan_pqstd_onmicrosoft_com/ETxZcKgo_MpIjbdXnEJQgF4B4w3UEo3BZ2Rh00HNGDL2Ag?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzZkOGUwMzMtMTgyNS00YjFlLTg5NzYtZTE3Y2E5YTA5NWIyXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg" group-title="VOD ENGLISH" tvg-id="" tvg-name="", BLACK ADAM
+https://pqstd-my.sharepoint.com/:v:/g/personal/chewan_pqstd_onmicrosoft_com/EVzgyEAXsClBjTlAYT-JJcEByt4Zs5oUyXjNYcvcr2wUuw?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzEzOTZjYjYtMTI3MS00NWE1LWIyZTktYTRlMTBlYjlkMjZiXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg" group-title="VOD ENGLISH" tvg-id="" tvg-name="", TERRIFIER 2
+https://pqstd-my.sharepoint.com/:v:/g/personal/chewan_pqstd_onmicrosoft_com/EdT-2eUp_clFkVajdsQDLLkBLolVeksDjfK611vS_CQ8MQ?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kjFDIlUCJkcpFxYKtE6OsGcAfQQ.jpg" group-title="VOD ENGLISH" tvg-id="" tvg-name="", BLADE OF 47 RONIN
+https://pqstd-my.sharepoint.com/:v:/g/personal/chewan_pqstd_onmicrosoft_com/EQBNpewO22dPjrWq0qDjUosB2wF_U2NEGe_nDQqK7go01A?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/54/Rumah_Kaliurang.jpeg" group-title="VOD MALAY" tvg-id="" tvg-name="", RUMAH KALIURANG
+https://pqstd-my.sharepoint.com/:v:/g/personal/chewan_pqstd_onmicrosoft_com/ES1-qHwv8IFGiJxv_zs46DEBBNlTD4Fug7DVap96q_YkKg?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTQ3NDM0MjEtN2Y5Yi00OWY5LWI1ZjktYmE3NjQyMjZkYTNkXkEyXkFqcGdeQXVyNTM3NzExMDQ@._V1_.jpg" group-title="VOD ENGLISH" tvg-id="" tvg-name="", HIGH LANE
+https://pqstd-my.sharepoint.com/:v:/g/personal/chewan_pqstd_onmicrosoft_com/ESXzBBVqAWNClWatyItmZSsBiJ1l5mVU1ZFg9xfujAa6Eg?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://i0.wp.com/moviesreview101.com/wp-content/uploads/2022/10/hellhole-poster.jpg" group-title="VOD OTHERS" tvg-id="" tvg-name="", HELLHOLE
+https://pqstd-my.sharepoint.com/:v:/g/personal/chewan_pqstd_onmicrosoft_com/EYncpIFeZgFEplmOrYgXWC4Bd0PRgjRBMcHbwCv2T2dEow?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDViZWYyOGItOWY0NS00ODVmLWE3MzYtMWI2NDM5OTdkYTYyXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg" group-title="VOD INDIA" tvg-id="" tvg-name="", BIMBISARA
+https://pqstd-my.sharepoint.com/:v:/g/personal/chewan_pqstd_onmicrosoft_com/EZUMvZI60l1PjU1HHDhmyGUBwgFdnSkt_v2ARAkbGKkIEA?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWE0ZjFhYjItMzI5MC00MDllLWE4OGMtMzlhNGQzN2RjN2MwXkEyXkFqcGdeQXVyNDc2NjEyMw@@._V1_.jpg" group-title="VOD ENGLISH" tvg-id="" tvg-name="", COMMANDO
+https://pqstd-my.sharepoint.com/:v:/g/personal/chewan_pqstd_onmicrosoft_com/EW1zmhYoGT9Mu739QjiUrY8Bx4yq--n2NgFwrx7OQo9xqA?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGViOTBkOTgtZmJiZS00OGVjLTllMTQtNjk5MGEzM2U0NzQ4XkEyXkFqcGdeQXVyMzYxOTQ3MDg@._V1_.jpg" group-title="VOD INDIA" tvg-id="" tvg-name="", MY DEAR LISA
+https://pqstd-my.sharepoint.com/:v:/g/personal/chewan_pqstd_onmicrosoft_com/EcUaGunCzuVFitR97_E72ekBQiXVy2xLnq7q2uk2XsFZng?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGQ5ZDYyMzMtNDRjZi00YWMxLTgzYTktNjBkNjJjMDM3NDE2XkEyXkFqcGdeQXVyNzEyMjQwOTQ@._V1_FMjpg_UX1000_.jpg" group-title="VOD ENGLISH" tvg-id="" tvg-name="", MATRIARCH
+https://pqstd-my.sharepoint.com/:v:/g/personal/chewan_pqstd_onmicrosoft_com/EegJZHaIAUBNlHGlLMsTwgABPoackWEV8oxgN8xJdFGiDg?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjE0NWU3NmMtNWYwMC00ZDQ0LWExOGUtMjUxNDQzNjljNGI0XkEyXkFqcGdeQXVyMTUzMDA3Mjc2._V1_FMjpg_UX1000_.jpg" group-title="VOD MALAY" tvg-id="" tvg-name="", AIR FORCE(SELAGI BERNYAWA)
+https://pqstd-my.sharepoint.com/:v:/g/personal/chewan_pqstd_onmicrosoft_com/EbfIV54Y5UtCs1Lm_VWdZ5cBv50NJQzIjXfQlwm1lWgw-Q?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2E1M2ZlZjAtNzQwYy00MGQwLWEwMTgtMWMyYTAxN2IyN2MyXkEyXkFqcGdeQXVyNTg2MDI2Njc@._V1_FMjpg_UX1000_.jpg" group-title="VOD MALAY" tvg-id="" tvg-name="", PENGABDIAN SETAN 2
+https://pqstd-my.sharepoint.com/:v:/g/personal/chewan_pqstd_onmicrosoft_com/EaJ8Tjm_t5tGhjaIBePyatYBwtXd4FIPytYtgj6T4cJ04A?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjE2ZWIwMWEtNGFlMy00ZjYzLWEzOWEtYzQ0MDAwZDRhYzNjXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg" group-title="VOD ENGLISH" tvg-id="" tvg-name="", SMILE
+https://pqstd-my.sharepoint.com/:v:/g/personal/najib_pqstd_onmicrosoft_com/EeP3T6az37ZHkoWZ0RPFLqQBxPDkkS0Nk-0ieorW8YBZig?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2I4MDIwYWUtOWMxNC00ZTIzLWE3OGYtOWUyMmIwZGE2NjU4XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_FMjpg_UX1000_.jpg" group-title="VOD ENGLISH" tvg-id="" tvg-name="", THE WOMEN KING
+https://pqstd-my.sharepoint.com/:v:/g/personal/chewan_pqstd_onmicrosoft_com/EUTHFWltI_BNoogkJqRpx6IBjz6E9d3UUNFd-sgqU4c9pA?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTE4YjMzMjUtZDI2ZC00MDA1LWIzZjYtNDAzNzQ4MDM4NTQyXkEyXkFqcGdeQXVyMTE5Mjg2MzA1._V1_.jpg" group-title="VOD INDIA" tvg-id="" tvg-name="", THE GHOST
+https://pqstd-my.sharepoint.com/:v:/g/personal/chewan_pqstd_onmicrosoft_com/ETkoMNGbS7hFmRzYCpYnwpABmRg9iAcv3fQAvOcmISbcDA?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWVhMjMzM2QtNjI0Ny00NTM2LWI3YjMtNTgzZjg3ZTdhNjI5XkEyXkFqcGdeQXVyMTMzNzczNTcx._V1_.jpg" group-title="VOD ENGLISH" tvg-id="" tvg-name="", THE OCTOGAMES
+https://pqstd-my.sharepoint.com/:v:/g/personal/chewan_pqstd_onmicrosoft_com/EWoGMTvE7INFlLex-GZpg70BvQTWWj6sP3HQLX8l0MubAQ?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/40/Brahmastra_Teaser.jpeg" group-title="VOD INDIA" tvg-id="" tvg-name="", BRAHMASTRA: PART-ONE - SHIVA
+https://pqstd-my.sharepoint.com/:v:/g/personal/chewan_pqstd_onmicrosoft_com/ET0s6DduP31KhWGgrDmNDbYBhi8fipQiBRIgpitq0ivJ7Q?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWQ2MDBiODUtNjRiNy00YjYwLWJjYzgtN2Y4MzQxZDFkYzEzXkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_.jpg" group-title="VOD ENGLISH" tvg-id="" tvg-name="", FEED ME
+https://pqstd-my.sharepoint.com/:v:/g/personal/chewan_pqstd_onmicrosoft_com/ERIdDNqWSy5BuIC0ow3pfg4BAVyIUVBQH30kwd_jRgLVTw?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4b/Enola_Holmes_2_poster.png" group-title="VOD ENGLISH" tvg-id="" tvg-name="", ENOLA HOLMES 2
+https://pqstd-my.sharepoint.com/:v:/g/personal/chewan_pqstd_onmicrosoft_com/Ed2tZbGFwQVBjhPeT57Xfx0B4RsehNIwoZz90sgciuf07Q?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmRmNTY0NDEtNWU0Yy00MDkyLWExMTItNjMxMjI5NjlhN2ZlXkEyXkFqcGdeQXVyNzczMjMzMDc@._V1_.jpg" group-title="VOD ENGLISH" tvg-id="" tvg-name="", PRESENCE
+https://pqstd-my.sharepoint.com/:v:/g/personal/chewan_pqstd_onmicrosoft_com/ETqPcEL6pUFOvUpb5e5aXxcB6hZOf5nEY0NISvBTvNRUtg?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://i.mydramalist.com/EL7Zm_4f.jpg" group-title="VOD CHINESE" tvg-id="" tvg-name="", ESCAPE OF SHARK
+https://pqstd-my.sharepoint.com/:v:/g/personal/chewan_pqstd_onmicrosoft_com/EetsTKE-P9JApbY7np8r6yYBZOmu_9J8h-vWQpnyonAb_w?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDM2ZGU0ZjktMDMwMi00ZGIwLWI2MTEtM2I4Y2JkOTdiNjkwXkEyXkFqcGdeQXVyMjg1NDcxNDE@._V1_FMjpg_UX1000_.jpg" group-title="VOD ENGLISH" tvg-id="" tvg-name="", THE LAIR
+https://pqstd-my.sharepoint.com/:v:/g/personal/chewan_pqstd_onmicrosoft_com/EbRy7766nwZOg7IKg3mg7mkB7i7rNOZ3K0qPgbIvKU9qfg?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTE1MmZiMWYtYTFmZi00YjA3LWI2ODgtMWFlNWYxZjdmNGE3XkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_FMjpg_UX1000_.jpg" group-title="VOD ENGLISH" tvg-id="" tvg-name="", ALL QUIET ON THE WESTERN FRONT
+https://pqstd-my.sharepoint.com/:v:/g/personal/chewan_pqstd_onmicrosoft_com/EUoluomnNhdHtHyMvGw9ZqYBg9wWvnsZDoV-DOKVwVL2JQ?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWVjZTQyZjUtYWZjMS00MDJkLTk2NDktNjU2ZjhjM2FkOWRkXkEyXkFqcGdeQXVyNjA0NTYzOQ@@._V1_FMjpg_UX1000_.jpg" group-title="VOD ENGLISH" tvg-id="" tvg-name="", HOUNDED
+https://pqstd-my.sharepoint.com/:v:/g/personal/chewan_pqstd_onmicrosoft_com/EZ0shFevDbJMvd-WpuuHIqIBTnAvzgNIDhahCY7pPW7jLg?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDM5YTI5MWUtMWI0YS00NjMyLThjODMtMzFjMTg1ZTgwZDEyXkEyXkFqcGdeQXVyODQ4NjA3Mw@@._V1_.jpg" group-title="VOD ENGLISH" tvg-id="" tvg-name="", R.I.P.D 2
+https://pqstd-my.sharepoint.com/:v:/g/personal/chewan_pqstd_onmicrosoft_com/EaYjkZKkmwJDmSc7SyERIEgBs-TKkJwSOh5xrXaHUV3GjQ?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BODczZjBiNTgtZWYxZC00OGMzLTk4MTItZmFlYzJjMzU1NjQ0XkEyXkFqcGdeQXVyMTEzNzg0Mjkx._V1_.jpg" group-title="VOD INDIA" tvg-id="" tvg-name="", SAANI KAAYIDHAM
+https://pqstd-my.sharepoint.com/:v:/g/personal/chewan_pqstd_onmicrosoft_com/EQ3RqZ273eFHgGVoVbev61EB4DQuS7WFs2XfWRZ1r3dh5A?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BODUwNDNjYzctODUxNy00ZTA2LWIyYTEtMDc5Y2E5ZjBmNTMzXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_QL75_UY281_CR11,0,190,281_.jpg" group-title="VOD INDIA" tvg-id="" tvg-name="", RRR
+https://pqstd-my.sharepoint.com/:v:/g/personal/chewan_pqstd_onmicrosoft_com/EcFBgvub591JskIKUaXV7J8Bs0aiwbbMZN0vDJCePc-ozA?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzQwNDY0NGEtYzFmOC00ZmRkLWEzZmUtZTQ0MjQ0YjRhMDA1XkEyXkFqcGdeQXVyOTg4MDYyNw@@._V1_FMjpg_UX1000_.jpg" group-title="VOD ENGLISH" tvg-id="" tvg-name="", SHADOW MASTER
+https://pqstd-my.sharepoint.com/:v:/g/personal/chewan_pqstd_onmicrosoft_com/ESL--7QyblFLp2wrRr52T18Bd6nvNpum8WwVAtL1oZdtGQ?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzAyODhhMTAtMDAyZi00ODkwLThmNzctNjViYTdjYmU0OTU2XkEyXkFqcGdeQXVyMjM0NTY1NDY@._V1_.jpg" group-title="VOD ENGLISH" tvg-id="" tvg-name="", GHOST OF HIROSHIMA
+https://pqstd-my.sharepoint.com/:v:/g/personal/chewan_pqstd_onmicrosoft_com/ESv4W3qesAdEu0dxPbLX9csBkc-TOR3UlisUFAWzevTtmw?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://www.cinema.com.my/images/movies/2022/7satriadewagatotkaca00_450.jpg" group-title="VOD MALAY" tvg-id="" tvg-name="", SATRIA DEWA GATOTKACA
+https://pqstd-my.sharepoint.com/:v:/g/personal/chewan_pqstd_onmicrosoft_com/EULUkFsNyIlAn_y9esqDEWUBq2rS2r6F1zdaCtMe9qethQ?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirSCYRxk-yKmCYm-2jhghLEAc-PNuXQ8dnK-biOTs81pqwOHoCcpkE6sssxTap17_MxNpj6NlkQ3b7GcX0bonI940kkFJYOn5t9vLbwChTuWUaLOPUGjjv3oikVtFWWq0iGXOzydg1npuIQEFJ8IIlkRYrcNKp9KZvYFjFmyJ3REIftaIcS6OCPeeC/s640/21313.jpg" group-title="VOD MALAY" tvg-id="" tvg-name="", NYANG
+https://pqstd-my.sharepoint.com/:v:/g/personal/chewan_pqstd_onmicrosoft_com/ET8QAUnnNvdLmrPKjIrcJBYBbT7qJvamTZLzVB88-MYq3g?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJ46j3HxO5VvKJzAJ4SawQnIP3qd9kq2zeDuhZMDGYd06vW5OdwqATP4ikAa5_0zM0OVPtvBksOPz4xVGdlwOGWKpnNa_euYdon5aHFkU5OOWOCJ-fIPCUATrWNuZgYeAx0M68-ZmefxqoESB2wASfp9xa1B7a0HTd3bswX1oA-ZiW_9-0rID0YJJ2rg/w0/Halimun.jpg" group-title="VOD MALAY" tvg-id="" tvg-name="", HALIMUN
+https://shui3-my.sharepoint.com/:v:/g/personal/zama_shui3_onmicrosoft_com/EXZHIjf7GoFGuhisjPRebg0BgJt8D3SMX1TuiHiCZZXOmw?download=1
+#EXTINF:-1 tvg-id="" tvg-name="â–¼â€¢â—â€¢ Netflix Premiere Original â€¢â—â€¢ â–¼" tvg-logo="" group-title="UK | Netflix Movies",â–¼â€¢â—â€¢ Netflix Premiere Original â€¢â—â€¢ â–¼
+https://thebestiptv.xyz:443/fuzflyjy@karenkey.com/up9NCFBD4m/790626.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="â–¼â€¢â—â€¢ Sky Store Premiere â€¢â—â€¢ â–¼" tvg-logo="" group-title="UK | Sky Store",â–¼â€¢â—â€¢ Sky Store Premiere â€¢â—â€¢ â–¼
+https://thebestiptv.xyz:443/fuzflyjy@karenkey.com/up9NCFBD4m/790561.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="â–¼â€¢â—â€¢ PrimeVideo Series â€¢â—â€¢ â–¼" tvg-logo="" group-title="UK | Prime Video SERIES",â–¼â€¢â—â€¢ PrimeVideo Series â€¢â—â€¢ â–¼
+https://thebestiptv.xyz:443/fuzflyjy@karenkey.com/up9NCFBD4m/790578.m3u8
+#EXTINF:-1 type="movie" tvg-id="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KEKDD_p_IVP_PORT_390x585_20221115_162419.jpg" group-title=" VOD MALAY",ABANG LONG FADIL 3
+https://vodejitp-asset-playback-b.astro.com.my/v1/default/dash-wv/vode/d79d49c6-9ede-5da2-a51b-e05313ecf608/default_primary.mpd
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2RkNWQ3MTEtOTkyMS00NDZkLThlNzUtZDE5NzZlMWM5YzRhXkEyXkFqcGdeQXVyMjA4OTI5NDQ@._V1_.jpg" group-title="VOD INDIA" tvg-id="" tvg-name="", DARBAR
+https://shui3-my.sharepoint.com/:v:/g/personal/barisan2022_shui3_onmicrosoft_com/EY8JGhmLBwJHoBzug8Wiy4wB99PFRhiQJrul05VbKKam8A?download=1
