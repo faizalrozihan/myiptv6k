@@ -1,10 +1,14 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml"
 
 #EXTINF:-1 tvg-id="TV1" group-title="Malaysia" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/101.png",TV1
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b4596000_slENG.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/711
+https://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_ott.mpd
 
 #EXTINF:-1 tvg-id="TV2" group-title="Malaysia" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032302034uev.png",TV2
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b4596000_slENG.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5027
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv3/
@@ -30,7 +34,9 @@ https://aqfadtv.xyz/live/tv9/index.mpd
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
 
 #EXTINF:-1 tvg-id="OKEY" group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",OKEY
-https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b4596000_slENG.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5072
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5072/default_ott.mpd
 
 #EXTINF:-1 tvg-id="AstroRania" group-title="Malaysia" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/109.png",Naura
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -195,12 +201,16 @@ https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mp
 
 --------------------------TV1---------------------------
 #EXTINF:-1 tvg-id="TV1" group-title="Malaysia" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/101.png",TV1
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b4596000_slENG.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/711
+https://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_ott.mpd
 --------------------------------------------------------
 
 --------------------------TV2---------------------------
 #EXTINF:-1 tvg-id="TV2" group-title="Malaysia" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032302034uev.png",TV2
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b4596000_slENG.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5027
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_ott.mpd
 --------------------------------------------------------
 
 --------------------------TV3---------------------------
@@ -243,7 +253,9 @@ https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/D
 
 -----------------------TV OKEY--------------------------
 #EXTINF:-1 tvg-id="OKEY" group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",OKEY
-https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b4596000_slENG.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5072
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5072/default_ott.mpd
 --------------------------------------------------------
 
 ----------------------AL-HIJRAH-------------------------
@@ -515,10 +527,14 @@ https://edge.roku-live.top.comcast.net/out/u/epix2-east.m3u8
 ------------------------------------------------------------------
 
 #EXTINF:-1 tvg-id="TV1" group-title="MALAYSIA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/101.png",TV1
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b4596000_slENG.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/711
+https://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_ott.mpd
 
 #EXTINF:-1 tvg-id="TV2" group-title="MALAYSIA" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032302034uev.png",TV2
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b4596000_slENG.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5027
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv3/
@@ -548,7 +564,9 @@ https://aqfadtv.xyz/live/tv9/index.mpd
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
 
 #EXTINF:-1 tvg-id="OKEY" group-title="MALAYSIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",OKEY
-https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b4596000_slENG.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5072
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5072/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1113
@@ -565,10 +583,14 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b4596000_slENG.m3u8
 https://bit.ly/seOnlyla
 
 #EXTINF:-1 tvg-id="TV1" tvg-name="TV1" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/95_144.png" tvg-chno="1" channel-id="1" group-title="MYSG",TV1
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b4596000_slENG.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/711
+https://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_ott.mpd
 
 #EXTINF:-1 tvg-id="TV2" tvg-name="TV2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/103_144.png" tvg-chno="2" channel-id="2" group-title="MYSG",TV2
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b4596000_slENG.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5027
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3afe30ee4ea24a67fe5a2ef06e83db0b&key=27a2f71d87bf5eb105af096fb6605d97
@@ -599,7 +621,9 @@ https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/D
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
 
 #EXTINF:-1 tvg-id="OKEY" tvg-name="OKEY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/97_144.png" tvg-chno="9" channel-id="9" group-title="MYSG",OKEY
-https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b4596000_slENG.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5072
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5072/default_ott.mpd
 
 #EXTINF:-1 tvg-id="AstroAwani" tvg-name="Astro Awani" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/84_144.png" tvg-chno="59" channel-id="59" group-title="MYSG",Astro Awani
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_3.m3u8
@@ -829,10 +853,14 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live15.mpd
 https://bit.ly/seOnlyla
 
 #EXTINF:-1 tvg-id="TV1" tvg-name="TV1" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/95_144.png" tvg-chno="101" channel-id="101" group-title="Malaysia",TV1
-https://v-t-e-r.github.io/Umbrella/Playlist/Ch/101.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/711
+https://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_ott.mpd
 
 #EXTINF:-1 tvg-id="TV2" tvg-name="TV2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/103_144.png" tvg-chno="102" channel-id="102" group-title="Malaysia",TV2
-https://v-t-e-r.github.io/Umbrella/Playlist/Ch/102.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5027
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_ott.mpd
 
 #EXTINF:-1 tvg-id="TVSUKAN" tvg-name="RTM Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" tvg-chno="42" channel-id="42" group-title="Malaysia",RTM Sports HD
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Sukanrtm.m3u8
@@ -844,7 +872,9 @@ https://v-t-e-r.github.io/Umbrella/Playlist/Ch/TV6rtm.m3u8
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/TVSwak.m3u8
 
 #EXTINF:-1 tvg-id="OKEY" tvg-name="OKEY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/97_144.png" tvg-chno="146" channel-id="146" group-title="Malaysia",OKEY
-https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Okey.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5072
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5072/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv3/fb6605d97
