@@ -713,29 +713,29 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b4596000_slENG.m3u8
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_ott.mpd
 
 #EXTINF:-1 tvg-id="Channel 5" tvg-name="Channel 5" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/44/Mc5.jpg" tvg-chno="23" channel-id="23" group-title="MYSG",Channel 5
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2g1X2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiMTA5MzgxNTAiLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjowfQ%3D%3D&signature=XxVtXGzoZGI5pzb1eOacEclqzxQ%3D&
-https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/channel5
+https://aqfadtv.xyz/live/mewatch/channel5/index.mpd
 
 #EXTINF:-1 tvg-id="Channel 8" tvg-name="Channel 8" tvg-logo="https://www.mewatch.sg/image/5249134/16x9/947/533/47350f877c34609e643ae8c786ed8dd/Qc/suria.png" tvg-chno="24" channel-id="24" group-title="MYSG",Channel 8
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2g4X2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiOTgyNjk5MSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=VmkG%2FnkMNDuNoZKk%2F1cG3xTZG5w%3D&
-https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/channel8
+https://aqfadtv.xyz/live/mewatch/channel8/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0328a153c2994b279ab03ab25102fc59&key=2cc69eaaa858fed24c5623654daf8d3d
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/channelu
 #EXTINF:-1 tvg-id="Channel U" tvg-name="Channel U" tvg-logo="https://static.epg.best/sg/ChannelU.sg.png" tvg-chno="25" channel-id="25" group-title="MYSG",Channel U
-https://tglmp03.akamaized.net/out/v1/14eb6e921cae41298efaa4d9db0f2875/manifest.mpd
+https://aqfadtv.xyz/live/mewatch/channelu/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=7a9ea6df52044841b0c562766e602610&key=b9380188b4896b25e8d419dfce938c6e
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/suria
 #EXTINF:-1 tvg-id="Suria" tvg-name="Suria" tvg-logo="https://www.mewatch.sg/image/5249134/16x9/947/533/47350f877c34609e643ae8c786ed8dd/Qc/suria.png" tvg-chno="26" channel-id="26" group-title="MYSG",Suria
-https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.mpd
+https://aqfadtv.xyz/live/mewatch/suria/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=9970038ef6c548e39768f3a1ff6f5081&key=3e19d54b7bcd8bb336776fe136d48f57
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/vasantham
 #EXTINF:-1 tvg-id="Vasantham" tvg-name="Vasantham" tvg-logo="https://static.epg.best/sg/Vasantham.sg.png" tvg-chno="27" channel-id="27" group-title="MYSG",Vasantham
-https://tglmp03.akamaized.net/out/v1/14eb6e921cae41298efaa4d9db0f2875/manifest.mpd
+https://aqfadtv.xyz/live/mewatch/vasantham/index.mpd
 
 #EXTINF:-1 tvg-id="CNA" tvg-name="Channel NewsAsia" tvg-logo="https://static.epg.best/sg/ChannelNewsAsia.sg.png" tvg-chno="28" channel-id="28" tvg-group="MY/SG" group-title="MYSG",Channel NewsAsia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
@@ -978,29 +978,29 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_ott.mpd
 ## MeWatch SG ##
 
 #EXTINF:-1 tvg-id="Channel5.sg" tvg-name="Channel 5" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/44/Mc5.jpg" tvg-chno="23" channel-id="23" group-title="MeWatch SG",Channel 5
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2g1X2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiMTA5MzgxNTAiLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjowfQ%3D%3D&signature=XxVtXGzoZGI5pzb1eOacEclqzxQ%3D&
-https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/channel5
+https://aqfadtv.xyz/live/mewatch/channel5/index.mpd
 
 #EXTINF:-1 tvg-id="Channel8.sg" tvg-name="Channel 8" tvg-logo="https://www.mewatch.sg/image/5249134/16x9/947/533/47350f877c34609e643ae8c786ed8dd/Qc/suria.png" tvg-chno="24" channel-id="24" group-title="MeWatch SG",Channel 8
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2g4X2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiOTgyNjk5MSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=VmkG%2FnkMNDuNoZKk%2F1cG3xTZG5w%3D&
-https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/channel8
+https://aqfadtv.xyz/live/mewatch/channel8/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0328a153c2994b279ab03ab25102fc59&key=2cc69eaaa858fed24c5623654daf8d3d
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/channelu
 #EXTINF:-1 tvg-id="ChannelU.sg" tvg-name="Channel U" tvg-logo="https://static.epg.best/sg/ChannelU.sg.png" tvg-chno="25" channel-id="25" group-title="MeWatch SG",Channel U
-https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.mpd
+https://aqfadtv.xyz/live/mewatch/channelu/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=7a9ea6df52044841b0c562766e602610&key=b9380188b4896b25e8d419dfce938c6e
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/suria
 #EXTINF:-1 tvg-id="Suria" tvg-name="Suria" tvg-logo="https://www.mewatch.sg/image/5249134/16x9/947/533/47350f877c34609e643ae8c786ed8dd/Qc/suria.png" tvg-chno="26" channel-id="26" group-title="MeWatch SG",Suria
-https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.mpd
+https://aqfadtv.xyz/live/mewatch/suria/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=9970038ef6c548e39768f3a1ff6f5081&key=3e19d54b7bcd8bb336776fe136d48f57
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/vasantham
 #EXTINF:-1 tvg-id="Vasantham" tvg-name="Vasantham" tvg-logo="https://static.epg.best/sg/Vasantham.sg.png" tvg-chno="27" channel-id="27" group-title="MeWatch SG",Vasantham
-https://tglmp03.akamaized.net/out/v1/14eb6e921cae41298efaa4d9db0f2875/manifest.mpd
+https://aqfadtv.xyz/live/mewatch/vasantham/index.mpd
 
 #EXTINF:-1 tvg-id="ChannelNewsAsia.sg" tvg-name="Channel NewsAsia" tvg-logo="https://static.epg.best/sg/ChannelNewsAsia.sg.png" tvg-chno="28" channel-id="28" tvg-group="MeWatch SG" group-title="MYSG",Channel NewsAsia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
@@ -1517,10 +1517,17 @@ http://iptv.tvmalaysia.cc:80/penang172/penang172/6782
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6794
 #EXTINF:-1, group-title="AstroGO Exclusive" tvg-logo="https://telegra.ph/file/5a9a07485bc12f6b6a023.png",K-Plus
 http://zalogitv.tech:8080/live/mastro-top/2323/301.m3u8|user-agent=com.mastro.tv/2.0 (Linux;Android 9) ExoPlayerLib/2.8.4
+
 #EXTINF:-1, group-title="SINGAPORE" tvg-logo="https://telegra.ph/file/b14bd09ec1e428679a165.png",Channel 5
-http://185.180.221.194:8278/streams/d/Channel5/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/channel5
+https://aqfadtv.xyz/live/mewatch/channel5/index.mpd
+
 #EXTINF:-1, group-title="SINGAPORE" tvg-logo="https://telegra.ph/file/1a81fc95e0d837254d5d8.jpg",Channel 8
-http://185.180.221.194:8278/streams/d/Channel8/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/channel8
+https://aqfadtv.xyz/live/mewatch/channel8/index.mpd
+
 #EXTINF:-1, group-title="VOD" tvg-logo="",Demon Slayer: Mugen Train
 https://heroku.critozymirror.tk/0:/Demon%20Slayer%20-Kimetsu%20no%20Yaiba-%20Mugen%20Train%20Movie%20%5B1080p%5D%20%5BPSN%20WEBRip%5D%20%5BDual%20Audio%5D_MultiSubs.mkv
 
