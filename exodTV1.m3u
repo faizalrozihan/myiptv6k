@@ -2406,8 +2406,15 @@ https://unifi-live03.secureswiftcontent.com/UnifiHD/live03.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
-EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD 
-https://linears-playback.astro.com.my/vsg/41nXdDj9tmXOFE0tRAwj3i77zpYp-OnH06YUwxPmdTrV8=KElJ/dash-wv/jitp-linearwm/1004/default_primary.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD 
+https://linears-playback.astro.com.my/vsg/41RWXbI5_ObvgpYllyu1QkHSfhZ2Yyr_CTrboIJ8W1gSw=a-XB/dash-wv/jitp-linearwm/1004/default_ott.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
+#EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD 
+https://linears-playback.astro.com.my/vsg/41nXdDj9tmXOFE0tRAwj3i76HOZHMNcVmhPkrIWzZCTkc=2EF8/dash-wv/jitp-linearwm/1004/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png", PRIMA HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2423,13 +2430,15 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/2505/default_primary.mp
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CoDiDFaOiOU8cIfBxkkzGA", "kid":"qixlPwwFVnrig8SjJxqYEA" } ], "type":"temporary" }
-EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD  
-https://linears-playback.astro.com.my/vsg/41iFhU-KKqyLW0EM61UfnvAVplXAK_YXCJkNebVdu_iSE=dYz7/dash-wv/jitp-dashisowm/2402/default_primary.mpd
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD  
+https://linears-playback.astro.com.my/vsg/412YC97OfL0tRH7547SNxmrfWw_NBDg8TdhhiH1uHrTg0=Y2Df/dash-wv/jitp-dashisowm/2402/default_ott.mpd
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Warna.png/revision/latest?cb=20200823172850", Astro Warna
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CoDiDFaOiOU8cIfBxkkzGA", "kid":"qixlPwwFVnrig8SjJxqYEA" } ], "type":"temporary" }
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/2402/default.mpd
+#KODIPROP:inputstream.adaptive.license_key=aa2c653f0c05567ae283c4a3271a9810:0a80e20c568e88e53c7087c1c6493318
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD  
+https://linears-playback.astro.com.my/vsg/41iFhU-KKqyLW0EM61UfnvAUHsKaEwsJIfJUTeFcdS_YY=6N1E/dash-wv/jitp-dashisowm/2402/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://jepstoreott.jepstore057.workers.dev/0:/jepstore/jepstorelogobaru/themaskedsinger.png", The Masked Singer
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2440,13 +2449,29 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/9989/default_primary.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" }
-EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", CITRA HD
-https://linears-playback.astro.com.my/vsg/41CJTs6aYGh76t6znU5NkYNnEP3ylydet7qDv7W9zfi4c=llbW/dash-wv/jitp-dashisowm/2700/default_primary.mpd
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", CITRA HD
+https://linears-playback.astro.com.my/vsg/41O_F8KUa3u_jFFQIAtETDpGmcUWauRxRlG0v0YqAilOc=IId-/dash-wv/jitp-dashisowm/2700/default_ott.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=84bf9ad6848be7db20f9d16823deef10:654f2d25a5bfb27c9e5ae0852584a166
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", CITRA HD
+https://linears-playback.astro.com.my/vsg/41CJTs6aYGh76t6znU5NkYNrTRoFPnLY353LeYaLfs8fU=bDB8/dash-wv/jitp-dashisowm/2700/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Astro_Sensasi-en.png", SENSASI HD
 http://vo01.mohdtv.com:8880/voby1993/85233644/1705
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/508_144.png",Astro Premier
+#EXTINF:-1 tvg-logo="https://i.ibb.co/c8dS6nh/Sooka-Drama-Hebat.png",Drama Hebat 
+https://linearfast04.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_1_Ad/dash.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BZPWVtf/Sooka-Filem-Mantap.png",Filem Mantap 
+https://linearfast04.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_2_Ad/dash.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Rb4301D/Sooka-Lawak-Sentral.png",Lawak Sentral 
+https://linearfast04.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_3_Ad/dash.mpd
+
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremier.png",Astro Premier
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=88b324e7e763532b770d84d370d7c810:0ad1e7b2d71fd73a5c199739e534da4b
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5070/default.mpd
@@ -2536,21 +2561,6 @@ https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton4_720p/index.m3u8
 #EXTVLCOPT:http-referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056648&autoplay=1&mute=0 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 
 https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/c8dS6nh/Sooka-Drama-Hebat.png",Drama Hebat 
-https://linearfast04.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_1_Ad/dash.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BZPWVtf/Sooka-Filem-Mantap.png",Filem Mantap 
-https://linearfast04.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_2_Ad/dash.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Rb4301D/Sooka-Lawak-Sentral.png",Lawak Sentral 
-https://linearfast04.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_3_Ad/dash.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3N7HbYG/Sooka-Drama-Hotpot.png",Drama HotPot 
-https://linearfast04.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_4_Ad/dash.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hZbkZK8/Sooka-Travel-Taste.png",Travel & Taste 
-https://linearfast04.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_5_Ad/dash.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"9cIxIYX58MSJS3POF0GdjA", "kid":"hpwyN9L654MBqR27WpJNEA" } ], "type":"temporary" }
@@ -2680,7 +2690,7 @@ https://centerrrs.hypp.tv/PLTV/88888888/224/3221227925/3221227925.mpd?rrsip=cent
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Dw6mw1Q8Kdf1E+uIbrdPiA", "kid":"tuYMoNKOj5c5Xwe04uU6EA" } ], "type":"temporary" }
-  #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Ceria_v1.png", CERIA HD  
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Ceria_v1.png", CERIA HD  
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/2606/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
@@ -2986,13 +2996,18 @@ https://d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"EQD+KXFG99AktZlE8J5tGg", "kid":"yk9f9ORpTVS9/cm9NDhCkA" } ], "type":"temporary" } 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/f/f2/Astro_Arena_Bola_3_Logo_%282023%29.png",ASTRO ARENA BOLA 3 
+EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/f/f2/Astro_Arena_Bola_3_Logo_%282023%29.png",ASTRO ARENA BOLA 3 
 https://d1fk7kbmz4il3.cloudfront.net/CH3/masterCH3.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eupDzZPCSqmDTstJhPf9Wg", "kid":"IvvvHBzXJek5fsFkVfCCEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroSuperSportUHD.png",Astro UHD 
 https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1601/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"gFWGBqE6mdLFQ4ctiJnO0A", "kid":"icEMfvCvFFvn1uiN7AkLEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png",Astro Supersport Plus
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5076/default_primary.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5ESTFPV1l6TmpRdFpqaGlNaTAwWVRZNExXSTBNbVV0TkdNNVpXVXpNRE0wTVdRMCIsIndtb3BpZCI6MzIsImV4cCI6MTY5OTAxMzI0OSwiaWF0IjoxNjk4NDA5MjQ5fQ.hMm1MicFaf41RpNQk4KhRXqMMkakjnnoXxPpfNIPyeE"}
@@ -3022,11 +3037,6 @@ https://d3j4fjrwclc3o8.cloudfront.net/CH5/masterCH5.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"kf6+hDwIx8xSPv2CcpLkDg", "kid":"efQChzCsypq4sA8mFY3bEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png",Astro SuperSport 4 
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/2506/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"gFWGBqE6mdLFQ4ctiJnO0A", "kid":"icEMfvCvFFvn1uiN7AkLEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png",Astro Supersport Plus
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5076/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"zYTtE2sMxx+KuM1NT2ouTA", "kid":"A8Lgry+BWfnwzptdvIZfEA" } ], "type":"temporary" }
@@ -3104,7 +3114,7 @@ live************************
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.license_key=de761cd285aa2b1c1620d16ddbade010:f12de5f0de92c52f841705d9d6449d3a 
-#EXTINF:-1 tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/contenthub/shop/astro-go-256.png",AstroGo Live Event 1 
+EXTINF:-1 tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/contenthub/shop/astro-go-256.png",AstroGo Live Event 1 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/9989/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
@@ -3137,7 +3147,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5128/default.mpd
 #EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2017/03/DormMelati_2017_500.jpg",Dorm Melati
 https://ss259.sunseanet.com/stream/B/3D/SHVrZxS6rRidT6t2e3tWSxkphnM7nIak9szPIbIw/master.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTU2MmYxMzgtYzJjYy00ZGExLTg3MDItM2NlNDc1NjczOTIyXkEyXkFqcGdeQXVyMTUzMDA3Mjc2._V1_.jpg" group-title="VOD MALAY", Malbatt Misi Bakara 2023
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTU2MmYxMzgtYzJjYy00ZGExLTg3MDItM2NlNDc1NjczOTIyXkEyXkFqcGdeQXVyMTUzMDA3Mjc2._V1_.jpg", Malbatt Misi Bakara 2023
 https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/aqfantvscammer/VOD%20MALAY/Malbatt_%20Misi%20Bakara.mp4
 
 #EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KKGPO_IVP_LAND_917x516_2023128_14540.jpg", Gemencheh Boys 
@@ -3296,7 +3306,7 @@ https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/797de85f-
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9a094229e65d10f30efb6eadaf8e6f10:df41ae267b41ee683fc1f69643401a73
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://1.bp.blogspot.com/-GviwH7oxIKw/YLIy7LaBM6I/AAAAAAAALu8/CEb38em-tocWiziFGb59zPqLoxS27_fVACLcBGAsYHQ/w0/Tanah%2BKubur%2BPeneman.jpg",Tanah Kubur Peneman
+#EXTINF:-1 type="movie" group-title="SERAM" tvg-logo="https://1.bp.blogspot.com/-GviwH7oxIKw/YLIy7LaBM6I/AAAAAAAALu8/CEb38em-tocWiziFGb59zPqLoxS27_fVACLcBGAsYHQ/w0/Tanah%2BKubur%2BPeneman.jpg",Tanah Kubur Peneman
 https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/3fe33d1b-08ee-5a09-88b5-200adf59cb58/default_primary.mpd
   
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -3744,35 +3754,272 @@ https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/a78fcd65-
 #EXTINF:-1 type="movie" group-title="VOD THAI" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IWJSR_p_IVP_PORT_750x1126_20221028_72415.jpg",Pee Nak 2019
 https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/67f78b61-9c52-5ca4-bb51-14d359df0d17/default_primary.mpd
 
+#EXTINF:-1 type="series" group-title="KIDS SERIES" tvg-logo="https://static.wikia.nocookie.net/mechamato/images/f/f2/Mechamato_The_Animated_Series_Poster.jpg", Mechamato S01 E01
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/aqfantvscammer/DRAMA%20SIRI/MECHAMATO/S01/Mechamato%20The%20Animated%20Series_S01E01_Episode%201.mp4
+#EXTINF:-1 type="series" group-title="KIDS SERIES" tvg-logo="https://static.wikia.nocookie.net/mechamato/images/f/f2/Mechamato_The_Animated_Series_Poster.jpg", Mechamato S01 E02
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/aqfantvscammer/DRAMA%20SIRI/MECHAMATO/S01/Mechamato%20The%20Animated%20Series_S01E02_Episode%202.mp4
+#EXTINF:-1 type="series" group-title="KIDS SERIES" tvg-logo="https://static.wikia.nocookie.net/mechamato/images/f/f2/Mechamato_The_Animated_Series_Poster.jpg", Mechamato S01 E03
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/aqfantvscammer/DRAMA%20SIRI/MECHAMATO/S01/Mechamato%20The%20Animated%20Series_S01E03_Episode%203.mp4
+#EXTINF:-1 type="series" group-title="KIDS SERIES" tvg-logo="https://static.wikia.nocookie.net/mechamato/images/f/f2/Mechamato_The_Animated_Series_Poster.jpg", Mechamato S01 E04
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/aqfantvscammer/DRAMA%20SIRI/MECHAMATO/S01/Mechamato%20The%20Animated%20Series_S01E04_Episode%204.mp4
+#EXTINF:-1 type="series" group-title="KIDS SERIES" tvg-logo="https://static.wikia.nocookie.net/mechamato/images/f/f2/Mechamato_The_Animated_Series_Poster.jpg", Mechamato S01 E05
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/aqfantvscammer/DRAMA%20SIRI/MECHAMATO/S01/Mechamato%20The%20Animated%20Series_S01E05_Episode%205.mp4
+#EXTINF:-1 type="series" group-title="KIDS SERIES" tvg-logo="https://static.wikia.nocookie.net/mechamato/images/f/f2/Mechamato_The_Animated_Series_Poster.jpg", Mechamato S01 E06
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/aqfantvscammer/DRAMA%20SIRI/MECHAMATO/S01/Mechamato%20The%20Animated%20Series_S01E06_Episode%206.mp4
+#EXTINF:-1 type="series" group-title="KIDS SERIES" tvg-logo="https://static.wikia.nocookie.net/mechamato/images/f/f2/Mechamato_The_Animated_Series_Poster.jpg", Mechamato S01 E07
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/aqfantvscammer/DRAMA%20SIRI/MECHAMATO/S01/Mechamato%20The%20Animated%20Series_S01E07_Episode%207.mp4
+#EXTINF:-1 type="series" group-title="KIDS SERIES" tvg-logo="https://static.wikia.nocookie.net/mechamato/images/f/f2/Mechamato_The_Animated_Series_Poster.jpg", Mechamato S01 E08
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/aqfantvscammer/DRAMA%20SIRI/MECHAMATO/S01/Mechamato%20The%20Animated%20Series_S01E028_Episode%208.mp4
+#EXTINF:-1 type="series" group-title="KIDS SERIES" tvg-logo="https://static.wikia.nocookie.net/mechamato/images/f/f2/Mechamato_The_Animated_Series_Poster.jpg", Mechamato S01 E09
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/aqfantvscammer/DRAMA%20SIRI/MECHAMATO/S01/Mechamato%20The%20Animated%20Series_S01E09_Episode%209.mp4
+#EXTINF:-1 type="series" group-title="KIDS SERIES" tvg-logo="https://static.wikia.nocookie.net/mechamato/images/f/f2/Mechamato_The_Animated_Series_Poster.jpg", Mechamato S01 E10
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/aqfantvscammer/DRAMA%20SIRI/MECHAMATO/S01/Mechamato%20The%20Animated%20Series_S01E10_Episode%2010.mp4
+#EXTINF:-1 type="series" group-title="KIDS SERIES" tvg-logo="https://static.wikia.nocookie.net/mechamato/images/f/f2/Mechamato_The_Animated_Series_Poster.jpg", Mechamato S01 E11
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/aqfantvscammer/DRAMA%20SIRI/MECHAMATO/S01/Mechamato%20The%20Animated%20Series_S01E11_Episode%2011.mp4
+#EXTINF:-1 type="series" group-title="KIDS SERIES" tvg-logo="https://static.wikia.nocookie.net/mechamato/images/f/f2/Mechamato_The_Animated_Series_Poster.jpg", Mechamato S01 E12
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/aqfantvscammer/DRAMA%20SIRI/MECHAMATO/S01/Mechamato%20The%20Animated%20Series_S01E12_Episode%2012.mp4
+#EXTINF:-1 type="series" group-title="KIDS SERIES" tvg-logo="https://static.wikia.nocookie.net/mechamato/images/f/f2/Mechamato_The_Animated_Series_Poster.jpg", Mechamato S01 E13
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/aqfantvscammer/DRAMA%20SIRI/MECHAMATO/S01/Mechamato%20The%20Animated%20Series_S01E13_Episode%2013.mp4
+  
 
+#EXTINF:-1 type="series" group-title="KIDS SERIES" tvg-logo="https://images.justwatch.com/poster/260243298/s718/mechamato.jpg", Mechamato S02 E01
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/aqfantvscammer/DRAMA%20SIRI/MECHAMATO/S02/Mechamato%20The%20Animated%20Series_S02E01_Episode%201.mp4
 
+#EXTINF:-1 type="series" group-title="KIDS SERIES" tvg-logo="https://images.justwatch.com/poster/260243298/s718/mechamato.jpg", Mechamato S02 E02
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/aqfantvscammer/DRAMA%20SIRI/MECHAMATO/S02/Mechamato%20The%20Animated%20Series_S02E02_Episode%202.mp4
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD 
-http://newlife3.wanicelife.com:8880/29us041803/asdfwe332/1705?play_token=qZDKoCSCLS
+#EXTINF:-1 type="series" group-title="KIDS SERIES" tvg-logo="https://images.justwatch.com/poster/260243298/s718/mechamato.jpg", Mechamato S02 E03
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/aqfantvscammer/DRAMA%20SIRI/MECHAMATO/S02/Mechamato%20The%20Animated%20Series_S02E03_Episode%203.mp4
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD 
-https://smt.sky4k.eu.org/AEC_V6/index.php?id=AstroRiaHD
+#EXTINF:-1 type="series" group-title="KIDS SERIES" tvg-logo="https://images.justwatch.com/poster/260243298/s718/mechamato.jpg", Mechamato S02 E04
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/aqfantvscammer/DRAMA%20SIRI/MECHAMATO/S02/Mechamato%20The%20Animated%20Series_S02E04_Episode%204.mp4
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD 
-https://smt.sky4k.eu.org/AEC_V6/index.php?id=AstroRiaHD
+#EXTINF:-1 type="series" group-title="KIDS SERIES" tvg-logo="https://images.justwatch.com/poster/260243298/s718/mechamato.jpg", Mechamato S02 E05
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/aqfantvscammer/DRAMA%20SIRI/MECHAMATO/S02/Mechamato%20The%20Animated%20Series_S02E05_Episode%205.mp4
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD  
-http://newlife3.wanicelife.com:8880/29us041803/asdfwe332/1706?play_token=qZDKoCSCLS
+#EXTINF:-1 type="series" group-title="KIDS SERIES" tvg-logo="https://images.justwatch.com/poster/260243298/s718/mechamato.jpg", Mechamato S02 E06
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/aqfantvscammer/DRAMA%20SIRI/MECHAMATO/S02/Mechamato%20The%20Animated%20Series_S02E06_Episode%206.mp4
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD  
-https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroWarnaHD
+#EXTINF:-1 type="series" group-title="KIDS SERIES" tvg-logo="https://images.justwatch.com/poster/260243298/s718/mechamato.jpg", Mechamato S02 E07
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/aqfantvscammer/DRAMA%20SIRI/MECHAMATO/S02/Mechamato%20The%20Animated%20Series_S02E07_Episode%207.mp4
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD  
-https://smt.sky4k.eu.org/AEC_V6/index.php?id=AstroWarnaHD
+#EXTINF:-1 type="series" group-title="KIDS SERIES" tvg-logo="https://images.justwatch.com/poster/260243298/s718/mechamato.jpg", Mechamato S02 E08
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/aqfantvscammer/DRAMA%20SIRI/MECHAMATO/S02/Mechamato%20The%20Animated%20Series_S02E08_Episode%208.mp4
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", CITRA HD
-http://newlife3.wanicelife.com:8880/29us041803/asdfwe332/71146?play_token=qZDKoCSCLS
+#EXTINF:-1 type="series" group-title="KIDS SERIES" tvg-logo="https://images.justwatch.com/poster/260243298/s718/mechamato.jpg", Mechamato S02 E09
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/aqfantvscammer/DRAMA%20SIRI/MECHAMATO/S02/Mechamato%20The%20Animated%20Series_S02E019_Episode%209.mp4
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", CITRA HD
-https://smt.sky4k.eu.org/AEC_V6/index.php?id=AstroCitraHD
+#EXTINF:-1 type="series" group-title="KIDS SERIES" tvg-logo="https://images.justwatch.com/poster/260243298/s718/mechamato.jpg", Mechamato S02 E10
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/aqfantvscammer/DRAMA%20SIRI/MECHAMATO/S02/Mechamato%20The%20Animated%20Series_S02E10_Episode%2010.mp4
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", CITRA HD
-https://smt.sky4k.eu.org/AEC_V6/index.php?id=AstroCitraHD
+#EXTINF:-1 type="series" group-title="KIDS SERIES" tvg-logo="https://images.justwatch.com/poster/260243298/s718/mechamato.jpg", Mechamato S02 E11
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/aqfantvscammer/DRAMA%20SIRI/MECHAMATO/S02/Mechamato%20The%20Animated%20Series_S02E11_Episode%2011.mp4
+
+#EXTINF:-1 type="series" group-title="KIDS SERIES" tvg-logo="https://images.justwatch.com/poster/260243298/s718/mechamato.jpg", Mechamato S02 E12
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/aqfantvscammer/DRAMA%20SIRI/MECHAMATO/S02/Mechamato%20The%20Animated%20Series_S02E12_Episode%2012.mp4
+
+#EXTINF:-1 type="series" group-title="KIDS SERIES" tvg-logo="https://images.justwatch.com/poster/260243298/s718/mechamato.jpg", Mechamato S02 E13
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/aqfantvscammer/DRAMA%20SIRI/MECHAMATO/S02/Mechamato%20The%20Animated%20Series_S02E13_Episode%2013.mp4
+
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%274538874%27&EntityType=%27Item%27&EntityId=%27249924%27&Width=1920&Height=1080", Misteri Jam 12 S01 E01
+https://vod.tonton.com.my/vod/379/6478767/playlist_wifi_high.m3u8
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%274538874%27&EntityType=%27Item%27&EntityId=%27249924%27&Width=1920&Height=1080", Misteri Jam 12 S01 E02
+https://vod.tonton.com.my/vod/379/6478772/playlist_wifi_high.m3u8
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%274538874%27&EntityType=%27Item%27&EntityId=%27249924%27&Width=1920&Height=1080", Misteri Jam 12 S01 E03
+https://vod.tonton.com.my/vod/379/6478775/playlist_wifi_high.m3u8
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%274538874%27&EntityType=%27Item%27&EntityId=%27249924%27&Width=1920&Height=1080", Misteri Jam 12 S01 E04
+https://vod.tonton.com.my/vod/379/6478777/playlist_wifi_high.m3u8
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%274538874%27&EntityType=%27Item%27&EntityId=%27249924%27&Width=1920&Height=1080", Misteri Jam 12 S01 E05
+https://vod.tonton.com.my/vod/379/6478779/playlist_wifi_high.m3u8
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%274538874%27&EntityType=%27Item%27&EntityId=%27249924%27&Width=1920&Height=1080", Misteri Jam 12 S01 E06
+https://vod.tonton.com.my/vod/379/6478782/playlist_wifi_high.m3u8
+  
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%275302641%27&EntityType=%27Item%27&EntityId=%27323989%27&Width=1920&Height=1080", Misteri Jam 12 S02 E01
+https://vod.tonton.com.my/vod/379/6478786/playlist_wifi_high.m3u8
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%275302641%27&EntityType=%27Item%27&EntityId=%27323989%27&Width=1920&Height=1080", Misteri Jam 12 S02 E02
+https://vod.tonton.com.my/vod/379/6478792/playlist_wifi_high.m3u8
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%275302641%27&EntityType=%27Item%27&EntityId=%27323989%27&Width=1920&Height=1080", Misteri Jam 12 S02 E03
+https://vod.tonton.com.my/vod/379/6478795/playlist_wifi_high.m3u8
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%275302641%27&EntityType=%27Item%27&EntityId=%27323989%27&Width=1920&Height=1080", Misteri Jam 12 S02 E04
+https://vod.tonton.com.my/vod/379/6478798/playlist_wifi_high.m3u8
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%275302641%27&EntityType=%27Item%27&EntityId=%27323989%27&Width=1920&Height=1080", Misteri Jam 12 S02 E05
+https://vod.tonton.com.my/vod/379/6478800/playlist_wifi_high.m3u8
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%275302641%27&EntityType=%27Item%27&EntityId=%27323989%27&Width=1920&Height=1080", Misteri Jam 12 S02 E06
+https://vod.tonton.com.my/vod/379/6478803/playlist_wifi_high.m3u8
+
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/c18c758f33234ddbbf07a723293ab8a9/version/4/width/280/height/158",Suatukala
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"jDsLqB0RLpBMzc6dFna3kA", "kid":"g7Iyp6G+KE4UyvtB26MjEA" } ], "type":"temporary" }
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/8560bfa0-8a17-5207-9a5d-e5c1832c9faa/default_primary.mpd
+
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/2d5a36738a144006adf0aba1bb7976f7/version/4/width/280/height/158",Suatukala 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"+P9LMZ37wE8he9Z4nshiYQ", "kid":"+krEUvzbSdaJw9HyAqGxEA" } ], "type":"temporary" }
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/6195dfeb-64e7-5706-a93d-e07b3c0784ae/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9e7337397c870247930d935a8c65c610:c13a7b45c0f10302e625cce8892e9bd8
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://1.bp.blogspot.com/-yT_h--2fDU8/YWT9xSfqC6I/AAAAAAAAMao/7ojROqCu6rEVTViI0GQLqg64o7By4TbEgCLcBGAsYHQ/w0/Tahyul%2Btv3.jpg",Tahyul
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/0138d7e5-4a41-509e-8aa8-b414c9f30b5a/default_primary.mpd
+  
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=18455cf6321cddc7bcd090b6c4a6a610:4544c70738aa8213f822097894137644
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://www.themoviedb.org/t/p/w500/Kw3LsErdLPB8elchRGb47QoGkY.jpg",Dah Mati Pun Cantik
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/e73f3377-00c0-5e2f-96b0-23de1a8fe40c/default_primary.mpd
+  
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b5560bd5fc32b727b80be47ab6b93c10:4d197d6662145d7d66f5a90c25730691
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://1.bp.blogspot.com/-CF-T__GJ0n8/XacBA_s85GI/AAAAAAAAIoY/n5mcC-G68OM3FP6pYwkHaWZNAlxVhqukQCLcBGAsYHQ/w0/Penaklukan%2BSyaitan.jpg",Penaklukan Syaitan
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/ee1c65f8-6706-55bb-a56b-bf36e182dcde/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=89df0469810b213f02c61037f95b0310:92b4b5e743301226c6f363a26db2f615
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://4.bp.blogspot.com/-nj667QJKaqU/W869f3HeCXI/AAAAAAAAHFs/wn19Fr-Oj74cRBMDnpmUUxk8QRqcodQhwCLcBGAs/w0/Syirik.jpg",Syirik
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/780e151b-9b39-5e36-9eee-fad4f8dbdcb9/default_primary.mpd
+  
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=168275b1fa5f769d4342d56231dddf10:fad92039dae5171e887099b379ae6940
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://3.bp.blogspot.com/-5l4Hxqwl8JE/W8bd7wdB8DI/AAAAAAAAHEg/gkFgCEcn0YYwMRRuVmTM4tbzOY1TGkAOgCLcBGAs/w0/Korban%2BPenunggu%2BHospital.jpg",Korban Penunggu Hospital
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/0068368d-4fa5-5c62-97db-2803903e81df/default_primary.mpd
+  
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5808cee957dcbf708575dc8068efc910:517acba217bc33f6a18f169f18d7da53
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://3.bp.blogspot.com/-u1m40-Ko52I/W8HJq8JQ7VI/AAAAAAAACAg/83qA_7y6k1MfZqjLM7nW6f0ypt6rRzRNwCLcBGAs/s1600/Sinopsis%2BTelefilem%2BSetan%2BDalam%2BPoket%2B-%2BAstro%2BCitra.png",Setan Dalam Poket
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/80b8be56-c86e-5ad1-ad52-b94eab3543cc/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=www.jepstorecom/clearkey/tonton/LangBuana
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmM2YzkwNWYtNGRmYS00MzQwLTk1MjktMzNiMWVmNzI0MDEyXkEyXkFqcGdeQXVyMTUzMDA3Mjc2._V1_FMjpg_UX1000_.jpg",Lang Buana (2003)
+https://vod.tonton.com.my/vod/379/6447820/playlist_wifi_high.m3u8
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "AfLIIs2BTtM+/z4t4XbyQQ", "kid": "4U+7JV9+wTTOgyPIdApaEA"}], "type": "temporary"}
+#EXTVLCOPT:http-user-agent=OTT_1/v4.5.1
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JQWDL_IVP_LAND_672x378_20221028_23135.jpg",Penunggang Agama 2021
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/e8de65ae-81dc-5bea-965a-69088a68f190/default.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "3ObPIYQNQiN66Q+OyqUANw", "kid": "WvG0v/TPK4VWe2Vv/ACNEA"}], "type": "temporary"}
+#EXTVLCOPT:http-user-agent=OTT_1/v4.5.1
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JTGHE_p_IVP_PORT_390x585_2023331_13442.jpg",Penunggang Agama 2 2022
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/be490a43-c7a5-5ec7-9fd6-46b95a702ed1/default.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "eWiQJnO6zQ1+BySszX/mgQ", "kid": "eRg2LHig9aU06Pn8ViYdEA"}], "type": "temporary"}
+#EXTVLCOPT:http-user-agent=OTT_1/v4.5.1
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_HQBWW_series_p_IVP_PORT_390x585_20221029_10453.jpg",Munafik 2016
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/312fb914-a99d-55e1-9312-225d38ff08aa/default.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "Et1TqIvkfADRDTAP18CfFA", "kid": "fFDv6VoamCzgGKie3wfVEA"}], "type": "temporary"}
+#EXTVLCOPT:http-user-agent=OTT_1/v4.5.1
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_FNIZG_P_IVP_PORT_390x585_20221028_13587.jpg",Khurafat : Perjanjian Syaitan 2011
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/ae8ea782-4bb7-50c6-abf6-3d6701d7c4e2/default.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "D/aVOXsG4HJdakO/8qYcHQ", "kid": "T3tLwDRHV7nhkThEF39xEA"}], "type": "temporary"}
+#EXTVLCOPT:http-user-agent=OTT_1/v4.5.1
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_GMPAI_p_IVP_PORT_390x585_20221030_131229.jpg",Nujum Pak Belalang 1959
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/cb5eda30-0264-5912-946b-f1e8ae80ddc5/default.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "xSw1MgEGHAp9eRXOOd3D4A", "kid": "1ytFpDC5dK6Sn1/BqXtOEA"}], "type": "temporary"}
+#EXTVLCOPT:http-user-agent=OTT_1/v4.5.1
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_GOHBX_p_IVP_PORT_390x585_20221028_1354.jpg",Ali Baba Bujang Lapok 1961
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/557b8f09-ff70-531f-9db3-2c5f671e881a/default.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "nh18ci729n2aTNerMD1Acw", "kid": "5dFUdJ5EghNY/XAlaINDEA"}], "type": "temporary"}
+#EXTVLCOPT:http-user-agent=OTT_1/v4.5.1
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_GNPNQ_IVP_LAND_586x330_20221028_51939.jpg",Pendekar Bujang Lapok 1959
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/4d64370e-245a-58f9-a510-05d43e81e736/default.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "CQz/7/3IjdLJ7BLDzkttjw", "kid": "03nOegVES1pjR1+QPRNYEA"}], "type": "temporary"}
+#EXTVLCOPT:http-user-agent=OTT_1/v4.5.1
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_GNJVB_IVP_LAND_672x378_20221028_75738.jpg",Seniman Bujang Lapok 1961
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/b5d3f275-7a5d-5d4c-9dcc-7a1b0ac0326f/default.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "Tq0DwUNKVnuCrHLSmkuggQ", "kid": "Om6Cfj5k0iNnYeJJwuHbEA"}], "type": "temporary"}
+#EXTVLCOPT:http-user-agent=OTT_1/v4.5.1
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_FVRYX_IVP_LAND_672x378_20221028_51733.jpg",Bujang Lapok 1957
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/a59bd445-319e-53c9-baac-6eaccddc25c7/default.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "KP/9eWE4vqGc0l1zeBxd7A", "kid": "IBDlh+WH1wfqZfIVKuOhEA"}], "type": "temporary"}
+#EXTVLCOPT:http-user-agent=OTT_1/v4.5.1
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KFZLH_p_IVP_PORT_390x585_2023823_01534.jpg",Iblis Dalam Kandungan 2022
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/eeff4fe7-a516-5dbb-91ed-0d911ce345ee/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "BLaBEgJep4l7lJK6P6aubw", "kid": "PI7ZZiNFWDJecvCgKxJ8EA"}], "type": "temporary"}
+#EXTVLCOPT:http-user-agent=OTT_1/v4.5.1
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_GNADO_IVP_LAND_448x252_20221028_51453.jpg",Sargeant Hassan 1958
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/92a1547a-f25e-5832-a35e-9898ae4b2a4e/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "SBHtsmf5qz3uF4H90i6Rag", "kid": "VogQx12TcR2AoAHJBFSXEA"}], "type": "temporary"}
+#EXTVLCOPT:http-user-agent=OTT_1/v4.5.1
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_FZBMO_IVP_LAND_448x252_20221027_191234.jpg",Musang Berjanggut 1959
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/c7622e9d-d629-5f39-a274-6ca729874360/default_primary.mpd
 
 ############################## Malay  ########################################
 
