@@ -1,12 +1,12 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" refresh="3600"
 
 --------------------------TV1---------------------------
-#EXTINF:-1 tvg-id="TV1 HD" group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",TV1
+#EXTINF:-1 tvg-id="TV1" group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",TV1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 --------------------------------------------------------
 
 --------------------------TV2---------------------------
-#EXTINF:-1 tvg-id="TV2 HD" group-title="Malaysia" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708070724242ygr.png",TV2
+#EXTINF:-1 tvg-id="TV2" group-title="Malaysia" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708070724242ygr.png",TV2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 --------------------------------------------------------
 
@@ -23,7 +23,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 --------------------------------------------------------
 
 --------------------------NTV7--------------------------
-#EXTINF:-1 tvg-id="DidikTV KPM" group-title="Malaysia" tvg-logo="https://didik.tv/images/logotv2.png",DidikTV KPM
+#EXTINF:-1 tvg-id="DidikTVKPM" group-title="Malaysia" tvg-logo="https://didik.tv/images/logotv2.png",DidikTV KPM
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4EDKKqQm33ibo4S6VhiRtA", "kid":"R6Ega0SCLIkyDnCRbPV7DA" } ], "type":"temporary" }
 https://unifi-live06.secureswiftcontent.com/UnifiHD/live06.mpd
@@ -56,14 +56,14 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 --------------------------------------------------------
 
 ----------------------AL-HIJRAH-------------------------
-#EXTINF:-1 group-title="Malaysian Variety" tvg-id="Al-Hijrah" tvg-chno="114" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716072749378meg.png",114 TV Alhijrah
+#EXTINF:-1 group-title="Malaysian Variety" tvg-id="TVAlhijrah" tvg-chno="114" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716072749378meg.png",114 TV Alhijrah
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"V6jW+eODKIfbGOpgcRGHNg", "kid":"QaQvta9FdQHBG7mxWNWhEA" } ], "type":"temporary" }
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/1113/default_primary.mpd
 --------------------------------------------------------
 
 --------------------ASTRO RIA---------------------------
-#EXTINF:-1 tvg-id="Astro Ria HD" group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Astro_Ria_HD.png",ASTRO RIA
+#EXTINF:-1 tvg-id="AstroRia" group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Astro_Ria_HD.png",ASTRO RIA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd
@@ -72,12 +72,12 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/1004/default_primary.mp
 -------------------ASTRO PRIMA--------------------------
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hBL0RP++NQzy7OBR+RUukA", "kid":"C2Uyau3j7b6B5vtAMX1TEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="Astro Prima HD" tvg-name="ASTRO PRIMA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/Astro_Prima.png" group-title="Malaysia",ASTRO PRIMA HD
+#EXTINF:-1 tvg-id="AstroPrima" tvg-name="ASTRO PRIMA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/Astro_Prima.png" group-title="Malaysia",ASTRO PRIMA HD
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
 ----------------------------------------------------------
 
 ------------------ASTRO WARNA----------------------------
-#EXTINF:-1 tvg-id="Astro Warna HD" tvg-name="ASTRO WARNA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Astro_Warna_NEW.png" group-title="Malaysia",ASTRO WARNA HD
+#EXTINF:-1 tvg-id="AstroWarna" tvg-name="ASTRO WARNA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Astro_Warna_NEW.png" group-title="Malaysia",ASTRO WARNA HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2402
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/2402/default_primary.mpd
@@ -86,18 +86,22 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/2402/default_primary.mp
 -----------------BOO---------------------------------------
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8yZr7GB/JYefSGQPMPHIiA", "kid":"6k1RreAbvzlG4N6XMFG6EA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="BOO HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/251_144.png" group-title="Malaysia",BOO
+#EXTINF:-1 tvg-id="BOO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/251_144.png" group-title="Malaysia",BOO
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/2407/default_primary.mpd
 ------------------------------------------------------------
 
 ------------------NAURA-------------------------------------
-#EXTINF:-1 tvg-id="Naura HD" group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/299_144.png",Naura
-http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
+#EXTINF:-1 tvg-id="AstroRania" group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/299_144.png",Naura
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"jkIAv1xNUj/wC/0XPQIWAg", "kid":"eExgN+WIjoQQbkEFn+KxEA" } ], "type":"temporary" }
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/608/default.mpd
 ------------------------------------------------------------
 
 -----------------HELLO--------------------------------------
-#EXTINF:-1 tvg-id="Hello HD" group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/296_144.png",Hello
-https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
+#EXTINF:-1 tvg-id="AstroPremier" group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/296_144.png",Hello
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Q4+2LpcnhSZobZIRJjQ9Mg", "kid":"LzI4FCNIeJ7VqZuaG9jgEA" } ], "type":"temporary" }
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5128/default_primary.mpd
 -------------------------------------------------------------
 
 --------------------TVS---------------------------------------
@@ -125,7 +129,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 ------------------------------------------------------------------
 
 -------------------ASTRO CITRA------------------------------------
-#EXTINF:-1 tvg-id="Astro Citra HD" tvg-name="ASTRO CITRA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/Astro_Citra_HD.png" group-title="MOVIES",ASTRO CITRA HD
+#EXTINF:-1 tvg-id="AstroCitra" tvg-name="ASTRO CITRA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/Astro_Citra_HD.png" group-title="MOVIES",ASTRO CITRA HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2700
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/2700/default_primary.mpd
@@ -179,12 +183,12 @@ http://1.9.62.158/PLTV/88888888/224/3221227498/3221227498.mpd
 -------------------FOX MOVIES------------------------------------
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"yg0YU4hFuuLLT0oWgDbxdA", "kid":"uAkMg2HMXMXBqsDsJxDeEA" } ], "type":"temporary" }
-#EXTINF:-1 group-title="Movies" tvg-id="FOX Movies HD" tvg-chno="401" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/TZOsc0lY",401 FOX Movies HD
+#EXTINF:-1 group-title="Movies" tvg-id="Showcase" tvg-chno="401" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/TZOsc0lY",401 FOX Movies HD
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/5054/default_primary.mpd
 ------------------------------------------------------------------
 
 -------------------FOX Life------------------------------------
-#EXTINF:-1 group-title="International Variety" tvg-id="FOXlife HD" tvg-chno="455" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073811029jld.png",455 FOX Life
+#EXTINF:-1 group-title="International Variety" tvg-id="Lifetime" tvg-chno="455" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073811029jld.png",455 FOX Life
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GDs+r6TILmj3TEJE1UkGsA", "kid":"jeEeAF21vQ24IogUhjzTEA" } ], "type":"temporary" }
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/5052/default_primary.mpd
@@ -193,54 +197,54 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/5052/default_primary.mp
 -------------------HBO------------------------------------
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8/hCxUzJbLvQvLlqTLioEw", "kid":"oJiJbSsRxfOQapk8O6XGEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="HBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png" tvg-name="HBO" group-title="MOVIES",HBO
+#EXTINF:-1 tvg-id="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png" tvg-name="HBO" group-title="MOVIES",HBO
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/2304/default_primary.mpd
 ------------------------------------------------------------------
 
 -------------------HITS MOVIES------------------------------------
 KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"OPv7OlbkD/ksnfisvLqe9g", "kid":"/x/r1wGNDdcRYB55Xg1iEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="HITS Movies HD" group-title="MOVIES" tvg-logo="https://telegra.ph/file/7061b5391ad43ed025acf.png",HITS MOVIES
+#EXTINF:-1 tvg-id="HITSMovies" group-title="MOVIES" tvg-logo="https://telegra.ph/file/7061b5391ad43ed025acf.png",HITS MOVIES
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/2305/default_primary.mpd
 ------------------------------------------------------------------
 
 -------------------HBO HITS------------------------------------
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eWE5ugWiq0Jfl4x/2YtDcg", "kid":"XWAOtwlE1oHCbB9I++YfEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="HBO Hits HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" tvg-name="HBO HITS" group-title="MOVIES",HBO HITS
+#EXTINF:-1 tvg-id="HBOHits1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" tvg-name="HBO HITS" group-title="MOVIES",HBO HITS
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/5055/default_primary.mpd
 ------------------------------------------------------------------
 
 -------------------CINEMAX------------------------------------
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"E8xTWtSnMgEUeGPKw4bN0w", "kid":"79sqjTkVHMOfS1HXYs+cEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="CINEMAX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" tvg-name="CINEMAX" group-title="MOVIES",CINEMAX
+#EXTINF:-1 tvg-id="Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" tvg-name="CINEMAX" group-title="MOVIES",CINEMAX
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/603/default_primary.mpd
 ------------------------------------------------------------------
 
 -------------------TVN MOVIES------------------------------------
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"0SzOuvu6KlNdiKMIf4hCUg", "kid":"jiaciqMq1364MGgxI0PWEA" } ], "type":"temporary" }
-#EXTINF:-1 group-title="Movies" tvg-id="tvN Movies HD" tvg-chno="416" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190723/20190723084311221wnu.png",416 tvN Movies HD
+#EXTINF:-1 group-title="Movies" tvg-id="tvNMovies" tvg-chno="416" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190723/20190723084311221wnu.png",416 tvN Movies HD
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/2406/default_primary.mpd
 ------------------------------------------------------------------
 
 -------------------TVN------------------------------------
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GegOzF0zchXGQATLScnLAQ", "kid":"+vTWK7iY3lA0RsKPsaqSEA" } ], "type":"temporary" }
-#EXTINF:-1 group-title="International Variety" tvg-id="tvN HD" tvg-chno="395" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716065439314yz3.png",395 tvN HD
+#EXTINF:-1 group-title="International Variety" tvg-id="tvN" tvg-chno="395" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716065439314yz3.png",395 tvN HD
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/1001/default_primary.mpd
 ------------------------------------------------------------------
 
 -------------------KBS WORLD------------------------------------
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"6txiarlZJV96uIHAPTBv4g", "kid":"aSlQ05hpySr5qd3qRTwNEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="KBS World HD" group-title="International Variety" tvg-logo="https://telegra.ph/file/f0c78541d975e72aa461d.png",392 KBS World HD
+#EXTINF:-1 tvg-id="KBSWorld" group-title="International Variety" tvg-logo="https://telegra.ph/file/f0c78541d975e72aa461d.png",392 KBS World HD
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/2306/default_primary.mpd
 ------------------------------------------------------------------
 
 -------------------ZEE CINEMA------------------------------------
-#EXTINF:-1 tvg-id="Zee Cinema" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/zeecinema.png" group-title="MOVIES",ZEE CINEMA
+#EXTINF:-1 tvg-id="ZeeCinema" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/zeecinema.png" group-title="MOVIES",ZEE CINEMA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"IPOS5aECG+aPwyvNuew61A", "kid":"25ZIOQB2LiM6p4MEV6DTEA" } ], "type":"temporary" }
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/5106/default_primary.mpd
