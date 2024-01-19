@@ -18,12 +18,12 @@ https://live-streams-ssai-01.tonton.com.my/live/2dd2b7cd-1b34-4871-b669-57b5c9be
 #EXTINF:-1 tvg-id="TV6" group-title="MALAYSIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/TV6_RTM.png/140px-TV6_RTM.png",TV6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 
-#EXTINF:-1 tvg-id="107" group-title="MALAYSIA" tvg-logo="https://didik.tv/images/logotv2.png",DidikTV KPM
+#EXTINF:-1 tvg-id="DidikTVKPM" group-title="MALAYSIA" tvg-logo="https://didik.tv/images/logotv2.png",DidikTV KPM
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4EDKKqQm33ibo4S6VhiRtA", "kid":"R6Ega0SCLIkyDnCRbPV7DA" } ], "type":"temporary" }
 https://unifi-live06.secureswiftcontent.com/UnifiHD/live06.mpd
 
-#EXTINF:-1 tvg-id="107" group-title="MALAYSIA" tvg-logo="https://didik.tv/images/logotv2.png",DidikTV KPM
+#EXTINF:-1 tvg-id="DidikTVKPM" group-title="MALAYSIA" tvg-logo="https://didik.tv/images/logotv2.png",DidikTV KPM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056641&autoplay=1&mute=0
 https://live-streams-ssai-01.tonton.com.my/live/0e27ef78-4cc9-4c62-bec9-5c946c9e7354/cmaf.isml/.m3u8
@@ -58,16 +58,16 @@ https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
 https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8
 
-#EXTINF:-1 tvg-id="110" group-title="MALAYSIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",OKEY
+#EXTINF:-1 tvg-id="OKEY" group-title="MALAYSIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",OKEY
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 
-#EXTINF:-1 tvg-id="114" tvg-name="TV Alhijrah" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/d/da/Logo_TV_Alhijrah.png" group-title="MALAYSIA",TV Alhijrah
+#EXTINF:-1 tvg-id="TVAlhijrah" tvg-name="TV Alhijrah" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/d/da/Logo_TV_Alhijrah.png" group-title="MALAYSIA",TV Alhijrah
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"V6jW+eODKIfbGOpgcRGHNg", "kid":"QaQvta9FdQHBG7mxWNWhEA" } ], "type":"temporary" }
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/1113/default_primary.mpd
 
-#EXTINF:-1 tvg-id="123" group-title="MALAYSIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Logo_Berita_RTM.png",Berita RTM
+#EXTINF:-1 tvg-id="BERITARTM" group-title="MALAYSIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Logo_Berita_RTM.png",Berita RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
 
-#EXTINF:-1 tvg-id="111" group-title="MALAYSIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/RTM_Sports.png",Sukan RTM
+#EXTINF:-1 tvg-id="TVSUKAN" group-title="MALAYSIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/RTM_Sports.png",Sukan RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
