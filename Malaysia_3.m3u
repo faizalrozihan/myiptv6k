@@ -124,7 +124,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
 ------------------------------------------------------------------
 
 -------------------RTM SPORTS------------------------------------
-#EXTINF:-1 tvg-id="TVSUKAN" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/RTM_Sports.png",RTM Sports HD
+#EXTINF:-1 tvg-id="TVSUKAN" group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/Sukan_RTM_1_April.png/revision/latest?cb=20210408125347",RTM Sports HD
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 ------------------------------------------------------------------
 
