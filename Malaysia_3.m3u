@@ -136,10 +136,10 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/2700/default_primary.mp
 ------------------------------------------------------------------
 
 -------------------DUNIA CINEMA------------------------------------
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XwbW5xMzNV60uJG01fUJdQ", "kid":"IEsTi0zUlCNmh6AWzyCloQ" } ], "type":"temporary" }
 #EXTINF:-1 group-title="Movies" tvg-id="" tvg-chno="128" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png",128 Dunia Sinema HD
-https://aqfadtv.xyz/live/unifitv/duniasinema/index.mpd
+https://unifi-live27.secureswiftcontent.com/UnifiHD/live27.mpd
 ------------------------------------------------------------------
 
 -------------------WARNER TV------------------------------------
