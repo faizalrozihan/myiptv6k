@@ -69,5 +69,5 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/1113/default_primary.mp
 #EXTINF:-1 tvg-id="BERITARTM" group-title="MALAYSIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Logo_Berita_RTM.png",Berita RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
 
-#EXTINF:-1 tvg-id="TVSUKAN" group-title="MALAYSIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/RTM_Sports.png",Sukan RTM
+#EXTINF:-1 tvg-id="TVSUKAN" group-title="MALAYSIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/Sukan_RTM_1_April.png/revision/latest?cb=20210408125347",Sukan RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
