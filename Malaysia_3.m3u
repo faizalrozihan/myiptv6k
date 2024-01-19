@@ -33,14 +33,14 @@ https://unifi-live06.secureswiftcontent.com/UnifiHD/live06.mpd
 #EXTINF:-1 tvg-id="8TV" group-title="Malaysia" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/148.png",8TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BW4eSVc9LK7ly0/nj4xPPQ", "kid":"qcYZB07TjCDiWtNsPFfBDA" } ], "type":"temporary" }
-https://unifi-live06.secureswiftcontent.com/UnifiHD/live08.mpd
+https://unifi-live08.secureswiftcontent.com/UnifiHD/live08.mpd
 --------------------------------------------------------
 
 --------------------------TV9---------------------------
 #EXTINF:-1 tvg-id="TV9" group-title="Malaysia" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/149.png",TV9
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Zfavh1DSSyMNkbmEI3rB5A", "kid":"HfqKZFr0HoPFIL3fkTk0yg" } ], "type":"temporary" }
-https://unifi-live06.secureswiftcontent.com/UnifiHD/live09.mpd
+https://unifi-live09.secureswiftcontent.com/UnifiHD/live09.mpd
 --------------------------------------------------------
 
 -----------------------DRAMA SANGAT---------------------
