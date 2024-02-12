@@ -3511,7 +3511,7 @@ https://mediaprima.rastream.com/mediaprima-koolfm
 #EXTINF:-1 group-title="Radio" radio="true" tvg-id="24.7.Dummy.us" tvg-logo="https://pwaimg.listenlive.co/FLYFM_992391_config_station_logo_image_1408891150.png",Fly FM
 https://mediaprima.rastream.com/mediaprima-flyfm
 
-#EXTINF:-1 group-title="Radio" radio="true" tvg-id="24.7.Dummy.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/8FM2021.png" tvg-url="" group-title="Radio-MY" radio="true",8FM
+#EXTINF:-1 group-title="Radio" radio="true" tvg-id="24.7.Dummy.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/8FM2021.png" tvg-url="" group-title="Radio" radio="true",8FM
 https://mediaprima.rastream.com/mediaprima-onefm
 
 #EXTINF:-1 group-title="Radio" radio="true" tvg-id="24.7.Dummy.us" tvg-logo="https://i.ibb.co/Ms7nftD/MolekFM.png",Molek FM
@@ -4020,7 +4020,7 @@ http://162.244.80.52:5960/;stream.aac
 https://stream.zeno.fm/257h4znsgy8uv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9dIWYDB.jpg" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio",Win Radio
 https://streamingv2.shoutcast.com/915-win-radio-manila
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Wish_107.5_%282015%29.svg/1200px-Wish_107.5_%282015%29.svg.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-PH",Wish 107.5
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Wish_107.5_%282015%29.svg/1200px-Wish_107.5_%282015%29.svg.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio",Wish 107.5
 https://play.wishfm.com/radio/wish.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UeUuSYh.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio",Yes 101.1
 https://s2.radio.co/sa85100da7/listen
