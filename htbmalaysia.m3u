@@ -115,7 +115,11 @@ https://linearfast05.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f8
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5071/default.mpd
 
 #EXTINF:-1 tvg-id="AstroAwani" group-title="News" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/436_144.png",Astro Awani 
-
+https://raw.githubusercontent.com/AqFad2811/randomlivefromyt/main/astroawani.m3u8
+# https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_3.m3u8
+# #KODIPROP:inputstream.adaptive.license_type=clearkey
+# #KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=Miepalong7&channelid=5025/
+# https://linearjitp02-playback.astro.com.my/dash-wv/linear/5025/default.mpd
 
 #EXTINF:-1 tvg-id="BERNAMA" group-title="News" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/160_144.png",BERNAMA 
 https://raw.githubusercontent.com/AqFad2811/BernamaHDYT/main/youtube.m3u8
