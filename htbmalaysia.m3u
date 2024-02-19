@@ -493,7 +493,7 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/2304/default_primary.mp
 ------------------------------------------------------------------
 
 -------------------HITS MOVIES------------------------------------
-KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"OPv7OlbkD/ksnfisvLqe9g", "kid":"/x/r1wGNDdcRYB55Xg1iEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="HITSMovies" group-title="MOVIES" tvg-logo="https://telegra.ph/file/7061b5391ad43ed025acf.png",HITS MOVIES
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/2305/default_primary.mpd
